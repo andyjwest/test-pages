@@ -1,0 +1,13 @@
+[
+	{
+		"id":1,
+		"name":"Name",
+		"path":"name",
+		"active":false
+	}, {
+		"id":2,
+		"name":"Two",
+		"path":"two",
+		"active":false
+	}
+]
