@@ -9,7 +9,7 @@ class BlogPost extends React.Component {
 	}
 
 	componentWillMount(){
-		fetch('/posts/testOne.md').then(response => {return response.text()})
+		fetch('https://raw.githubusercontent.com/andyjwest/test-pages/master/public/posts/testOne.md').then(response => {return response.text()})
 		.then(text => {
 			this.setState({markdown: text})
 		})

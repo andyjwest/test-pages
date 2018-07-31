@@ -6,9 +6,10 @@ import BlogPost from './BlogPost.js';
 import categories from './data/categories.json';
 
 class App extends Component {
+
   render() {
-    var routes = {};
-    for (var i = categories.length - 1; i >= 0; i--) {
+    let routes = {};
+    for (let i = categories.length - 1; i >= 0; i--) {
       routes[categories[i].path] = {};
     }
     

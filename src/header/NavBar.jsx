@@ -14,13 +14,17 @@ class NavBar extends Component{
 	}
 
 	componentDidMount() {
+        fetch('/mock.json').then(response => {return response.text()})
+            .then(text => {
+                this.setState({categories: text})
+            });
 		this.setNavItemToActive(0);
   	}
 
 	setNavItemToActive(navItemId){
 		const categories = this.state.categories;
-		var buttons = [];
-		for (var i = categories.length - 1; i >= 0; i--) {
+		const buttons = [];
+		for (let i = categories.length - 1; i >= 0; i--) {
 			buttons[i] = <NavItem category={categories[i]} key={categories[i].id} active={navItemId === i}/>;
 		}
 
@@ -37,7 +41,7 @@ class NavBar extends Component{
 	render() {
 		return (
 			<nav className="navbar navbar-expand-lg navbar-dark bg-dark">
-			 <div className="collapse navbar-collapse" id="navbarSupportedContent">
+			 <div className="collapse navbar-collapse container" id="navbarSupportedContent">
 			    <ul className="navbar-nav mr-auto">
 			      <li className="nav-item active">
 			        <a className="nav-link" onClick={()=>{Aviator.navigate("home")}}>Home <span className="sr-only">(current)</span></a>
