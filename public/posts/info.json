@@ -1,0 +1,37 @@
+[
+  {
+    "id": "be_a_better",
+    "title": "Be a Better",
+    "path": "/be_a_better",
+    "posts": [
+      {
+        "name": "testTwo.md",
+        "path": "/be_a_better/testTwo",
+        "url": "/posts/be_a_better/testTwo.md"
+      }
+    ]
+  },
+  {
+    "id": "build_a_better",
+    "title": "Build a Better",
+    "path": "/build_a_better",
+    "posts": [
+      {
+        "name": "build_a_better_intro.md",
+        "path": "/build_a_better/build_a_better_intro",
+        "url": "/posts/build_a_better/build_a_better_intro.md"
+      },
+      {
+        "name": "build_a_better_two.md",
+        "path": "/build_a_better/build_a_better_two",
+        "url": "/posts/build_a_better/build_a_better_two.md"
+      }
+    ]
+  },
+  {
+    "id": "gods",
+    "title": "Gods",
+    "path": "/gods",
+    "posts": []
+  }
+]

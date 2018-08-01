@@ -1,4 +1,12 @@
 {
-  "name":"Be a Better",
-  "path":"be-a-better"
+  "id": "be_a_better",
+  "title": "Be a Better",
+  "path": "/be_a_better",
+  "posts": [
+    {
+      "name": "testTwo.md",
+      "path": "/be_a_better/testTwo",
+      "url": "/posts/be_a_better/testTwo.md"
+    }
+  ]
 }

@@ -1,52 +1,41 @@
 import React, { Component } from 'react';
-import Aviator from 'aviator';
 import NavItem from './NavItem.jsx';
-import categories from '../data/categories.json';
+import {NavLink} from 'react-router-dom';
 
 class NavBar extends Component{
 
 	constructor(props){
 		super(props);
 		this.state = {
-			navItems: [],
-			categories: categories
+			activeId: null
 		}
+        this.handleItemClick = this.handleItemClick.bind(this);
 	}
 
-	componentDidMount() {
-        fetch('/mock.json').then(response => {return response.text()})
-            .then(text => {
-                this.setState({categories: text})
-            });
-		this.setNavItemToActive(0);
-  	}
-
-	setNavItemToActive(navItemId){
-		const categories = this.state.categories;
-		const buttons = [];
-		for (let i = categories.length - 1; i >= 0; i--) {
-			buttons[i] = <NavItem category={categories[i]} key={categories[i].id} active={navItemId === i}/>;
-		}
-
-		this.setState({navItems: buttons});
+	handleItemClick(navItemId){
+        this.setState({
+            "activeId":navItemId
+        })
 	}
-
-	// handleItemClick(navItemId){
-	// 	const selectedCategory = categories.find(category => category.id === navItemId);
-	// 	Aviator.navigate(selectedCategory.path);
-	// 	this.setNavItemToActive(selectedCategory.id);
-	// }
 
 
 	render() {
+		let navItems;
+		if(this.props.categories != null){
+		    navItems = this.props.categories.map(category => (
+                <NavItem category={category} clickHandler={this.handleItemClick} key={category.id} active={this.state.activeId === category.id}/>
+        ));
+        }
 		return (
 			<nav className="navbar navbar-expand-lg navbar-dark bg-dark">
 			 <div className="collapse navbar-collapse container" id="navbarSupportedContent">
 			    <ul className="navbar-nav mr-auto">
-			      <li className="nav-item active">
-			        <a className="nav-link" onClick={()=>{Aviator.navigate("home")}}>Home <span className="sr-only">(current)</span></a>
+			      <li className="nav-item">
+                      <NavLink to="/" activeClassName="active" exact={true}>
+                          <span className="nav-link">Home</span>
+                      </NavLink>
 			      </li>
-			      {this.state.navItems}
+                    {navItems}
 			    </ul>
 			  </div>
 			</nav>

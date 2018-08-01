@@ -9,16 +9,19 @@ class BlogPost extends React.Component {
 	}
 
 	componentWillMount(){
-		fetch('https://raw.githubusercontent.com/andyjwest/test-pages/master/public/posts/testOne.md').then(response => {return response.text()})
-		.then(text => {
-			this.setState({markdown: text})
-		})
+		fetch(this.props.post.url)
+			.then(response => response.text())
+			.then(text => this.setState({
+				markdown: text
+			}))
+
 	}
 
 	render(){
 		return (
 			<div className="container">
 				<ReactMarkdown source={this.state.markdown}/>
+            <hr />
 			</div>
 		);
 	}

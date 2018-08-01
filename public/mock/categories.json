@@ -1,5 +1,4 @@
-{
-  "categories": [
+[
     {
       "name": "be_a_better",
       "path": "public/posts/be_a_better",
@@ -17,10 +16,10 @@
       }
     },{
       "name": "build_a_better",
-      "path": "public/posts/build_a_better",
+      "path": "mock/posts/build_a_better",
       "sha": "5bc8567b4bfca93e922016d5149ef28b3c8af2fd",
       "size": 0,
-      "url": "https://api.github.com/repos/andyjwest/test-pages/contents/public/posts/build_a_better?ref=master",
+      "url": "/posts/build_a_better",
       "html_url": "https://github.com/andyjwest/test-pages/tree/master/public/posts/build_a_better",
       "git_url": "https://api.github.com/repos/andyjwest/test-pages/git/trees/5bc8567b4bfca93e922016d5149ef28b3c8af2fd",
       "download_url": null,
@@ -31,5 +30,4 @@
         "html": "https://github.com/andyjwest/test-pages/tree/master/public/posts/build_a_better"
       }
     }
-  ]
-}
+]

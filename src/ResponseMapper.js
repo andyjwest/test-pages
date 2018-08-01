@@ -1,11 +1,25 @@
 function mapCategory(array){
-    let categoriesResponse = array.filter(category => category.type = "dir");
-    let categories = [];
-    for (let i = 0; i < categoriesResponse.length; i++) {
-        let category = {
-            "name": categoriesResponse[i].
-        }
-    }
+    return array.filter(category => category.type = "dir")
+        .map(response => {
+            return {
+                "name": response.name,
+                "posts": mapPostsToCategory(response.url)
+            }
+        });
 }
 
-export default
+function mapPostsToCategory(url){
+    return fetch(url).then(response => {return response.json()})
+        .then(array => {
+            array.filter(file => file.type = "file")
+                .map(file => {
+                    return {
+                        "name": file.name,
+                        "url": file.download_url
+                    }
+                })
+
+        });
+}
+
+export default mapCategory;
