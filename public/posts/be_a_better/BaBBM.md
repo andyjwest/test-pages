@@ -7,6 +7,18 @@ As you dive into the option, however, it starts to feel clunky. You have to give
 
 So how do we take the Beast Master archetype and transform it into a powerhouse option? Normally, we'd adress each portion of a feature bit by bit to address certain builds. Here, because of the complexity of the Ranger's Companion feature, we are primarily focusing on what it can do and how to get the most out of it. 
 
+## Naivigating the Guide
+<!-- Each links to a section within the guide -->
+|Section| Descriptions|
+|:--:|:--|
+|Choosing a Companion| Focus on Unique features, build around specific companion traits|
+|Companion Utilty| Perks of flight, senses, types of movement, and skills
+|Companions by Category| Break downs of tiny, damaging, mountable, and combat utilty companions| 
+|Spell Support| What spells function well with certain kinds of companions|
+|Features beyond Ranger's Comapnion| How to milk a little extra value from the remaining features|
+| Builds| PDF sample builds for three different Beast Master Rangers 
+
+
 
 ### How the Companion Actually Works
 To full understand how to use the option in and out of combat, we need to know exactly what it does. Understanding all of the context around the Ranger's Companion feature greatly improve the power of the option, from knowing what can and can't be a companion to understanding where it is designed to shine.  
@@ -69,7 +81,7 @@ One huge perk to having tiny companions is their size. Being able to fit into pl
 #### Mountable Companions
 Mounted rangers can take advantage of a medium sized creature's regular speed, swim speed or climb speed in ways that can be advantageous. Notably the **panther, giant spider, boar, giant frog, mastiff, giant badger, and wolf** stand out in this category but most medium companions will do. The following rules explain how mounted combat works (excluding explanation of falling prone/your mount falling prone). 
 
-> #### Mounted Combat
+> #### Mounted Combat <!-- I want a link here to an outside source possibly, or to bring up an image of the mechanic --> 
 >
 >A knight charging into battle on a warhorse, a wizard casting spells from the back of a griffon, or a cleric soaring through the sky on a pegasus all enjoy the benefits of speed and mobility that a mount can provide.
 A willing creature that is at least one size larger than you and that has an appropriate anatomy can serve as a mount, using the following rules.
@@ -98,31 +110,80 @@ A few more important notes here is that even though your mount (companion) is ac
 
 Specific companions can boost your early damage in combat when used carefully and precisely. The big boon here is they get to add your proficiency bonus to their attacks and damage *in addition* to their regular bonuses. 
 
-The **flying snake, boar, giant badger, giant centipede, giant poisonous snake, panther, and giant wolf spider** are all examples of companions that do a fair chunk of damage when they hit that is comprable to your normal damage or better. 
+<img width=200px align="left" src="https://i.pinimg.com/originals/d2/b8/9f/d2b89f4480b3bcd3cc30433ae2660dc0.jpg">The **flying snake, boar, giant centipede, giant poisonous snake, panther, and giant wolf spider** are all examples of companions that do a fair chunk of damage when they hit that is comprable to your normal damage or better. Companions here benefit most from the bonus to hit/damage from your proficiency bonus. 
 
-Companions here benefit most from the bonus to hit/damage from your proficiency bonus. **Giant badgers** abuse this most as they start with *multiattack*, giving you basically extra attack with your companion at level 3. Other companions come with saving throws, and while they aren't particularly high, most deal half damage on a successful save as well. **Giant poisonous snakes** get in there with +9 to hit, 10 ft. reach, and 1d4+4+3 piercing plus 3d6 (half on successful save) damage. If they do fail the save, we are looking at averaging 20 damage (2.5+4+3+3.5x3) from one attack. Thats pretty brutal for a level 3 attack when you consider rogues at 3 are dealing normally 1d6+3/4+2d6 damage (17.5 damage). 
+Other companions come with saving throws. While they don't have a high save DC (10-11), most deal half damage on a successful save as well. **Giant poisonous snakes** get in there with +9 to hit, 10 ft. reach, and 1d4+4+3 piercing plus 3d6 (half on successful save) damage. If they do fail the save, we are looking at averaging 20 damage (2.5+4+3+3.5x3) from one attack. Thats pretty brutal for a level 3 attack when you consider rogues at 3 are dealing normally 1d6+3/4+2d6 damage (17.5 damage). 
+
+> #### Multiattack and the Giant Badger
+>
+> The Ranger's Companion feature specifies which actions you can have your companion take as an action. It does not allow the companion to take any other action outside of Attack, Dash, Disengage, Dodge or Help. The Multiattack action the giant badger has is not an action you can command the badger to take on your turn. 
+>
 
 #### Combat Utility Companions
 Other companions offer a bit extra utility in combat by debilitating enemies, knocking them prone, or otherwise messing with our enemies. The **giant crab, boar, mastiff giant frog, and wolf** all enable some kind of synergy and party support. 
 
 **Giant crabs** and **giant frogs** are great for grappling and pinning enemies down while **wolves** and **mastiffs** get creatures prone to turn on advantage for all subsequent attacks. These are companions we don't need to be attacking with every round but can swap between to set up the condition when its most advantageous. 
 
-The **giant boar** brings its own unique utility to fights with *relentless*. It can act as a huge meat shield and can actively take advantage later with Exceptional Training. When we can use our bonus action to have it dodge and send it in to the thick of things, it can soak hit after hit while using relentless as a tool to tell us when to get it out when the damage becomes too much and don't have to sink our attack action its tusk attack.
+The **boar** brings its own unique utility to fights with *relentless*. <img align="right" src="https://cdn.dailyclipart.net/wp-content/uploads/medium/clipart0024.jpg">It can act as a huge meat shield and can actively take advantage later with Exceptional Training. When we can use our bonus action to have it dodge and send it in to the thick of things, it can soak hit after hit while using relentless as a tool to tell us when to get it out when the damage becomes too much and don't have to sink our attack action its tusk attack.
 
-### Milking Companions for Utility 
+
+
+## Combat
+There are a few tricks to managing animal companions in combat. Up to level 5, you won't both be able to grant your companion an action as well as take one yourself. To take advatnage of this, consider using your companion as a means of drawing attention away from you or your other party members. Placing your companion in the path of monsters can set up either attacks of opportunity or prevent the creature from getting on top of your allies. Using a bow is particularly potent with this style of play- your companion largely acts as a disruptive effect in combat while providing extra utility outside of combat.
+
+If you focus in on your companion's attacks in place of your own, consider building around defensive features like Sentitnel and Defense. You can act as the wall of hit points while your companion takes advantage of its special attack abilities like flyby or poisounous bite with a big boost to hit for your damage output. 
+
+If you want a hybrid play style, **giant crabs**, **giant frogs**, **wolves and mastiffs** all are excellent companions. **Crabs and frogs** can be used initially to debilitate an enemy, allowing subsequent actions to have them just hang out while you wail on whatever they have captured. **Wolves and mastiffs** set up the prone condition so your future melee attacks can be made with advantage. These two companions don't gell well with ranged attacks, however. Knocking a target prone is particularlly effective in a group loaded with melee characters- if your group has barbarians, dagger based rogues, paladins, and/or fighters, these companions can shine. All of these shake up your playstyle and give you meaningful decisions to make round to round when deciding whether to act as yourself or your companion.
+
+The hybrid and damaging companion play style is best supported at level 5. Having a companion attack to set up a subsequent attack from you (or vice versa) starts fulfilling the fantasy of a ranger and their companion fighting in perfect rythem. Utility companions don't gain much here, notably, and your power increase will come largely with extra attack paired with *hunter's mark*. 
+
+### Alternate Uses of the Attack Action
+Your companion can take the attack action- you can use this to your advantage. Having a fast companion grapple a creature run away with the creature can displace the creature a fair distance and can lead to the creature being in a inopportune location. **Panthers** and **giant spiders** can even scale up walls while grappling their target using their climb speed. 
+
+Shoving a creature is another tactic your companions can use. While **mastiffs* and **wolves** come with their own built in prone mechanic, other companions can replace an attack with a shove in siuations where you really need a creature on the ground or just 5 feet further back. 
+
+## Spell Support
+We'll quickly split the spell support category into three groups and assume your character is level 5. We will focus on spells that go well with damaging companions, utility companions, and combat utility companions. 
+
+The following table is my recommendations when building a beast master with a specific kind of companion. These are just recommendations from the Player's Handbook- expanded options from other books can dramatically improve performance. 
+|Companion Type| Spell Options|
+|:--|:--|
+|Damaging|*cure wounds, fog cloud, lesser restoration, pass without trace*|
+|Utility| *hunter's mark, cure wounds, beast sense, pass without trace*|
+|Combat Utility| *good berry, ensnaring strike, pass without race, spike growth*|
+
+Each of these list supports a specific play style. Damaging companions want a spell list that supports a style where your primary utility comes from your spell list and supports your companion in combat. Utility companions want to set up your damage in combat or be absent from combat entirely. Making up for their absence through spells while improving their utility out of combat can turn utility companions into incredibly powerful assets. Combat utility companions sset up you and your allies in combat- having a spell list that supports controlling the battlefield solidifies your character as a controller. You make it difficult for enemies to navigate and act as a combat supporter and less of a heavy damage dealer. 
+
+
+## The Remaining Features
+
+### Exceptional Training
+At 7th level, combat gets broken open for you. Having access to a better cunning action for your companion can provide a ton of extra utility in combat without having any big bumps to damage. You could consider cycling out spells like *ensaring strike* from your list here as your bonus action will son be occupied with bestial support commands.
+
+### Bestial Fury
+11th level final gives your companion an extra attack. This once again favors the combat utility and damaging companions clearly. The playstyle merely improves. Not much to say about this feature. Its solid.
+
+### Share Spells 
+Its a shame you get this feature at 15th level as it could easily define entire builds. Supporting spells like *longstrider* and *jump* could lead to **giant frogs** scaling buildings or **panthers** moving at supersonic speeds much earlier in the game. 
+
+An important rules note: the **self** range does not neccisarily tagert the caster, such as spells like *thunderwave* which designates a point of origin  . Spells like *ensnaring strike* both target the caster as well as have the **self** range. [Here](https://twitter.com/jeremyecrawford/status/606193562317766656) is a link to Jeremey Crawfords explanation.
+
+Here is a quick table of spells that work well with the feature as well as spells that seem like they could but do not work at all or synergistically with the feature:
+
+|Spells that Work|*detect magic, cure wounds,detect poison and disease, jump, longstrider, barkskin, darkvision, lesser restoration, protection from poison, nondetection, protection from energy, freedom of movement, stoneskin, commune with nature, tree stride*
+|:--:|:--:|
+|Spells that Don't Work|*hunter's mark, ensaring strike, speak with animals, pass without trace, speak with plants, locate object, locate creature*
+
+Consider swapping out spells that don't mesh well with share spells at 15th level then. Otherwise, I woudn't worry too much about this feature as it simply empowers many spells most ranger builds want to take anyway like *barkskin* and *protection from energy*. 
 
 ## Sample Builds
 ### Wildborn Panther Halfling
+PDF Character Sheet Link
 ### Flying Snake Sniper Elf
-### Boar Tank Ranger Dwarf 
+PDF Character Sheet Link
+### Boar Tank Ranger Dwarf
+PDF Character Sheet Link
 
+## Concluding Thoughts
 
-Feature description (exact)
-Odd feature interactions 
-Example: Thief’s use an Object action vs activate a magic item
-Maximizing utility/power from the option 
-At most 3 ways to use the feature in both cases 
-Feature breakdown II 
-Feature Breakdown III
-Sample builds
-Character sheets with small descriptors of tools and tricks for navigating the option 
+What do you think about the Beast Master Ranger? 
