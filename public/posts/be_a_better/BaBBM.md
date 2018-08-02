@@ -59,12 +59,62 @@ Combat heavy features like a **panther's** *pounce*, a **giant badger's** *multi
 
 Senses and Stealth are another trait to consider when selecting a companion.. If you as a ranger lack perception, having a companion with Keen Senses and a bonus to perception can act similarly to the Expertise trait. Access to blindsight or darkvision if you lack it can be exceptionally useful for scounting and setting defenses. A **giant centipede's** climb speed paired with it's 30 ft. blindsight can make for a perfect detector when setting up camp in a dungeon or in the wilderness. 
 
-### Tiny Companions
+The follwing sections will break down the possible companions into categories and go over their strengths and how to navigate with specifically that style of companion. 
+
+#### Tiny Companions
 One huge perk to having tiny companions is their size. Being able to fit into places otherwise inaccessable can give the ranger a tool on the inside. Haivng a companion that can take commands to check for creatures, retrieve objects, or open a lock from the other side provides a ton of utility to the table many other characters don't have access to this early. 
 
 **Flying snakes** and **stirge** both also make excellent combat companions early. Flying snakes have flyby and a +9 to hit. These buggers can be dishing out 3d4+1 damage per hit. They can act as excellent harrassers so long as you can prevent them from being shot down. Stirge, on the other hand, can stick themselves into people and if not immediatly delt with drain the target over and over again *without taking your action*. Worst case they consume a full action to remove him or attack it- fortunetly, Ranger's Companion bumps their HP up to 12 at level 3 and 4 extra after that every level onward. 
 
-### Mounted Rangers 
+#### Mountable Companions
+Mounted rangers can take advantage of a medium sized creature's regular speed, swim speed or climb speed in ways that can be advantageous. Notably the **panther, giant spider, boar, giant frog, mastiff, giant badger, and wolf** stand out in this category but most medium companions will do. The following rules explain how mounted combat works (excluding explanation of falling prone/your mount falling prone). 
+
+> #### Mounted Combat
+>
+>A knight charging into battle on a warhorse, a wizard casting spells from the back of a griffon, or a cleric soaring through the sky on a pegasus all enjoy the benefits of speed and mobility that a mount can provide.
+A willing creature that is at least one size larger than you and that has an appropriate anatomy can serve as a mount, using the following rules.
+>
+> #### Mounting and Dismounting
+>
+> Once during your move, you can mount a creature that is within 5 feet of you or dismount. Doing so costs an amount of movement equal to half your speed. For example, if your speed is 30 feet, you must spend 15 feet of movement to mount a horse. Therefore, you can't mount it if you don't have 15 feet of movement left or if your speed is 0.
+>
+> #### Controlling a Mount
+>
+>While you're mounted, you have two options. You can either control the mount or allow it to act independently. Intelligent creatures, such as dragons, act independently.
+>
+> You can control a mount only if it has been trained to accept a rider. Domesticated horses, donkeys, and similar creatures are assumed to have such training. The initiative of a controlled mount changes to match yours when you mount it. It moves as you direct it, and it has only three action options: Dash, Disengage, and Dodge. A controlled mount can move and act even on the turn that you mount it.
+>
+>An independent mount retains its place in the initiative order. Bearing a rider puts no restrictions on the actions the mount can take, and it moves and acts as it wishes. It might flee from combat, rush to attack and devour a badly injured foe, or otherwise act against your wishes.
+>
+>In either case, if the mount provokes an opportunity attack while you're on it, the attacker can target you or the mount.
+
+Your Ranger's Companion feature overrides most of these rules. Because your Ranger's Companion feature lets you determine where your companion moves every turn, you don't need to control your mount and allow it to act *independently*. This also means you can effectively ride your companion even if it isn't trained to accept a rider (although it still must have a ridable anatomy and be a size larger than you). 
+
+This makes the option really only open to *halflings and gnomes*- but it really is a huge plus. Being able to ride a **panther** running at 50 ft. or a **giant spider** climbing a wall at 40 ft. is incredibly powerful both in combat and out. They might require some specially made gear to prevent you from falling off or some awesome Atheltics checks to hold on at DM discression.
+
+A few more important notes here is that even though your mount (companion) is acting indepently, it still can't take any actions in combat unless you use your action to grant it said action. The only clause that seriously affects your character is how opportunity attacks function and what you can and can't mount. 
+
+#### Damaging Companions 
+
+Specific companions can boost your early damage in combat when used carefully and precisely. The big boon here is they get to add your proficiency bonus to their attacks and damage *in addition* to their regular bonuses. 
+
+The **flying snake, boar, giant badger, giant centipede, giant poisonous snake, panther, and giant wolf spider** are all examples of companions that do a fair chunk of damage when they hit that is comprable to your normal damage or better. 
+
+Companions here benefit most from the bonus to hit/damage from your proficiency bonus. **Giant badgers** abuse this most as they start with *multiattack*, giving you basically extra attack with your companion at level 3. Other companions come with saving throws, and while they aren't particularly high, most deal half damage on a successful save as well. **Giant poisonous snakes** get in there with +9 to hit, 10 ft. reach, and 1d4+4+3 piercing plus 3d6 (half on successful save) damage. If they do fail the save, we are looking at averaging 20 damage (2.5+4+3+3.5x3) from one attack. Thats pretty brutal for a level 3 attack when you consider rogues at 3 are dealing normally 1d6+3/4+2d6 damage (17.5 damage). 
+
+#### Combat Utility Companions
+Other companions offer a bit extra utility in combat by debilitating enemies, knocking them prone, or otherwise messing with our enemies. The **giant crab, boar, mastiff giant frog, and wolf** all enable some kind of synergy and party support. 
+
+**Giant crabs** and **giant frogs** are great for grappling and pinning enemies down while **wolves** and **mastiffs** get creatures prone to turn on advantage for all subsequent attacks. These are companions we don't need to be attacking with every round but can swap between to set up the condition when its most advantageous. 
+
+The **giant boar** brings its own unique utility to fights with *relentless*. It can act as a huge meat shield and can actively take advantage later with Exceptional Training. When we can use our bonus action to have it dodge and send it in to the thick of things, it can soak hit after hit while using relentless as a tool to tell us when to get it out when the damage becomes too much and don't have to sink our attack action its tusk attack.
+
+### Milking Companions for Utility 
+
+## Sample Builds
+### Wildborn Panther Halfling
+### Flying Snake Sniper Elf
+### Boar Tank Ranger Dwarf 
 
 
 Feature description (exact)
