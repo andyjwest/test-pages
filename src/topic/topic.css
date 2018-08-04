@@ -1,0 +1,18 @@
+
+div.topic-headline {
+    margin: 5px;
+}
+
+div.post {
+    color: var(--dark-brown-color);
+    padding: 15px 15px;
+    margin-bottom: 10px;
+    background-color: var(--seashell-color);
+    box-shadow: 0 4px 4px 0 var(--dark-brown-shadow),0 4px 10px 0 var(--dark-brown-shadow);
+}
+
+.post h2 {
+    color: var(--dark-brown-color);
+    padding: 0px 0px;
+    margin: 0px 0px;
+}

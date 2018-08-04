@@ -1,12 +1,13 @@
 import React, {Component} from 'react';
 import BlogPost from './BlogPost';
+import "./topic.css";
 
 class TopicHome extends Component{
     render(){
 
         const posts = this.props.category.posts.map(post => <BlogPost post={post} key={post.name}/>)
         return (
-            <div className="container">
+            <div className="topic-headline">
                 <div>
 
                 </div>

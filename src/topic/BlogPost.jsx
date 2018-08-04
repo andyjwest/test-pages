@@ -19,9 +19,8 @@ class BlogPost extends React.Component {
 
 	render(){
 		return (
-			<div className="container">
+			<div className="post">
 				<ReactMarkdown source={this.state.markdown}/>
-            <hr />
 			</div>
 		);
 	}

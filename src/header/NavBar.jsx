@@ -1,14 +1,15 @@
 import React, { Component } from 'react';
-import NavItem from './NavItem.jsx';
 import {NavLink} from 'react-router-dom';
+import './navbar.css';
 
 class NavBar extends Component{
 
 	constructor(props){
 		super(props);
 		this.state = {
-			activeId: null
-		}
+			"activeId": null,
+            "responsive": false
+		};
         this.handleItemClick = this.handleItemClick.bind(this);
 	}
 
@@ -18,27 +19,35 @@ class NavBar extends Component{
         })
 	}
 
+    toggleHamburger() {
+        if(this.state.responsive){
+            this.setState({"responsive": false});
+        }else{
+            this.setState({"responsive": true});
+        }
+    }
+
 
 	render() {
 		let navItems;
-		if(this.props.categories != null){
-		    navItems = this.props.categories.map(category => (
-                <NavItem category={category} clickHandler={this.handleItemClick} key={category.id} active={this.state.activeId === category.id}/>
-        ));
+		if(this.props.topics != null){
+		    navItems = this.props.topics.map(topic => (
+                <NavLink key={topic.id} to={'/' + topic.id} activeClassName="active">{topic.title}</NavLink>
+            ));
+        }
+        let navClass;
+        if(this.state.responsive){
+            navClass = "topnav responsive";
+        }else{
+            navClass = "topnav";
         }
 		return (
-			<nav className="navbar navbar-expand-lg navbar-dark bg-dark">
-			 <div className="collapse navbar-collapse container" id="navbarSupportedContent">
-			    <ul className="navbar-nav mr-auto">
-			      <li className="nav-item">
-                      <NavLink to="/" activeClassName="active" exact={true}>
-                          <span className="nav-link">Home</span>
-                      </NavLink>
-			      </li>
-                    {navItems}
-			    </ul>
-			  </div>
-			</nav>
+
+            <div className={navClass} id="myTopnav">
+                <NavLink to="/" activeClassName="active" exact={true}>Home</NavLink>
+                {navItems}
+                <a className="icon" onClick={() => this.toggleHamburger()}>&#9776;</a>
+            </div>
 		);
 	}
 }

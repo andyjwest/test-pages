@@ -5,8 +5,8 @@ class CategoryContainer extends Component {
 
     render() {
         let cards;
-        if(this.props.categories != null){
-            cards = this.props.categories.map(card =>{
+        if(this.props.topics != null){
+            cards = this.props.topics.map(card =>{
                 return <CategoryCard card={card} key={card.id}/>
             });
         }

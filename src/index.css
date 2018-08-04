@@ -1,16 +1,32 @@
-body {
-  margin: 0;
-  padding: 0;
-  font-family: sans-serif;
+:root {
+    --seashell-color: #FFF5EC;
+    --old-rose-color: #C2847A;
+    --old-silver-color:#848586;
+    --dark-brown-color:#350003;
+    --dark-brown-shadow: rgba(53,0,3, .16);
+    --tuscany-color:#BAA898;
+    --font-family: "Trebuchet MS", fantasy;
+
 }
 
-.two-columns{
+body {
+    margin: 0;
+    padding: 0;
+    font-family: var(--font-family);
+    background-color: var(--tuscany-color);
+}
+
+div.content {
+    margin: 5px 5%;
+}
+
+.two-columns {
     -webkit-columns: 2 300px;
     -moz-columns: 2 300px;
     columns: 2 300px;
 }
 
-.card-columns{
+.card-columns {
     -webkit-columns: 2 200px;
     -moz-columns: 2 200px;
     columns: 2 200px;

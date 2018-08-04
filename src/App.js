@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-import 'bootstrap/dist/css/bootstrap.min.css';
+// import 'bootstrap/dist/css/bootstrap.min.css';
 import NavBar from './header/NavBar.jsx';
 import Home from './home/Home';
 import {BrowserRouter, Route} from 'react-router-dom'
@@ -11,7 +11,7 @@ class App extends Component {
     constructor(props) {
         super(props);
         this.state = {
-            categories: []
+            topics: []
         }
     }
 
@@ -21,7 +21,7 @@ class App extends Component {
                 return response.json()
             }).then(
             array => {
-                this.setState({categories: array});
+                this.setState({topics: array});
             });
     }
 
@@ -29,18 +29,19 @@ class App extends Component {
         return (
             <BrowserRouter>
                 <div>
-                    <NavBar categories={this.state.categories}/>
-
-                    <Route exact path="/" render={({match})=>
-                        <Home categories={this.state.categories}/>
-                    }/>
-                    {this.state.categories.length > 0 && (
-                        <Route exact path="/:categoryPath" render={({match})=>
-                            <TopicHome category={this.state.categories.find(
-                                category => category.id === match.params.categoryPath
-                            )}/>
+                    <NavBar topics={this.state.topics}/>
+                    <div className="content">
+                        <Route exact path="/" render={({match})=>
+                            <Home categories={this.state.topics}/>
                         }/>
-                    )}
+                        {this.state.topics.length > 0 && (
+                            <Route exact path="/:topicPath" render={({match})=>
+                                <TopicHome category={this.state.topics.find(
+                                    topic => topic.id === match.params.topicPath
+                                )}/>
+                            }/>
+                        )}
+                    </div>
                 </div>
 
             </BrowserRouter>
