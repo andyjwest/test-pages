@@ -24,6 +24,4 @@ class Headliner extends Component {
     }
 }
 
-Headliner.
-
 export default Headliner;
