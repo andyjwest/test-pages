@@ -36,7 +36,7 @@ class App extends Component {
                         }/>
                         {this.state.topics.length > 0 && (
                             <Route exact path="/:topicPath" render={({match})=>
-                                <TopicHome category={this.state.topics.find(
+                                <TopicHome topic={this.state.topics.find(
                                     topic => topic.id === match.params.topicPath
                                 )}/>
                             }/>

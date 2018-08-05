@@ -9,20 +9,21 @@ class Headliner extends Component {
         const container = "headline-container";
 
         return (
-            <div>
+            <Link to={"/"+ this.props.topic.path}>
                 <div className={container}>
-                    <img className={container} src={this.props.backgroundImage} />
-                    <div className="headline-text post">
-                        <h1 className={container}>{this.props.title}</h1>
+                    <img className="headline" src={this.props.backgroundImage} />
+                    <div className="headline-text">
+                        <h1>{this.props.title}</h1>
                         <div className="two-columns">
                             {this.props.snipit}
-                            <Link to='/headline'>Read more</Link>
                         </div>
                     </div>
                 </div>
-            </div>
+            </Link>
         )
     }
 }
+
+Headliner.
 
 export default Headliner;
