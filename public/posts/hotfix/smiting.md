@@ -1,5 +1,7 @@
 ## Hotfix: Divine Smite
 
+[Image](https://i.pinimg.com/474x/2b/1b/0b/2b1b0bef95913d18e2212352cf8e04b2--warrior-women-character-art.jpg)
+
 When playing the Paladin class, the question frequently comes up- do I smite? 
 
 Useful tip for new players: yes. Yes you smite.
