@@ -51,7 +51,7 @@ On top of that, this option shifts some of the damage to make smiting substantia
 
 This itteration introduces an entirely new resource to paladins that only affects a chosen pairing of enemies. This opens up players to specialize exactly how they want and be at their best when fighting monsters their character most opposes. Evil paladins can smite from the 9 hells against fey and celestials while a devotion pure good paladin can still radiantly smite undead and fiends (now better than before!). It forces paladins to construct a meaningful spell list while moving their moments of awesomeness to specific encounters they are expected to be amazing in. 
 
-### In Depth Breakdown 
+## Feature Breakdown 
 
 So why exactly should we change Divine Smite? How does it crowd out paladin features, outshine other character classes and fail to deliever on specific character fantasy?
 
@@ -65,7 +65,7 @@ So why exactly should we change Divine Smite? How does it crowd out paladin feat
 
 Combined with the feature dealing fair amounts of damage for spell usage, paladins have the ability to dump 3-4d8+  strength every turn on their enemies per attack. Compared to a rogues conditional once a round 2-3d6+ dex damage, we can clearly see a paladin is going to frequently be outdamaging other members of the party.
  
- #### Crowding Out Other Features
+ ### Crowding Out Other Features
 
 Divine Smite breaks one of the fundamental rules of combat: actions. It takes no additional action to use. This leaves paladins free to choose when to nuke a monster with a resource they don't have to ever use. This mechanic then discourages paladins from using spells in other ways as that costs them something- a simple comparison to *searing smite* shows you the radically difference in power the two features have. 
 
@@ -80,7 +80,7 @@ Having a powerful feature only is an issue when it crowds out other cool and int
 Option 1 fixes this issue the most directly- by reducing the base damage, Paladins are now encouraged to prepare combat spells to use to improve their smiting potential instead of finding the rare situation where they are more effeicient. 
 
 
-#### Outshining Ohter Options
+### Outshining Other Options
 Similarly to how Divine Smite crowds out other paladin features, it helps the paladin class outshine the other martial classes in combat consisently. Paladins have access to healing, heavy armor, martial weapons, spell casting, and a resource that boosts their damage on hit. Fighters lack healing, spell casting, and the damage boost at 2nd level- rogues don't have the proficiency, healing, heavy armor, spell casting, or martial weapons. Ranger's are slightly closer to paladins in the scope of things they can do, but their features like *hunter's mark* and *cure wounds* tend to be outshone by paladin's other features. 
 
 When in combat, a paladin consistently has moments to smite and look awesome on top of the moments they can feel awesome when they take a huge blow from a baddy that would have dropped their lower AC and HP companions. They can shine when they bring back up their downed cleric while turning the following round and nuking the big bad for a huge portion of their HP. Whenever they roll a natural 20 on an attack roll, they get to feel the most awesome by dumping their highest level spell slot and watching their target explode.
@@ -89,7 +89,7 @@ Out of combat, their spell list and class features support utility like *detect 
 
 I find consistently that the Paladin class just has slightly too many things going for it that consistently cause my players to go "wow, that paladin just does everything..." This is an issue we can address by shifting more power into specific environments for the paladin to shine. Option 2 does this by adding risk to Divine Smite (if you miss, you wasted the resource) and prevents the smite-critting form occuring as often. Option 3 looks to shift their focus entirely to be epic against their chosen enemies with their smite while using other parts of their kit to have awesome moments in encounters that don't include their selected enemies. 
 
-#### Deliver Specific Fantasy
+### Deliver Specific Fantasy
 My final large problem with Divine Smite stems from its linear fantasy fulfillment. 
 
 Paladins shifted away from their roots in this eddition. Paladins are now the class the follows a code and draws power from it- their Oath defines them. Paladins can be protecters of life (Devotion), guardians of nature (Ancients), or even vengful hunters (Vengence). All three options smiting undead and demons with radiant damage feels off. Sure, a devotion paladin might be set on purging that evil from the world. But a vengence paladin seems more like a character type that would be willing to pay a price to see pain and suffering fall on their enemies. They might consider fiends and undeads more allies than enemies.
@@ -100,7 +100,7 @@ The damage boost doesn't even really feel that much more epic when you do hit an
 
 My goal here then is to present players with a way to fit their smite to their character. Players should feel like their character smites just the way they want. Option 3 delivers here like none of the other options do in a big way. 
 
-#### Closing Thoughts 
+### Closing Thoughts 
 What is noticably absent here that is normally a part of my Hotfixes is a way for the feature to interact better with thier allies. Paladins as a class already have a great interactive toolbox for interacting with their party with Lay on Hands, *sanctuary*, *divine sense*, and the protection fighting style. That doesn't mean smite can't involve more teamwork, but I don't feel it really needs to here.
 
 None of these three fixes are perfect, but they can be fun and helpful replacements at the right tables. If you are looking to play as or with a paladin, I'd talk some of these changes with them. Changing a class feature like this can help redefine the class.
