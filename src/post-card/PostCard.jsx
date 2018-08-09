@@ -10,9 +10,7 @@ class PostCard extends Component {
                     <img className="card-image" src={this.props.backgroundImage} />
                     <div className="card-text">
                         <h1>{this.props.title}</h1>
-                        <div className="two-columns">
-                            {this.props.snipit}
-                        </div>
+                        {this.props.snipit}
                     </div>
                 </div>
             </Link>

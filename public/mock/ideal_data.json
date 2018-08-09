@@ -3,6 +3,7 @@
     "id": "be_a_better",
     "title": "Be a Better",
     "path": "/be_a_better",
+    "icon":"/icons/single-sword.png",
     "posts": [
       {
         "name": "testTwo.md",
@@ -15,6 +16,7 @@
     "id": "build_a_better",
     "title": "Build a Better",
     "path": "/build_a_better",
+    "icon":"/icons/hammer.png",
     "posts": [
       {
         "name": "build_a_better_intro.md",
@@ -29,15 +31,17 @@
     ]
   },
   {
-    "id": "gods",
-    "title": "Gods",
-    "path": "/gods",
+    "id": "domains_and_deities",
+    "title": "Domains and Deities",
+    "path": "/domains_and_deities",
+    "icon":"/icons/eye.png",
     "posts": []
   },
   {
     "id": "hot_fix",
     "title": "Hot Fix",
     "path": "/hot_fix",
+    "icon":"/icons/fire.png",
     "posts": []
   }
 ]

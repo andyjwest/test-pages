@@ -4,6 +4,21 @@ import CategoryContainer from './CategoryContainer';
 
 class Home extends Component {
 
+    constructor(props){
+        super(props);
+        this.state ={
+            md: ""
+        }
+    }
+
+    componentDidMount(){
+        fetch("https://raw.githubusercontent.com/andyjwest/test-pages/master/public/posts/be_a_better/BaBBM.md")
+            .then(response => response.text()).then(text => this.setState({
+            md:text.substr(0, 750)
+        }));
+
+    }
+
     render() {
         let topic = {};
         if(this.props.topics){
@@ -12,9 +27,7 @@ class Home extends Component {
         return (
             <div className='container'>
                 <Headliner backgroundImage="./image.jpg"
-                           topic={topic}
-                           title={"Curabitur tortor"}
-                           snipit={"Quisque volutpat condimentum velit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nam nec ante. Sed lacinia, urna non tincidunt mattis, tortor neque adipiscing diam, a cursus ipsum ante quis turpis. Nulla facilisi. Ut fringilla. Suspendisse potenti. Nunc feugiat mi a tellus consequat imperdiet. Vestibulum sapien. Proin quam. Etiam ultrices. Suspendisse in justo eu magna luctus suscipit. Sed lectus. a cursus ipsum ante quis turpis. Nulla facilisi. Ut fringilla. Suspendisse potenti. Nunc feugiat mi a tellus consequat imperdiet. Vestibulum sapien. Proin quam. Etiam ultrices. Suspendisse in justo eu magna luctus suscipit. Sed lectus."}/>
+                           topic={topic} snipit={this.state.md}/>
                 <CategoryContainer categories={this.props.topics}/>
             </div>
         )

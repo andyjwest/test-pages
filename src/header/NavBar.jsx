@@ -29,24 +29,30 @@ class NavBar extends Component{
 
 
 	render() {
-		let navItems;
-		if(this.props.topics != null){
-		    navItems = this.props.topics.map(topic => (
-                <NavLink key={topic.id} to={'/' + topic.id} activeClassName="active">{topic.title}</NavLink>
-            ));
-        }
         let navClass;
         if(this.state.responsive){
-            navClass = "topnav responsive";
+            navClass = "nav responsive";
         }else{
-            navClass = "topnav";
+            navClass = "nav";
         }
+
+		let navItems;
+
+        if(this.props.topics != null){
+		    navItems = this.props.topics.map(topic => (
+                <NavLink key={topic.id} to={'/' + topic.id} activeClassName="active">
+                    <img className="nav-item" src={topic.icon} />
+                </NavLink>
+            ));
+        }
+
 		return (
 
             <div className={navClass} id="myTopnav">
-                <NavLink to="/" activeClassName="active" exact={true}>Home</NavLink>
+                <NavLink to="/" activeClassName="active" exact={true}>
+                    <img className="nav-item" src="/icons/castle.svg" />
+                </NavLink>
                 {navItems}
-                <a className="icon" onClick={() => this.toggleHamburger()}>&#9776;</a>
             </div>
 		);
 	}

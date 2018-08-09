@@ -1,21 +1,22 @@
 .headline-container {
     position: relative;
     transition: transform .2s; /* Animation */
+    overflow: hidden;
+    text-overflow: ellipsis;
 }
 
 div.headline-container{
-    max-height: 600px;
+    max-height: 400px;
     box-shadow: 0 4px 4px 0 var(--dark-brown-shadow),0 4px 10px 0 var(--dark-brown-shadow);
 }
 
 div.headline-container:hover {
     transform: scale(1.01);
-
 }
 
 .headline-text {
     position: absolute;
-    bottom: 8px;
+    top: 150px;
     left: 10px;
     right: 10px;
     color: var(--dark-brown-color);
@@ -23,8 +24,6 @@ div.headline-container:hover {
     margin-bottom: 10px;
     background-color: var(--seashell-trans-color);
     box-shadow: 0 4px 4px 0 var(--dark-brown-shadow),0 4px 10px 0 var(--dark-brown-shadow);
-    overflow: hidden;
-    text-overflow: ellipsis;
 }
 
 img.headline {
