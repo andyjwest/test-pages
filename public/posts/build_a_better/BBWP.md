@@ -3,7 +3,7 @@
 
 <img src="https://i.pinimg.com/originals/89/99/ce/8999ce8a21742d46e495c4e90c9605ce.jpg">
 
-"The slime crusted walls and occult scrawling would shake any average adventurer- not I! The secret of their strange powers must lie somewhere in these lightless tunnels. No matter how many times I slay them, they always seem to reform with their blank gelatinous faces and amorphous philology. All I know is that when I uncover the magical nature and chemistry behind this patron I will be revered for years to-" - Kalimor Kalimorious, wizard extraordinaire as he stumbled into a transparent gelatinous cube.
+"The slime crusted walls and occult scrawling would shake any average adventurer- not I! The secret of their strange powers must lie somewhere in these lightless tunnels. No matter how many times I slay them, they always seem to reform with their blank gelatinous faces and amorphous phisiology. All I know is that when I uncover the magical nature and chemistry behind this patron I will be revered for years to-" - Kalimor Kalimorious, wizard extraordinaire as he stumbled into a transparent gelatinous cube.
 
 Warlocks are the best tool box class 5th edition has to offer. The act as the most customizable option in the game. By third level, you have chosen your own Patron, Invocations, Spells, and Pact boon- literally every feature you've obtained has offered customization choices. A huge part of the identity and popularity of the class comes from this customization bit. More importantly, the Otherworldly Patron drives player and DM imagination alike and inspires players to come up with unique and engaging characters.
 
