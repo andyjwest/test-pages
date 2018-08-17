@@ -77,9 +77,11 @@ These smites all look unique- they have their own flavor built right in. They dr
  
  ### Closing Thoughts
 
-Divine Smite breaks one of the fundamental rules of combat: actions. It takes no additional action to use. This leaves paladins free to choose when to nuke a monster with a resource they don't have to ever use. This mechanic then discourages paladins from using spells in other ways as that costs them something- a simple comparison to *searing smite* shows you the radically difference in power the two features have. 
+Divine Smite breaks one of the fundamental rules of combat: actions. It takes no additional action to use. This leaves paladins free to choose when to nuke a monster with a resource they don't have to ever use. This mechanic then discourages paladins from using spells in other ways as that costs them something- a simple comparison to *searing smite* shows you the radically difference in power the two features have.
+
 Having a powerful feature only is an issue when it crowds out other cool and interactive features. Divine Smite tends to be that powerful of a feature compared to what other features paladin has access to.
 Paladins shifted away from their roots in this edition. Paladins are now the class the follows a code and draws power from it- their Oath defines them. Paladins can be protectors of life and law (Devotion), guardians of nature (Ancients), or even vengeful hunters (Vengeance). Lay on hands is a feature that will still suffer from this identity shift, but alas we can’t fix all the features in this one article. Perhaps another time.
+
 What do you think of our redesigned divine smite? Is the feature too powerful for most tables? Does it lead to frustrating game play? Or is it underpowered at your table? Have any awesome moments with a critical divine smite? Comment below or tweet at us, #Hotfix! 
 
 
