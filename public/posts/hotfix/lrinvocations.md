@@ -34,7 +34,7 @@ This feature doesn't make the invocations feel epic, though. They end up just be
 
 ### Option 2: Remove Concentration 
 > #### Warlock Invocation 
-> You can cast *spell name* once without consuming a spell slot. If the spell requires concentration, it no longer requires concentration and lasts until no creatures are affected by it or until its duration ends. 
+> You can cast *spell name* once without consuming a spell slot. If the spell requires concentration, it no longer requires concentration and lasts until no creatures are affected by it or until its duration ends. Once you use this invocation, can't use it again until you finish a long rest.
 
 By removing concentration on the spells and giving them a single free use per long rest, these invocations can act as encounter shaping effects. These invocations can now fit into many more builds than before as their concentration slot can still be used for spells like *hex*. 
 
