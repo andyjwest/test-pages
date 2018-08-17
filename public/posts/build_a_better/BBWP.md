@@ -43,7 +43,7 @@ Our warlock otherworldly patron that we'll be using for reference is the Endless
 > At 10th level, your patron grants you the resistances and constitution of an ooze. Your Constitution score increases by 2, to a maximum of 22. 
 >
 > In addition, choose two of the following damage types: bludgeoning, piercing, slashing, acid, cold, fire, lightning. Whenever you would take damage of the chosen types, reduce the total damage by 1d10+ your Constitution modifier. 
-
+>
 >### Consumption 
 > At 14th level, your body can mutate into a full ooze. As an action on your turn, a creature your size or smaller within 5 feet of you must succeed on a Dexterity saving throw against your Warlock spell save DC or become engulfed inside you. You grow one size category and become transulcent while a creature is engulfed in you.
 >
