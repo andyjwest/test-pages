@@ -22,7 +22,7 @@ To address these invocations, we're going to be focusing on text all of them sha
 >
 
 Here are our three potential solutions 
-#### Option 1: Quick Fix 
+### Option 1: Quick Fix 
 > #### Warlock Invocation
 >You learn the *spell name* spell. You can cast *spell name* once without consuming a spell slot. You can't do so again until you finish a long rest.
 
@@ -32,7 +32,7 @@ In its current state, full on caster Warlocks that utilize a hefty spell list to
 
 This feature doesn't make the invocations feel epic, though. They end up just being a simple expanded spell list. How do we make unique, engaging invocations out of these?
 
-#### Option 2: Remove Concentration 
+### Option 2: Remove Concentration 
 > #### Warlock Invocation 
 > You can cast *spell name* once without consuming a spell slot. If the spell requires concentration, it no longer requires concentration and lasts until no creatures are affected by it or until its duration ends. 
 
@@ -58,6 +58,6 @@ This change is the most volatile and potentially game breaking, but also the opt
 This makes the invocations build defining similarly to Misty Visions and Fiendish Vigor. It would likely become a major part of the character's kit, and I think would shake up the table the most from being introduced. These should be handled with caution, but if you are looking to bring something new and fresh to the table without leaving the comfort of the PHB, these fixes might be for you
 
 ## Wrapping Things Up
-Warlock (nvocations make the class the amazing toolbox class it currently is. Character customization is the core foundation of the class and while tend to never be the best at something, they always bring a huge array of features to the table to explore the world around them in unconventional ways.
+Warlock invocations make the class the amazing toolbox class it currently is. Character customization is the core foundation of the class and while tend to never be the best at something, they always bring a huge array of features to the table to explore the world around them in unconventional ways.
 
 How do you think these fixes would change the Warlock class? Have you taken these invocations unchanged and really enjoyed them? Do you think these changes are desperately needed or entirely pointless? What changes would you bring to the table to address Minions of Chaos? Let us know on twitter, Patreon, Instagram, Facebook ,etc, #Hotfix!
