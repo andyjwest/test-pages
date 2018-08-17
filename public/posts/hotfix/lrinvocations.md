@@ -49,7 +49,7 @@ If the option still feels too weak at the table, however, consider adjusting it 
 ### Option 3: Give and Take 
 Alright, this is a weird one- one of my weirder designs. This specific option would exclude Sculptor of Flesh and Sign of Ill Omen. Hear me out:
 > #### Warlock Invocation
-> You can cast *spell name* at will, without expending a spell slot. While at least one other creature is affected by the spell, you suffer the spells effect as well. Once no other creature is affect by the spell, the spell ends.
+> You can cast *spell name* at will, without expending a spell slot. While at least one other creature is affected by the spell, you suffer the spells effect as well. Once no other creature is affected by the spell, the spell ends.
 
 This option gives Warlock something they have been asking for since their conception: a way to sacrifice to make others suffer. The class fantasy of making a deal with the devil tends to be all upsides- here is a powerful feature that has a significant downside. *Slow* at will can be powerful and build defining- but are you willing to also be slowed? Bestowing a curse on your enemies as a fey lock seems on point- but as a mortal wielding fey power, you too suffer from the misfortune *bane* brings. 
 
