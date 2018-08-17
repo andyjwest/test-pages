@@ -1,5 +1,5 @@
 
-## Brew Bits: Building a Warlock Patron
+## Brew Bits: Building Otherworldly Warlock Patrons
 
 <img src="https://i.pinimg.com/originals/89/99/ce/8999ce8a21742d46e495c4e90c9605ce.jpg">
 
@@ -7,7 +7,7 @@
 
 Warlocks are the best tool box class 5th edition has to offer. The act as the most customizable option in the game. By third level, you have chosen your own Patron, Invocations, Spells, and Pact boon- literally every feature you've obtained has offered customization choices. A huge part of the identity and popularity of the class comes from this customization bit. More importantly, the Otherworldly Patron drives player and DM imagination alike and inspires players to come up with unique and engaging characters.
 
-Designing patrons for whatever purpose asks a lot of the creator. For todays Brew Bits, we'll break down Otherworldly Patrons in a step by step guide that can help you bring your own Otherworldly Entities to the table in ways the core books just don't support. 
+Designing patrons for whatever purpose asks a lot of the creator. For today’s Brew Bits, we'll break down Otherworldly Patrons in a step by step guide that can help you bring your own Otherworldly Entities to the table in ways the core books just don't support. 
 
 Our warlock otherworldly patron that we'll be using for reference is the Endless Ooze- whether you are a worshiper of Jubilex, demon lord of oozes, or have contacted a plane encompassing hive mind ooze from the outer realms, the Endless Ooze brings the all the fun of the gelatinous cube and black pudding to your Warlocks!
 
@@ -28,33 +28,33 @@ Our warlock otherworldly patron that we'll be using for reference is the Endless
 
 >
 >### Mutable Form
-> Starting at 1st level, you adopt your patron's amorphous form. You can use a bonus action to become **amorphous** until the end of your turn. While amorphous, you any equipment you are carrying lose their natural form. You can move through a sapce as narrow as 1 inch wide without squeezing. In addition, attacks of opportunity made against you while amorphous are made with disadvantage. 
+> Starting at 1st level, you adopt your patron's amorphous form. You can use a bonus action to become **amorphous** until the end of your turn. While amorphous, any equipment you are carrying become amorphous with you. You can move through a space as narrow as 1 inch wide without squeezing. In addition, attacks of opportunity made against you while amorphous are made with disadvantage. 
 >
 > If you end your turn in a space that you would normally not fit, you are shunted to the nearest unoccupied space and take 1d10 force damage for every 5 feet you are shunted.
 >
 >### Aspect of the Ooze
 >At 6th level, choose one of the following aspects to adopt: 
 >
-> ***Gelatinous Cube: Transparent.*** As an action, you can mutate your form and any equipment you are carrying, becoming transparent for up to 1 minute. While you are not moving or taking other actions, it takes a successful Wisdom (Perception) check to spot you with a DC equal to your Warlock spell save DC. A creature that tries to enter your space while unware of you is suprised by you. 
+> ***Gelatinous Cube: Transparent.*** As an action, you can mutate your form and any equipment you are carrying, becoming transparent for up to 1 minute. While you are not moving or taking other actions, it takes a successful Wisdom (Perception) check to spot you with a DC equal to your Warlock spell save DC + your Constitution modifier. A creature that tries to enter your space while unware of you is surprised by you. 
 >
 > Once you use this feature, it can't be used again until you finish a short or long rest.
->
+> More to come with this option’s official release!
 >### Unnatural Constitution
 > At 10th level, your patron grants you the resistances and constitution of an ooze. Your Constitution score increases by 2, to a maximum of 22. 
 >
 > In addition, choose two of the following damage types: bludgeoning, piercing, slashing, acid, cold, fire, lightning. Whenever you would take damage of the chosen types, reduce the total damage by 1d10+ your Constitution modifier. 
 >
 >### Consumption 
-> At 14th level, your body can mutate into a full ooze. As an action on your turn, a creature your size or smaller within 5 feet of you must succeed on a Dexterity saving throw against your Warlock spell save DC or become engulfed inside you. You grow one size category and become transulcent while a creature is engulfed in you.
+> At 14th level, your body can mutate into a full ooze. As an action on your turn, a creature your size or smaller within 5 feet of you must succeed on a Dexterity saving throw against your Warlock spell save DC or become engulfed inside you. You grow one size category and become translucent while a creature is engulfed in you.
 >
 > An engulfed creature takes 8d6 acid damage. It can't breathe, is restrained, and takes an additional 6d6 acid damage at the start of each of your turns.
 > 
-> An engulfed creature can try to escape by takeing an action to make a Strength check against your Warlock spell save DC+ your Constitution modifier. On a success, the creature escapes and enters a space of its choice within 5 feet of you. 
+> An engulfed creature can try to escape by taking an action to make a Strength check against your Warlock spell save DC+ your Constitution modifier. On a success, the creature escapes and enters a space of its choice within 5 feet of you. 
 >
 > Once you engulf a creature with this feature, you can't do so again until you complete you finish a long rest.
 
 ## Feature Breakdown 
-Here we are going to review each portion of the subclass: the spell list, 1st, 6th, 10th and 14th level feature. Existing warlock patrons tend to follow a pattern- first level is a generic build around ability, sixth is a defensive feature that helps get you out of sticky situations, tenth is a passive enhancement, and fourteenth is a powerful tool that reflects the flavor of the class in a powerful way. While you don't need to follow this pattern, it’s a pretty good starting guide for creating diverse features for the class option.
+Existing warlock patrons tend to follow a pattern- first level is a generic build around ability and expanded spell list, sixth is a defensive feature that helps get you out of sticky situations, tenth is a passive defensive enhancement, and fourteenth is a powerful tool that reflects the flavor of the class in a powerful way. While you don't need to follow this pattern, it’s a pretty good starting guide for creating diverse features for the class option.
 
 It is important to keep in mind a few things. First, Pact Magic gives warlocks frequent access to their spells, but in small doses. Short rest casting is a unique feature to warlocks and can easily feel oppressive if certain spells are introduced to the option or other features are introduced that manipulate their spells. Warlock Invocations provide tremendous amounts of utility as well. Look for overlap with existing invocations and Warlock spells and try to avoid creating features that Warlocks already have access too. 
 
@@ -123,6 +123,5 @@ Anything that has a huge effect on the character that emphasizes the patron fant
 
 ### Closing Thoughts
 What Warlock Otherworldly Patron have you been itching to see at the table? What features of the Endless Ooze do you really like? Do you agree with this breakdown, or do you think I've missed something critical? What aspects of the layout would you change? Let us know your thoughts on social media, #BrewBits #EndlessOoze!
-
 
 
