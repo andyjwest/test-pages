@@ -12,7 +12,7 @@ These invocations all share one key flaw: they consume a Warlock spell slot to l
 1. Comparatively underwhelming to the other existing invocations 
 2. Tie up two different Warlock resources in one choice
 3. Fail to expand on or improve a play pattern 
-
+ 
 ### Our Three Fixes 
 To address these invocations, we're going to be focusing on text all of them share. Here is their text box where the specific spell is replaced by *spell name*.
 
