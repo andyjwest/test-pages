@@ -12,7 +12,7 @@ These invocations all share one key flaw: they consume a Warlock spell slot to l
 1. Comparatively underwhelming to the other existing invocations 
 2. Tie up two different Warlock resources in one choice
 3. Fail to expand on or improve a play pattern 
-
+ 
 ### Our Three Fixes 
 To address these invocations, we're going to be focusing on text all of them share. Here is their text box where the specific spell is replaced by *spell name*.
 
@@ -25,7 +25,7 @@ Here are our three potential solutions
 ### Option 1: Quick Fix 
 > #### Warlock Invocation
 >You learn the *spell name* spell. You can cast *spell name* once without consuming a spell slot. You can't do so again until you finish a long rest.
-
+ 
 This fix straight powers up the invocations. It both allows you to learn a spell otherwise outside the Warlock class and additionally gives you a free use once per long rest. Players that want to actively fit a spell like *slow* or *bane* into their character concept can do so with this change. Being able to use your regular slots to cast the invocation spell can help define an entire character build. 
 
 In its current state, full on caster Warlocks that utilize a hefty spell list to act are not well supported. While they shouldn't compete toe to toe with Wizards and Sorcerers, having access to a specific spell one additional time goes a long way to supporting a desired play style. This provides warlocks with more stuff to do- it still has resource overlap but expands that resource a bit with an extra free use. It still locks down their concentration slot which can hurt dedicated *hex* builds. 
@@ -34,7 +34,7 @@ This feature doesn't make the invocations feel epic, though. They end up just be
 
 ### Option 2: Remove Concentration 
 > #### Warlock Invocation 
-> You can cast *spell name* once without consuming a spell slot. If the spell requires concentration, it no longer requires concentration and lasts until no creatures are affected by it or until its duration ends. 
+> You can cast *spell name* once without consuming a spell slot. If the spell requires concentration, it no longer requires concentration and lasts until no creatures are affected by it or until its duration ends. Once you use this invocation, can't use it again until you finish a long rest.
 
 By removing concentration on the spells and giving them a single free use per long rest, these invocations can act as encounter shaping effects. These invocations can now fit into many more builds than before as their concentration slot can still be used for spells like *hex*. 
 
@@ -49,7 +49,7 @@ If the option still feels too weak at the table, however, consider adjusting it 
 ### Option 3: Give and Take 
 Alright, this is a weird one- one of my weirder designs. This specific option would exclude Sculptor of Flesh and Sign of Ill Omen. Hear me out:
 > #### Warlock Invocation
-> You can cast *spell name* at will, without expending a spell slot. While at least one other creature is affected by the spell, you suffer the spells effect as well. Once no other creature is affect by the spell, the spell ends.
+> You can cast *spell name* at will, without expending a spell slot. While at least one other creature is affected by the spell, you suffer the spells effect as well. Once no other creature is affected by the spell, the spell ends.
 
 This option gives Warlock something they have been asking for since their conception: a way to sacrifice to make others suffer. The class fantasy of making a deal with the devil tends to be all upsides- here is a powerful feature that has a significant downside. *Slow* at will can be powerful and build defining- but are you willing to also be slowed? Bestowing a curse on your enemies as a fey lock seems on point- but as a mortal wielding fey power, you too suffer from the misfortune *bane* brings. 
 
