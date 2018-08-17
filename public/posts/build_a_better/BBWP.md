@@ -1,15 +1,55 @@
 
 ## Brew Bits: Building a Warlock Patron
 
-Your designing a world. Magic is abundant, great powers vie for absolute control over a complex realm. A player approaches your ancient entity of war and wants to strike a deal. "In exchange for your power, war monger, I will do favors for you and help turn the tide of this conflict to your favor!"
+"The slimecrusted walls and occult scrawlings would shake any average adventurer- not I! The secret of their strange powers must lie somewhere in these lightless tunnels. No matter how many times I slay them, they always seem to reform with their blank gelatinous faces and amorphus phisology. ALl I know is that when I uncover the magical nature and chemistry behind this patron I will be revered for years to-" - Kalimor Kalimorious, wizard extrodinaire as he stumbled into a disguesed gelatinous cube.
 
-So now as a DM you have an issue- how do you mechanically approach this bargain?
+Warlocks are the best tool box class 5th edition has to offer. The act as the most customizable option in the game. By third level, you have chosen your own Patron, Invocations, Spells, and Pact boon- literally every feature you've obtained has offered customization choices. A huge part of the identity and popularity of the class comes from this customization bit. More importantly, the Otherwordly Patron drives player and DM imaginiation alike and inspires players to come up with unique and engaging characters.
 
-Plenty of options exist currently for the Warlock class. Today, we're looking at creating your own to bring your world to life and engage your players in the world around them in more ways than ever before. 
+Designing patrons for whatever purpose asks a lot of the creator. For todays Brew Bits, we'll break down Otherworldly Patrons in a step by step guide that can help you bring your own Otherworldly Entities to the table in ways the core books just don't support. 
 
-### Warlock Subclasses
+Our warlock otherworldly patron that we'll be using for reference is the Endless Ooze- whether you are a worshiper of Jubilex, demon lord of oozes, or have contacted a plane encompassing hive mind ooze from the outer realms, the Endless Ooze brings the all the fun of the gelatinous cube and black pudding to your Warlocks!
 
-Why do we build new Warlock subclasses? For one, they can provide meaningful world implecations and lore elements to a game that the existing patrons don't naturally fulfill. Sure, you can reflavor and edit existing patrons pretty easily to fit your aesthetic. Making your own can be far more engaging and fun for both your and your party.
+> ## Otherworldly Patron: The Endless Ooze 
+> You have made a pact with a sentient otherwordly amorphous entity. These entities vary from hungering endless masses of acid to powerful demon lords looking to bring madness to the material. Jubilex, demon lord of oozes, and Ghaundaur, that which lurks, both serve as powerful entities eager to deal with mortals. You have bargained with this powerful entity to borrow power that changes your physcial form to become as mutable as the oozes of the material plane. 
+>
+> ### Expanded Spell List
+> The Endless Ooze lets you choose from an expanded list of spells when you leanr a warlock spell. The following spells are added to the warlock spell list for you. 
+
+>
+|Spell Level| Spells|
+|:--:|:--|
+|1st| *grease, ray of sickness*|
+|2nd| *pass without trace, protection from poison*|
+|3rd| *meld into stone, stinking cloud*|
+|4th| *control water, stone shape*|
+|5th| *contagion, passwall*| 
+
+>
+>### Mutable Form
+> Starting at 1st level, you adopt your patron's amorphous form. You can use a bonus action to become **amorphous** until the end of your turn. While amorphous, you any equipment you are carrying lose their natural form. You can move through a sapce as narrow as 1 inch wide without squeezing. 
+>
+> If you end your turn in a space that you would normally not fit, you are shunted to the nearest unoccupied space and take 1d10 force damage for every 5 feet you are shunted.
+>
+>### Aspect of the Ooze
+>At 6th level, choose one of the following aspects to adopt: 
+>
+> ***Gelatinous Cube: Transparent.*** As an action, you can mutate your form and any equipment you are carrying, becoming transparent for up to 1 minute. While you are not moving or taking other actions, it takes a successful Wisdom (Perception) check to spot you with a DC equal to your Warlock spell save DC. A creature that tries to enter your space while unware of you is suprised by you. 
+>
+> Once you use this feature, it can't be used again until you finish a short or long rest.
+>
+>### Unnatural Constitution
+> At 10th level, your patron grants you the resistances and constitution of an ooze. Your Constitution score increases by 2, to a maximum of 22. 
+>
+> In addition, choose two of the following damage types: bludgeoning, piercing, slashing, acid, cold, fire, lightning. You gain resistance to the chosen damage types. 
+>
+>### Consumption 
+> At 14th level, your body can mutate into a full ooze. As an action on your turn, a creature your size or smaller within 5 feet of you must succeed on a Dexterity saving throw against your Warlock spell save DC or become engulfed inside you. You grow one size category and become transulcent while a creature is engulfed in you.
+>
+> An engulfed creature takes 4d6 acid damage. It can't breathe, is restrained, and takes an additional 4d6 acid damage at the start of each of your turns.
+> 
+> An engulfed creature can try to escape by takeing an action to make a Strength check against your Warlock spell save DC+ your Constitution modifier. On a sucecss, the creature escapes and enters a space of its choice within 5 feet of you. 
+>
+> Once you engulf a creature with this feature, you can't do so again until you complete you finish a long rest.
 
 #### Bring a unique entity into your world 
  
