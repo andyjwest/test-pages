@@ -25,7 +25,7 @@ Here are our three potential solutions
 ### Option 1: Quick Fix 
 > #### Warlock Invocation
 >You learn the *spell name* spell. You can cast *spell name* once without consuming a spell slot. You can't do so again until you finish a long rest.
-
+ 
 This fix straight powers up the invocations. It both allows you to learn a spell otherwise outside the Warlock class and additionally gives you a free use once per long rest. Players that want to actively fit a spell like *slow* or *bane* into their character concept can do so with this change. Being able to use your regular slots to cast the invocation spell can help define an entire character build. 
 
 In its current state, full on caster Warlocks that utilize a hefty spell list to act are not well supported. While they shouldn't compete toe to toe with Wizards and Sorcerers, having access to a specific spell one additional time goes a long way to supporting a desired play style. This provides warlocks with more stuff to do- it still has resource overlap but expands that resource a bit with an extra free use. It still locks down their concentration slot which can hurt dedicated *hex* builds. 
