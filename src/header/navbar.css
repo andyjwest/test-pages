@@ -12,39 +12,10 @@ img.nav-item:hover{
 
 .nav {
     position: fixed;
+    height: 100%;
     z-index: 1;
-    top: 150px;
-    border-style: solid;
-    border-width: 5px;
+    background: var(--seashell-color);
     /*overflow-x: hidden;*/
     /*transition: 0.5s;*/
     /*padding-top: 60px;*/
-}
-
-a.active{
-    background: var(--old-rose-color);
-}
-
-.nav a {
-    /*width: 50px;*/
-    /*height: 50px;*/
-    /*display: block;*/
-}
-
-.nav a:hover {
-
-}
-
-.nav .closebtn {
-    position: absolute;
-    top: 0;
-    right: 25px;
-    font-size: 36px;
-    margin-left: 50px;
-}
-
-@media screen and (max-width: 450px) {
-    .nav{
-        position: relative;
-    }
 }

@@ -13,20 +13,24 @@
     ]
   },
   {
-    "id": "build_a_better",
-    "title": "Build a Better",
-    "path": "/build_a_better",
-    "icon":"/icons/hammer.png",
+    "id": "brew_bits",
+    "title": "Brew Bits",
+    "path": "/brew_bits",
+    "icon":"/icons/cauldron.png",
     "posts": [
       {
-        "name": "build_a_better_intro.md",
-        "path": "/build_a_better/build_a_better_intro",
-        "url": "/posts/build_a_better/build_a_better_intro.md"
+        "name": "BBWP.md",
+        "path": "/building_warlock_patron",
+        "url": "/brew_bits/BBWP.md",
+        "headline-image":"https://i0.wp.com/nerdarchy.com/wp-content/uploads/2018/06/warlock-spell.jpg?resize=1024%2C705&ssl=1",
+        "card-image":"https://i0.wp.com/nerdarchy.com/wp-content/uploads/2018/06/warlock-spell.jpg?resize=1024%2C705&ssl=1"
       },
       {
-        "name": "build_a_better_two.md",
-        "path": "/build_a_better/build_a_better_two",
-        "url": "/posts/build_a_better/build_a_better_two.md"
+        "name": "bbfs.md",
+        "path": "/fighting_styles",
+        "url": "/brew_bits/bbfs.md",
+        "headline-image":"https://i0.wp.com/nerdarchy.com/wp-content/uploads/2018/06/warlock-spell.jpg?resize=1024%2C705&ssl=1",
+        "card-image":"https://i0.wp.com/nerdarchy.com/wp-content/uploads/2018/06/warlock-spell.jpg?resize=1024%2C705&ssl=1"
       }
     ]
   },
@@ -42,6 +46,22 @@
     "title": "Hot Fix",
     "path": "/hot_fix",
     "icon":"/icons/fire.png",
-    "posts": []
+    "url":"hotfix/",
+    "posts": [
+      {
+        "name":"Long Rest Spell Invocations",
+        "path":"/lrinvocations",
+        "url":"/lrinvocations.md",
+        "headline-image":"https://i0.wp.com/nerdarchy.com/wp-content/uploads/2018/06/warlock-spell.jpg?resize=1024%2C705&ssl=1",
+        "card-image":"https://i0.wp.com/nerdarchy.com/wp-content/uploads/2018/06/warlock-spell.jpg?resize=1024%2C705&ssl=1"
+
+      },{
+        "name":"Smiting",
+        "path":"/smiting",
+        "url":"/smiting.md",
+        "headline-image":"https://i.pinimg.com/474x/2b/1b/0b/2b1b0bef95913d18e2212352cf8e04b2--warrior-women-character-art.jpg",
+        "card-image":"https://i.pinimg.com/474x/2b/1b/0b/2b1b0bef95913d18e2212352cf8e04b2--warrior-women-character-art.jpg"
+      }
+    ]
   }
 ]

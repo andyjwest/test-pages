@@ -1,0 +1,23 @@
+{
+  "id": "brew_bits",
+  "title": "Brew Bits",
+  "path": "/brew_bits",
+  "icon":"/icons/cauldron.png",
+  "url":"build_a_better",
+  "posts": [
+    {
+      "name": "BBWP.md",
+      "path": "/building_warlock_patron",
+      "url": "BBWP.md",
+      "headline-image":"https://i0.wp.com/nerdarchy.com/wp-content/uploads/2018/06/warlock-spell.jpg?resize=1024%2C705&ssl=1",
+      "card-image":"https://i0.wp.com/nerdarchy.com/wp-content/uploads/2018/06/warlock-spell.jpg?resize=1024%2C705&ssl=1"
+    },
+    {
+      "name": "bbfs.md",
+      "path": "/fighting_styles",
+      "url": "bbfs.md",
+      "headline-image":"https://i0.wp.com/nerdarchy.com/wp-content/uploads/2018/06/warlock-spell.jpg?resize=1024%2C705&ssl=1",
+      "card-image":"https://i0.wp.com/nerdarchy.com/wp-content/uploads/2018/06/warlock-spell.jpg?resize=1024%2C705&ssl=1"
+    }
+  ]
+}

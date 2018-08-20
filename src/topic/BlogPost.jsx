@@ -1,5 +1,6 @@
 import React from 'react';
 import ReactMarkdown from 'react-markdown';
+import buildGithubUrl from '../GitbugUrlBuilder';
 
 class BlogPost extends React.Component {
 
@@ -9,7 +10,7 @@ class BlogPost extends React.Component {
 	}
 
 	componentWillMount(){
-		fetch(this.props.post.url)
+		fetch(buildGithubUrl(this.props.url, this.props.post.url))
 			.then(response => response.text())
 			.then(text => this.setState({
 				markdown: text
@@ -20,7 +21,7 @@ class BlogPost extends React.Component {
 	render(){
 		return (
 			<div className="post">
-				<ReactMarkdown source={this.state.markdown}/>
+				<ReactMarkdown escapeHtml={false} source={this.state.markdown}/>
 			</div>
 		);
 	}

@@ -40,8 +40,8 @@ class NavBar extends Component{
 
         if(this.props.topics != null){
 		    navItems = this.props.topics.map(topic => (
-                <NavLink key={topic.id} to={'/' + topic.id} activeClassName="active">
-                    <img className="nav-item" src={topic.icon} />
+                <NavLink key={topic.id} to={topic.path} activeClassName="active">
+                    <img className="nav-item" src={topic.icon}/>
                 </NavLink>
             ));
         }
@@ -49,9 +49,7 @@ class NavBar extends Component{
 		return (
 
             <div className={navClass} id="myTopnav">
-                <NavLink to="/" activeClassName="active" exact={true}>
-                    <img className="nav-item" src="/icons/castle.svg" />
-                </NavLink>
+                <NavLink to="/" activeClassName="active" exact={true}>Home</NavLink>
                 {navItems}
             </div>
 		);

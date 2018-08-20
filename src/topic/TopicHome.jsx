@@ -6,7 +6,7 @@ class TopicHome extends Component{
     render(){
         let posts;
         if(this.props.topic && this.props.topic.posts){
-            posts = this.props.topic.posts.map(post => <BlogPost post={post} key={post.name}/>)
+            posts = this.props.topic.posts.map(post => <BlogPost post={post} url={this.props.topic.url} key={post.name}/>)
         }
 
         return (
