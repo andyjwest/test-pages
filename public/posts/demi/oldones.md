@@ -100,4 +100,16 @@ ___
 
 
 
-## World Building 
+## Intro
+### Player Options (Brief) 
+## World Building
+### Followers
+#### NPC Types 
+#### Spell Services
+#### Quest Ideas 
+### Structures/Appearance 
+#### Friendly Structures 
+#### Dungeons 
+#### Building a Fortress 
+- Singular Anyone Rules for Strongholds new Room/Structure 
+
