@@ -11,14 +11,6 @@ class Home extends Component {
         }
     }
 
-    componentDidMount(){
-        fetch("https://raw.githubusercontent.com/andyjwest/test-pages/master/public/posts/be_a_better/BaBBM.md")
-            .then(response => response.text()).then(text => this.setState({
-            md:text.substr(0, 750)
-        }));
-
-    }
-
     render() {
         let topic = {};
         if(this.props.topics){

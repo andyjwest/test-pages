@@ -1,7 +1,7 @@
 import React, {Component} from 'react';
 import {Link} from 'react-router-dom';
 import ReactMarkdown from 'react-markdown';
-import '../headliner.css';
+import './headliner.css';
 
 class Headliner extends Component {
     render() {

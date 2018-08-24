@@ -38,19 +38,10 @@ class NavBar extends Component{
 
 		let navItems;
 
-        if(this.props.topics != null){
-		    navItems = this.props.topics.map(topic => (
-                <NavLink key={topic.id} to={topic.path} activeClassName="active">
-                    {topic.title}
-                </NavLink>
-            ));
-        }
-
 		return (
 
             <div className={navClass}>
                 <NavLink to="/" activeClassName="active" exact={true}>Home</NavLink>
-                {navItems}
                 <a className="icon" onClick={() => this.toggleHamburger()}>&#9776;</a>
             </div>
 		);

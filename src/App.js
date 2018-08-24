@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-import NavBar from './header/NavBar.jsx';
+import NavBar from './navbar/NavBar.jsx';
 import Home from './home/Home';
 import {BrowserRouter, Route} from 'react-router-dom'
 import './index.css';
@@ -33,7 +33,6 @@ class App extends Component {
                         )}
                     </div>
                 </div>
-
             </BrowserRouter>
         );
     }

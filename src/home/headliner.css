@@ -7,7 +7,6 @@
 
 div.headline-container{
     max-height: 400px;
-    box-shadow: 0 4px 4px 0 var(--dark-brown-shadow),0 4px 10px 0 var(--dark-brown-shadow);
 }
 
 div.headline-container:hover {
@@ -19,11 +18,10 @@ div.headline-container:hover {
     top: 150px;
     left: 10px;
     right: 10px;
-    color: var(--dark-brown-color);
+    color: var(--black);
     padding: 15px 15px;
     margin-bottom: 10px;
-    background-color: var(--seashell-trans-color);
-    box-shadow: 0 4px 4px 0 var(--dark-brown-shadow),0 4px 10px 0 var(--dark-brown-shadow);
+    background-color: var(--yellow);
 }
 
 img.headline {
@@ -34,11 +32,10 @@ img.headline {
     .headline-text {
         position: absolute;
         top: 0;
-        color: var(--dark-brown-color);
+        color: var(--black);
         padding: 15px 15px;
         margin-bottom: 10px;
-        background-color: var(--seashell-trans-color);
-        box-shadow: 0 4px 4px 0 var(--dark-brown-shadow),0 4px 10px 0 var(--dark-brown-shadow);
+        background-color: var(--yellow);
         overflow: hidden;
         text-overflow: ellipsis;
     }

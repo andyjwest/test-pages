@@ -1,18 +1,18 @@
 
 .nav {
     overflow: hidden;
-    background-color: var(--black);
+    text-align: center;
+
     /*box-shadow: 0 2px 4px 0 var(--dark-brown-shadow),0 2px 10px 0 var(--dark-brown-shadow);*/
 }
 
 .nav a {
-    float: left;
-    display: block;
-    color: var(--yellow);
+    display: inline-block;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
     font-size: 17px;
+    color: var(--black);
 }
 
 .active {
@@ -30,6 +30,10 @@
 @media screen and (max-width: 600px) {
     .nav a:not(:first-child){
         display: none;
+    }
+    .nav a:first-child{
+        display: block;
+        float: left;
     }
     .nav a.icon {
         float: right;
