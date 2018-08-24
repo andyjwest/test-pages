@@ -1,12 +1,13 @@
 :root {
-    --seashell-color: #FFF5EC;
-    --seashell-trans-color: rgba(255,245,236, .5);
-    --old-rose-color: #C2847A;
-    --old-silver-color:#848586;
-    --dark-brown-color:#350003;
-    --dark-brown-shadow: rgba(53,0,3, .16);
-    --tuscany-color:#BAA898;
     --font-family: "Trebuchet MS", fantasy;
+
+    --black:#090909;
+    --gray: #4B5043;
+    --oragne:#ED7053;
+    --red:#E04F3C;
+    --yellow:#F4E6A8;
+
+
 }
 
 body {

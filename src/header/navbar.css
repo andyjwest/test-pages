@@ -1,21 +1,56 @@
-img.nav-item {
-    width: 50px;
-    height: 50px;
-    display: block;
-    margin: 5px;
-}
-
-img.nav-item:hover{
-    transform: scale(1.11);
-    transition: 0.3s;
-}
 
 .nav {
-    position: fixed;
-    height: 100%;
-    z-index: 1;
-    background: var(--seashell-color);
-    /*overflow-x: hidden;*/
-    /*transition: 0.5s;*/
-    /*padding-top: 60px;*/
+    overflow: hidden;
+    background-color: var(--black);
+    /*box-shadow: 0 2px 4px 0 var(--dark-brown-shadow),0 2px 10px 0 var(--dark-brown-shadow);*/
+}
+
+.nav a {
+    float: left;
+    display: block;
+    color: var(--yellow);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.active {
+    background-color: var(--red);
+}
+
+.nav .icon {
+    display: none;
+}
+
+.nav a:hover {
+    background-color: var(--oragne);
+}
+
+@media screen and (max-width: 600px) {
+    .nav a:not(:first-child){
+        display: none;
+    }
+    .nav a.icon {
+        float: right;
+        display: block;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .nav.responsive {
+        position: relative;
+    }
+
+    .nav.responsive .icon {
+        position: absolute;
+        right: 0;
+        top: 0;
+    }
+
+    .nav.responsive a {
+        float: none;
+        display: block;
+        text-align: left;
+    }
 }

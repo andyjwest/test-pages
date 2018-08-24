@@ -41,16 +41,17 @@ class NavBar extends Component{
         if(this.props.topics != null){
 		    navItems = this.props.topics.map(topic => (
                 <NavLink key={topic.id} to={topic.path} activeClassName="active">
-                    <img className="nav-item" src={topic.icon}/>
+                    {topic.title}
                 </NavLink>
             ));
         }
 
 		return (
 
-            <div className={navClass} id="myTopnav">
+            <div className={navClass}>
                 <NavLink to="/" activeClassName="active" exact={true}>Home</NavLink>
                 {navItems}
+                <a className="icon" onClick={() => this.toggleHamburger()}>&#9776;</a>
             </div>
 		);
 	}
