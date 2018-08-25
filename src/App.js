@@ -19,7 +19,6 @@ class App extends Component {
         return (
             <BrowserRouter>
                 <div>
-                    <NavBar topics={this.state.topics}/>
                     <div className="content">
                         <Route exact path="/" render={({match})=>
                             <Home categories={this.state.topics}/>
@@ -32,6 +31,7 @@ class App extends Component {
                             }/>
                         )}
                     </div>
+                    <NavBar topics={this.state.topics}/>
                 </div>
             </BrowserRouter>
         );
