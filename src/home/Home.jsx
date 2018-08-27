@@ -1,6 +1,5 @@
 import React, {Component} from 'react';
 import Headliner from './Headliner';
-import CategoryContainer from './CategoryContainer';
 
 class Home extends Component {
 
@@ -20,7 +19,6 @@ class Home extends Component {
             <div className='container'>
                 <Headliner backgroundImage="./image.jpg"
                            topic={topic} snipit={this.state.md}/>
-                <CategoryContainer categories={this.props.topics}/>
             </div>
         )
     }
