@@ -6,18 +6,16 @@
   "url":"build_a_better",
   "posts": [
     {
-      "name": "BBWP.md",
+      "name": "Building Otherworldly Warlock Patrons",
       "path": "/building_warlock_patron",
       "url": "BBWP.md",
-      "headline-image":"https://i0.wp.com/nerdarchy.com/wp-content/uploads/2018/06/warlock-spell.jpg?resize=1024%2C705&ssl=1",
-      "card-image":"https://i0.wp.com/nerdarchy.com/wp-content/uploads/2018/06/warlock-spell.jpg?resize=1024%2C705&ssl=1"
+      "headlineImage":"https://i0.wp.com/nerdarchy.com/wp-content/uploads/2018/06/warlock-spell.jpg?resize=1024%2C705&ssl=1",
+      "cardImage":"https://i0.wp.com/nerdarchy.com/wp-content/uploads/2018/06/warlock-spell.jpg?resize=1024%2C705&ssl=1"
     },
     {
-      "name": "bbfs.md",
+      "name": "Fighting Styles",
       "path": "/fighting_styles",
-      "url": "bbfs.md",
-      "headline-image":"https://i0.wp.com/nerdarchy.com/wp-content/uploads/2018/06/warlock-spell.jpg?resize=1024%2C705&ssl=1",
-      "card-image":"https://i0.wp.com/nerdarchy.com/wp-content/uploads/2018/06/warlock-spell.jpg?resize=1024%2C705&ssl=1"
+      "url": "bbfs.md"
     }
   ]
 }

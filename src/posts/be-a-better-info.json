@@ -7,8 +7,12 @@
   "posts": [
     {
       "name": "Test Two",
-      "path": "/be_a_better/test_two",
+      "path": "test_two",
       "url": "testTwo.md"
+    },{
+      "name": "Be a Better Beast Master",
+      "path": "BaBBM",
+      "url": "BaBBM.md"
     }
   ]
 }

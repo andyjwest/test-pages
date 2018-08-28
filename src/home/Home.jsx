@@ -1,24 +1,43 @@
 import React, {Component} from 'react';
 import Headliner from './Headliner';
+import {categories} from '../posts/info.js';
 
 class Home extends Component {
 
     constructor(props){
         super(props);
         this.state ={
-            md: ""
+            posts: []
+        }
+    }
+
+    componentDidMount(){
+        let posts = [];
+        let cat = categories();
+        for (let i = 0; i < cat.length; i++) {
+            let category = cat[i];
+            for (let j = 0; j < category.posts.length; j++) {
+                let post = category.posts[j];
+                posts.push({
+                    name: post.name,
+                    path: category.path + '/' + post.path,
+                    url: category.url + '/' + post.url,
+                    category: category.title
+                });
+            }
+            this.setState({posts: this.state.posts.concat(posts)})
         }
     }
 
     render() {
-        let topic = {};
-        if(this.props.topics){
-            topic = this.props.topics[0];
+
+        let posts = [];
+        for (let i = 0; i < this.state.posts.length; i++) {
+            posts.push(<Headliner post={this.state.posts[i]} />);
         }
         return (
             <div className='container'>
-                <Headliner backgroundImage="./image.jpg"
-                           topic={topic} snipit={this.state.md}/>
+                {posts}
             </div>
         )
     }

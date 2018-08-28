@@ -9,15 +9,15 @@
       "name":"Long Rest Spell Invocations",
       "path":"/lrinvocations",
       "url":"/lrinvocations.md",
-      "headline-image":"https://i0.wp.com/nerdarchy.com/wp-content/uploads/2018/06/warlock-spell.jpg?resize=1024%2C705&ssl=1",
-      "card-image":"https://i0.wp.com/nerdarchy.com/wp-content/uploads/2018/06/warlock-spell.jpg?resize=1024%2C705&ssl=1"
+      "headlineImage":"https://i0.wp.com/nerdarchy.com/wp-content/uploads/2018/06/warlock-spell.jpg?resize=1024%2C705&ssl=1",
+      "cardImage":"https://i0.wp.com/nerdarchy.com/wp-content/uploads/2018/06/warlock-spell.jpg?resize=1024%2C705&ssl=1"
 
     },{
       "name":"Smiting",
       "path":"/smiting",
       "url":"/smiting.md",
-      "headline-image":"https://i.pinimg.com/474x/2b/1b/0b/2b1b0bef95913d18e2212352cf8e04b2--warrior-women-character-art.jpg",
-      "card-image":"https://i.pinimg.com/474x/2b/1b/0b/2b1b0bef95913d18e2212352cf8e04b2--warrior-women-character-art.jpg"
+      "headlineImage":"https://i.pinimg.com/474x/2b/1b/0b/2b1b0bef95913d18e2212352cf8e04b2--warrior-women-character-art.jpg",
+      "cardImage":"https://i.pinimg.com/474x/2b/1b/0b/2b1b0bef95913d18e2212352cf8e04b2--warrior-women-character-art.jpg"
     }
   ]
 }
