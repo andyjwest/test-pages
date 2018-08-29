@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
 import Headliner from './Headliner';
-import {categories} from '../posts/info.js';
+import {buildGithubUrl} from "../ResponseMapper";
 
 class Home extends Component {
 
@@ -12,22 +12,33 @@ class Home extends Component {
     }
 
     componentDidMount(){
-        let posts = [];
-        let cat = categories();
+        let cat = this.props.categories;
         for (let i = 0; i < cat.length; i++) {
             let category = cat[i];
             for (let j = 0; j < category.posts.length; j++) {
-                let post = category.posts[j];
-                posts.push({
-                    name: post.name,
-                    path: category.path + '/' + post.path,
-                    url: category.url + '/' + post.url,
-                    headlineImage: post.headlineImage,
-                    cardImage: post.cardImage,
-                    category: category.title
-                });
+                let post = {
+                    name: category.posts[j].name,
+                    path: category.path + category.posts[j].path,
+                    url: category.url + category.posts[j].url,
+                    headlineImage: category.posts[j].headlineImage,
+                    cardImage: category.posts[j].cardImage,
+                    category: category.title,
+                    snipit: category.posts[j].snipit
+                };
+
+                fetch(buildGithubUrl(post.url))
+                    .then(response => {
+                        if (!response.ok) {
+                            throw Error(response.statusText);
+                        }
+                        return response.text();
+                    })
+                    .then(md => {
+                        post.markdown = md;
+                        this.setState({posts: this.state.posts.concat(post)})
+                    })
+            .catch(error => console.warn(error));
             }
-            this.setState({posts: this.state.posts.concat(posts)})
         }
     }
 
@@ -38,7 +49,7 @@ class Home extends Component {
             posts.push(<Headliner post={this.state.posts[i]} key={this.state.posts[i].url}/>);
         }
         return (
-            <div className='container'>
+            <div className='content'>
                 {posts}
             </div>
         )

@@ -1,13 +1,10 @@
 :root {
     --font-family: "Trebuchet MS", fantasy;
-
     --black:#090909;
     --gray: #4B5043;
     --oragne:#ED7053;
     --red:#E04F3C;
     --yellow:#F4E6A8;
-
-
 }
 
 body {
@@ -15,20 +12,15 @@ body {
     padding: 0;
     height: 100%;
     font-family: var(--font-family);
+    background-color: var(--gray);
 }
 
 div.content {
-    margin: 5px 5%;
+    margin: 5px 15% 60px 15%;
 }
 
-.two-columns {
-    -webkit-columns: 2 300px;
-    -moz-columns: 2 300px;
-    columns: 2 300px;
-}
-
-.card-columns {
-    -webkit-columns: 2 200px;
-    -moz-columns: 2 200px;
-    columns: 2 200px;
+@media screen and (max-width: 600px) {
+    div.content{
+        margin: 5px 5% 60px 5%;
+    }
 }

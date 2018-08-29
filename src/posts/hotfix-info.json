@@ -2,7 +2,7 @@
   "id": "hot_fix",
   "title": "Hot Fix",
   "path": "/hot_fix",
-  "url": "hotfix",
+  "url": "/hotfix",
   "icon":"/icons/fire.png",
   "posts": [
     {
