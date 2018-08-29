@@ -14,7 +14,10 @@ class Headliner extends Component {
     }
 
     componentDidMount(){
-        fetch(buildGithubUrl(this.props.post.url)).then(res => res.json()).then(data => this.setState({md: data}))
+        fetch(buildGithubUrl(this.props.post.url))
+            .then(res => res.text())
+            .then(data =>
+                this.setState({md: data}))
             .catch(error => console.warn(error));
     }
 

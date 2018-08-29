@@ -22,6 +22,8 @@ class Home extends Component {
                     name: post.name,
                     path: category.path + '/' + post.path,
                     url: category.url + '/' + post.url,
+                    headlineImage: post.headlineImage,
+                    cardImage: post.cardImage,
                     category: category.title
                 });
             }
@@ -33,7 +35,7 @@ class Home extends Component {
 
         let posts = [];
         for (let i = 0; i < this.state.posts.length; i++) {
-            posts.push(<Headliner post={this.state.posts[i]} />);
+            posts.push(<Headliner post={this.state.posts[i]} key={this.state.posts[i].url}/>);
         }
         return (
             <div className='container'>
