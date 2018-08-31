@@ -1,12 +1,12 @@
 
 .nav {
-    overflow: hidden;
+    /*overflow: hidden;*/
     text-align: center;
     position: fixed;
     left: 0;
     bottom: 0;
     width: 100%;
-    /*box-shadow: 0 2px 4px 0 var(--dark-brown-shadow),0 2px 10px 0 var(--dark-brown-shadow);*/
+    background: var(--black);
 }
 
 .nav a {
@@ -15,49 +15,40 @@
     padding: 14px 16px;
     text-decoration: none;
     font-size: 17px;
-    color: var(--black);
-}
-
-.active {
-
+    color: var(--yellow);
 }
 
 .nav .icon {
     display: none;
 }
 
-.nav a:hover {
+/*@media screen and (max-width: 600px) {*/
+    /*.nav a:not(:first-child){*/
+        /*display: none;*/
+    /*}*/
+    /*.nav a:first-child{*/
+        /*display: block;*/
+        /*float: left;*/
+    /*}*/
+    /*.nav a.icon {*/
+        /*float: right;*/
+        /*display: block;*/
+    /*}*/
+/*}*/
 
-}
+/*@media screen and (max-width: 600px) {*/
+    /*.nav.responsive {*/
 
-@media screen and (max-width: 600px) {
-    .nav a:not(:first-child){
-        display: none;
-    }
-    .nav a:first-child{
-        display: block;
-        float: left;
-    }
-    .nav a.icon {
-        float: right;
-        display: block;
-    }
-}
+    /*}*/
 
-@media screen and (max-width: 600px) {
-    .nav.responsive {
-        position: relative;
-    }
+    /*.nav.responsive .icon {*/
+        /*position: absolute;*/
+        /*right: 0;*/
+        /*top: 0;*/
+    /*}*/
 
-    .nav.responsive .icon {
-        position: absolute;
-        right: 0;
-        top: 0;
-    }
-
-    .nav.responsive a {
-        float: none;
-        display: block;
-        text-align: left;
-    }
-}
+    /*.nav.responsive a {*/
+        /*float: none;*/
+        /*display: block;*/
+    /*}*/
+/*}*/

@@ -1,0 +1,14 @@
+{
+  "id": "hot_fix",
+  "title": "Hot Fix",
+  "path": "/hot_fix",
+  "url": "/demi",
+  "icon":"/icons/fire.png",
+  "posts": [
+    {
+      "name":"Great Old One and Madness",
+      "path":"/oldones",
+      "url":"/oldones.md"
+    }
+  ]
+}

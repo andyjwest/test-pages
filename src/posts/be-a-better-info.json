@@ -3,12 +3,16 @@
   "title": "Be a Better",
   "path": "/be_a_better",
   "icon":"/icons/single-sword.png",
-  "url":"be_a_better",
+  "url":"/be_a_better",
   "posts": [
     {
       "name": "Test Two",
-      "path": "/be_a_better/test_two",
-      "url": "testTwo.md"
+      "path": "/test_two",
+      "url": "/testTwo.md"
+    },{
+      "name": "Be a Better Beast Master",
+      "path": "/BaBBM",
+      "url": "/BaBBM.md"
     }
   ]
 }

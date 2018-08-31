@@ -3,15 +3,30 @@ import NavBar from './navbar/NavBar.jsx';
 import Home from './home/Home';
 import {BrowserRouter, Route} from 'react-router-dom'
 import './index.css';
-import TopicHome from "./topic/TopicHome";
-import posts from "./posts/info";
+import {Post} from './posts/Post';
+import beBetter from "./posts/be-a-better-info.json";
+import brewBits from "./posts/brew-bits-info.json";
+import hotfix from "./posts/hotfix-info.json";
+import demi from "./posts/demi-info.json";
 
 class App extends Component {
 
-    constructor(props) {
+    constructor(props){
         super(props);
         this.state = {
-            topics: posts
+            categories: [beBetter, brewBits, hotfix, demi]
+        }
+    }
+    renderPost(match){
+        let category = this.state.categories.find(category => category.path === ('/' + match.params.categoryPath));
+        if(category){
+            let post = category.posts.find(post => post.path === ('/' + match.params.postPath));
+            return <Post post={{
+                url: category.url + post.url
+            }}/>
+
+        }else{
+            //TODO make an error page
         }
     }
 
@@ -19,19 +34,13 @@ class App extends Component {
         return (
             <BrowserRouter>
                 <div>
-                    <div className="content">
-                        <Route exact path="/" render={({match})=>
-                            <Home categories={this.state.topics}/>
-                        }/>
-                        {this.state.topics.length > 0 && (
-                            <Route exact path="/:topicPath" render={({match})=>
-                                <TopicHome topic={this.state.topics.find(
-                                    topic => topic.id === match.params.topicPath
-                                )}/>
-                            }/>
-                        )}
-                    </div>
-                    <NavBar topics={this.state.topics}/>
+                    <Route exact path='/' render={({match})=>
+                        <Home categories={this.state.categories}/>
+                    }/>
+                    <Route exact path='/:categoryPath/:postPath' render={({match}) =>
+                        this.renderPost(match)
+                    }/>
+                    <NavBar />
                 </div>
             </BrowserRouter>
         );

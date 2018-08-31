@@ -3,21 +3,20 @@
   "title": "Brew Bits",
   "path": "/brew_bits",
   "icon":"/icons/cauldron.png",
-  "url":"build_a_better",
+  "url":"/brew_bits",
   "posts": [
     {
-      "name": "BBWP.md",
+      "name": "Building Otherworldly Warlock Patrons",
       "path": "/building_warlock_patron",
-      "url": "BBWP.md",
-      "headline-image":"https://i0.wp.com/nerdarchy.com/wp-content/uploads/2018/06/warlock-spell.jpg?resize=1024%2C705&ssl=1",
-      "card-image":"https://i0.wp.com/nerdarchy.com/wp-content/uploads/2018/06/warlock-spell.jpg?resize=1024%2C705&ssl=1"
+      "url": "/BBWP.md",
+      "headlineImage":"https://i.pinimg.com/originals/89/99/ce/8999ce8a21742d46e495c4e90c9605ce.jpg",
+      "cardImage":"https://i.pinimg.com/originals/89/99/ce/8999ce8a21742d46e495c4e90c9605ce.jpg",
+      "snipit":"\"The slime crusted walls and occult scrawling would shake any average adventurer- not I! The secret of their strange powers must lie somewhere in these lightless tunnels. No matter how many times I slay them, they always seem to reform with their blank gelatinous faces and amorphous phisiology. All I know is that when I uncover the magical nature and chemistry behind this patron I will be revered for years to-\" - Kalimor Kalimorious, wizard extraordinaire as he stumbled into a transparent gelatinous cube."
     },
     {
-      "name": "bbfs.md",
+      "name": "Fighting Styles",
       "path": "/fighting_styles",
-      "url": "bbfs.md",
-      "headline-image":"https://i0.wp.com/nerdarchy.com/wp-content/uploads/2018/06/warlock-spell.jpg?resize=1024%2C705&ssl=1",
-      "card-image":"https://i0.wp.com/nerdarchy.com/wp-content/uploads/2018/06/warlock-spell.jpg?resize=1024%2C705&ssl=1"
+      "url": "/bbfs.md"
     }
   ]
 }

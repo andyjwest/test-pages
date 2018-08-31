@@ -1,42 +1,59 @@
 .headline-container {
-    position: relative;
-    transition: transform .2s; /* Animation */
-    overflow: hidden;
-    text-overflow: ellipsis;
+    margin: 20px 0;
+    background-color: var(--yellow);
+    box-shadow: 0 2px 4px 0 var(--black),0 2px 10px 0 var(--black);
 }
 
 div.headline-container{
-    max-height: 400px;
+    height: 200px;
+    overflow: hidden;
 }
 
 div.headline-container:hover {
-    transform: scale(1.01);
+
 }
 
-.headline-text {
-    position: absolute;
-    top: 150px;
-    left: 10px;
-    right: 10px;
+div.headline-text {
     color: var(--black);
-    padding: 15px 15px;
-    margin-bottom: 10px;
-    background-color: var(--yellow);
+    margin: 10px 10px 10px 210px;
+    height: 200px;
+}
+
+div.headline-text h1 {
+    color: var(--black);
+    margin: 5px;
+}
+
+div.headline-text h2 {
+    color: var(--black);
+    margin: 5px;
+}
+
+
+div.headline-text-only{
+    margin: 10px 10px 10px 10px;
 }
 
 img.headline {
-    width: 100%;
+    width: 200px;
+    height: 200px;
+    float: left;
+    object-fit: cover
 }
 
-@media screen and (max-width: 800px) {
-    .headline-text {
-        position: absolute;
-        top: 0;
+@media screen and (max-width: 600px) {
+    img.headline {
+        width: 150px;
+        height: 200px;
+        float: left;
+        object-fit: cover;
+    }
+    div.headline-text {
         color: var(--black);
-        padding: 15px 15px;
-        margin-bottom: 10px;
-        background-color: var(--yellow);
-        overflow: hidden;
-        text-overflow: ellipsis;
+        margin: 10px 10px 10px 160px;
+        height: 200px;
+    }
+    p.snipit {
+        display: none;
     }
 }
