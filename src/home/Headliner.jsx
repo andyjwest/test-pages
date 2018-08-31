@@ -31,7 +31,7 @@ class Headliner extends Component {
             <div className="headline-container">
                 {image}
                 <HeadlinerSummery post={this.props.post}/>
-                <FontAwesomeIcon icon={}/>
+                <FontAwesomeIcon icon={this.props.categoryIcon}/>
             </div>
         )
     }

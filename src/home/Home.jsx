@@ -1,6 +1,7 @@
 import React, {Component} from 'react';
 import Headliner from './Headliner';
 import {buildGithubUrl} from "../ResponseMapper";
+import {getIconByCategory} from "../properties";
 
 class Home extends Component {
 
@@ -23,7 +24,8 @@ class Home extends Component {
                     headlineImage: category.posts[j].headlineImage,
                     cardImage: category.posts[j].cardImage,
                     category: category.title,
-                    snipit: category.posts[j].snipit
+                    snipit: category.posts[j].snipit,
+                    categoryIcon: getIconByCategory(category.path)
                 };
 
                 fetch(buildGithubUrl(post.url))

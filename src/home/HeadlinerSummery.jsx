@@ -6,21 +6,18 @@ import './headliner.css';
 class HeadlinerSummery extends Component {
 
     render() {
-        let image;
         let headlineClass = 'headline-text';
-        if(this.props.post.cardImage){
-            image = <Link to={this.props.post.path}>
-                <img className="headline" src={this.props.post.cardImage}/>
-            </Link>;
-        }else{
+        if(!this.props.post.cardImage){
             headlineClass = 'headline-text-only';
         }
 
         return (
             <div className={headlineClass}>
-                <h1>{this.props.post.category}</h1>
+                <Link to={this.props.post.path}>
+                    <h1>{this.props.post.category}</h1>
+                </Link>
                 <h2>{this.props.post.name}</h2>
-                <p>{this.props.post.snipit}</p>
+                <p className="snipit">{this.props.post.snipit}</p>
             </div>
         )
     }

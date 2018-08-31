@@ -53,4 +53,7 @@ img.headline {
         margin: 10px 10px 10px 160px;
         height: 200px;
     }
+    p.snipit {
+        display: none;
+    }
 }
