@@ -172,6 +172,7 @@ How you frame dungeon exploration also plays a pivotal role. A focus on light, t
 Below are some ideas for effects that can encompass your dungeons entirely to present new, unique challenges that sets these Great Old One dungeons apart from other dungeons.
 
 |d10| Environmental Effect|
+|:--:|:--|
 |1|
 |2|
 |3|
