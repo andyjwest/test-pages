@@ -1,7 +1,7 @@
 
 ## Brew Bits: Building Otherworldly Warlock Patrons
 
-<img src="https://i.pinimg.com/originals/89/99/ce/8999ce8a21742d46e495c4e90c9605ce.jpg">
+<img src="https://i.pinimg.com/originals/89/99/ce/8999ce8a21742d46e495c4e90c9605ce.jpg" style="position:absolute; left: 0px;">
 
 "The slime crusted walls and occult scrawling would shake any average adventurer- not I! The secret of their strange powers must lie somewhere in these lightless tunnels. No matter how many times I slay them, they always seem to reform with their blank gelatinous faces and amorphous phisiology. All I know is that when I uncover the magical nature and chemistry behind this patron I will be revered for years to-" - Kalimor Kalimorious, wizard extraordinaire as he stumbled into a transparent gelatinous cube.
 
