@@ -8,6 +8,11 @@ import beBetter from "./posts/be-a-better-info.json";
 import brewBits from "./posts/brew-bits-info.json";
 import hotfix from "./posts/hotfix-info.json";
 import demi from "./posts/demi-info.json";
+import { faWrench, faFill, faCogs, faPray } from '@fortawesome/free-solid-svg-icons';
+import { fab } from '@fortawesome/free-brands-svg-icons'
+import { library } from '@fortawesome/fontawesome-svg-core'
+
+library.add(faPray, faCogs, faFill, faWrench, fab);
 
 class App extends Component {
 

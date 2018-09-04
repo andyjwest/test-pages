@@ -2,17 +2,20 @@
   "id": "be_a_better",
   "title": "Be a Better",
   "path": "/be_a_better",
-  "icon":"/icons/single-sword.png",
+  "icon":"wrench",
   "url":"/be_a_better",
   "posts": [
     {
       "name": "Test Two",
       "path": "/test_two",
-      "url": "/testTwo.md"
+      "url": "/testTwo.md",
+      "publishDate": "October 15, 2000 05:35:32",
+      "snipit":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Montes nascetur ridiculus mus mauris vitae ultricies leo. Tempus egestas sed sed risus pretium quam. Convallis convallis tellus id interdum velit laoreet id. Tincidunt eget nullam non nisi est sit amet facilisis magna. Non arcu risus quis varius quam quisque id. Purus sit amet luctus venenatis lectus magna fringilla. Auctor urna nunc id cursus metus aliquam eleifend mi in. Lobortis scelerisque fermentum dui faucibus. Mauris rhoncus aenean vel elit scelerisque mauris pellentesque. Nisl condimentum id venenatis a condimentum. Id ornare arcu odio ut sem nulla pharetra."
     },{
       "name": "Be a Better Beast Master",
       "path": "/BaBBM",
-      "url": "/BaBBM.md"
+      "url": "/BaBBM.md",
+      "publishDate": "October 15, 1997 05:35:32"
     }
   ]
 }

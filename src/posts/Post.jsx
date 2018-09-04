@@ -1,6 +1,7 @@
 import React, {Component} from 'react';
 import {buildGithubUrl} from "../ResponseMapper";
 import ReactMarkdown from "react-markdown";
+import ShareButtons from './ShareButtons';
 import './post.css';
 
 export class Post extends Component {
@@ -26,8 +27,11 @@ export class Post extends Component {
 
     render() {
         return (
-            <div className="post">
+            <div>
+                <ShareButtons />
+                <div className="post">
                 <ReactMarkdown escapeHtml={false} source={this.state.markdown}/>
+                </div>
             </div>
         )
     }

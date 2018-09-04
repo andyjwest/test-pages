@@ -1,14 +1,18 @@
 {
   "id": "hot_fix",
-  "title": "Hot Fix",
-  "path": "/hot_fix",
+  "title": "Domains and Demigods",
+  "path": "/domains_demigods",
   "url": "/demi",
-  "icon":"/icons/fire.png",
+  "icon":"pray",
   "posts": [
     {
       "name":"Great Old One and Madness",
       "path":"/oldones",
-      "url":"/oldones.md"
+      "url":"/oldones.md",
+      "publishDate": "October 14, 2017 05:35:32",
+      "cardImage":"http://1.bp.blogspot.com/_xeOzo0Axgj0/TPxd8AHkkYI/AAAAAAAABww/GLj3zu2H_b0/s1600/img-hooded_tentacle.jpg",
+      "headlineImage":"http://1.bp.blogspot.com/_xeOzo0Axgj0/TPxd8AHkkYI/AAAAAAAABww/GLj3zu2H_b0/s1600/img-hooded_tentacle.jpg",
+      "snipit":"A crow caws out in the open over the bleak midwinter evening. A cloaked, shaking figure wanders through the snowfall with his bare, bleeding feet leaving red prints in a trail behind him. He is cloaked in a ruined suit, bits and pieces torn around the wrists and ankles with holes made by weapons carved throughout the rest of it. Behind him, in the distance, smoke rises from his latest crime made in the name of the Faceless One. This man either has gone mad and lost all sense of reality or is the only sane one left that sees the future doom racing towards the realm."
     }
   ]
 }
