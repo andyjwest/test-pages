@@ -35,18 +35,18 @@ They speak in mad tongues and sew insanity into the people around them. A small 
 
 The following few tables can help mix and match basic appearances of a follower of Old Gods with significant features and unique traits to set up some basic appearances you can present to your players.
 
-|d10| Basic Apperance| Unique Feature/Trait|
-|:--:|:--|:--|
-|1|
-|2|
-|3|
-|4|
-|5|
-|6|
-|7|
-|8|
-|9|
-|10|
+|d10| Basic Apperance| d10 |Unique Feature/Trait|
+|:--:|:--|:--:|:--|
+|1||1||
+|2||2||
+|3||3||
+|4||4||
+|5||5||
+|6||6||
+|7||7||
+|8||8||
+|9||9||
+|10||10|
 
 
 #### NPC Types 
@@ -152,37 +152,34 @@ There are some structures that are unique to madness and great old ones however.
 |10|
 
 #### Dungeons
-Dungeons dedicated to Great Old Ones or other mad entities can look quite different from the typcial dungeon. From sacrifical chambers to otherworldly ritual chambers, the rooms you choose to include in your dungeons around these beings can lead to a stand out dungeon that feels like it belongs in a greater story. 
+Dungeons dedicated to Great Old Ones or other mad entities can look quite different from the typcial dungeon. From sacrifical chambers to otherworldly ritual chambers, the rooms you choose to include in your dungeons around these beings can lead to a stand out dungeon that feels like it belongs in a greater story. Regular rooms, like mess halls and barracks, could look entirely different when dedicated to servants of Great Old Ones. 
 
-|d10|Dungeon Room|Descriptive Elements|
+|d8|Dungeon Room|Descriptive Elements|
 |:--:|:--|:--|
-|1|
-|2|
-|3|
-|4|
-|5|
-|6|
-|7|
-|8|
-|9|
-|10|
+|1| Sacrifical Chamber|Dim blue light, stone occult decorations on a stone sacricial slab, tentacle images and statues throughout the room
+|2| Mad Library|Warped and rotting wood shelves, living eyes afixed to book covers, no clear organization, text written in multiple seemingly random languages at once, occult symbols and incomprehensible gibberish written over regular text 
+|3| Animal Pens|Dead animals stitched together with other animal parts, living abominations composed of humanoid/beast parts, spiked gates with tooth and bat like fixtures|
+|4| Barracks/Bunks| Simple, near empty, possessions all seem to be coated in scratches and drawings, blood stained sheets
+|5| Dining Hall| Aquatic ornaments decorating benches and chairs, centerpieces all strange occult objects and statues, single dim light source in the center of the table, squid/fish like monsters disguised as food on table 
+|6| Ritual Chamber| Bizzare rune circles, focal point around single figure in center, walls and tables covered in alchemical supplies and strange spell components
+|7| Dedication Chamber|
+|8| Prison|
 
 How you frame dungeon exploration also plays a pivotal role. A focus on light, temperature, and atmosphere are pivital when creating an immersive expierence. The walls of these dungeons could be slimy stone or literally feel like the slimy interior of a living being. Perhaps torches barely function and magical light and darkvsion cease functioning entirely. These kinds of challenges are aimed at showing the party how small they are as well as present so much of the dungeon as unknown. This once again will tie into our goal of approaching cosmic horror within D&D. Hazzards and monsters in these dungeons likely want to show players how small they are comapred to the universe, and how insermountably powerful their foes are. 
 
-Below are some ideas for effects that can encompass your dungeons entirely to present new, unique challenges that sets these Great Old One dungeons apart from other dungeons.
+More so even though than dungeons the adventuring environment surrounding the players can best shape the feel of the game. Below are some ideas for environmental effects that shape how players act while within an area affected by a Great Old One, a powerful monster of insanity, or some mix of the two. 
 
-|d10| Environmental Effect|
+While with 5 miles of a Great Old One or a major cult/monster dedicated to it, one of the following effects occurs:
+
+|d6| Environmental Effect|
 |:--:|:--|
-|1|
-|2|
-|3|
-|4|
-|5|
-|6|
-|7|
-|8|
-|9|
-|10|
+|1| Light dims no matter what time of day it is. A thin mist always seems to abscure the sun and light.The environment is always considered to be dim light or darkness unless a magical or non-magical source creates bright light. 
+|2| Distances always seem to be warped as if an unnautral curvature is subtly shifting the horizon. Whenever a character makes a Survival, Investigation or Perception check when exploring the environment, roll a d4. If the result is a 1, the character must succeed on a DC 10 Wisdom saving throw or become frightened by a horrific visage the environment appeared to form in their mind until the start of their next turn and suffers 1d4 pyschic damage. 
+|3| Magical heavy rain and dark clouds envelope the landscape and heavily obscure vision. Lightning always seems to reveal some enormous visage above the clouds, but no physical entity is up there. 
+|4| All plant life seems to be bending and growing away from a central point. Animals can frequently be seen fleeing directly away from this point.
+|5| Disease and plagues run rampant. These strange viruses and bacteria lead to strange, aquatic deformities with people showing symptoms of extra eyes, scales, and tiny tentacles growing in strange places. Whenever a character completes a long rest while in the environment, roll a percentile die. On a result of 5 or below, the character has grown one of these unnatural deformities. 
+|6| Regular people spontaneously burst out in strange habits rythmically throughout the day, in song, prophecy of doom, or some other form of distrubing insanity. Whenever a character finishes a long rest while within the area, roll a d20. If the result is 5 or below, every 2d4 hours after finishing the rest until they finish another long rest, the character will have one of these random outbursts, lasting 1 round and otherwise incapacititating the character with no memory of the outburst after. 
+
 
 #### Closing Thoughts
 Cosmic Horror and Great Old Ones can be a great change of pace from a regular D&D game. They can act both as the driving force behind a huge story arch as well as a small side quest to distract players from the standard fantasy world they have been used to exploring. 
