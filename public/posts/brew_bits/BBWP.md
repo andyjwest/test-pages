@@ -1,5 +1,5 @@
 
-## Brew Bits: Building Otherworldly Warlock Patrons
+## Brew Bits: Building  Warlock Patrons
 
 <img src="https://i.pinimg.com/originals/89/99/ce/8999ce8a21742d46e495c4e90c9605ce.jpg" style="position:absolute; left: 0px;">
 
