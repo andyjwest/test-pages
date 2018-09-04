@@ -1,23 +1,23 @@
 import React, {Component} from 'react';
 import Headliner from './Headliner';
-import {buildGithubUrl} from "../ResponseMapper";
-import {getIconByCategory} from "../properties";
 
 class Home extends Component {
 
-    constructor(props){
+    constructor(props) {
         super(props);
-        this.state ={
+        this.state = {
             posts: []
         }
     }
 
-    componentDidMount(){
+    componentDidMount() {
+        document.title = "D3";
         let cat = this.props.categories;
+        let posts = [];
         for (let i = 0; i < cat.length; i++) {
             let category = cat[i];
             for (let j = 0; j < category.posts.length; j++) {
-                let post = {
+                posts.push({
                     name: category.posts[j].name,
                     path: category.path + category.posts[j].path,
                     url: category.url + category.posts[j].url,
@@ -25,23 +25,18 @@ class Home extends Component {
                     cardImage: category.posts[j].cardImage,
                     category: category.title,
                     snipit: category.posts[j].snipit,
-                    categoryIcon: getIconByCategory(category.path)
-                };
-
-                fetch(buildGithubUrl(post.url))
-                    .then(response => {
-                        if (!response.ok) {
-                            throw Error(response.statusText);
-                        }
-                        return response.text();
-                    })
-                    .then(md => {
-                        post.markdown = md;
-                        this.setState({posts: this.state.posts.concat(post)})
-                    })
-            .catch(error => console.warn(error));
+                    icon: category.icon,
+                    date: category.posts[j].publishDate
+                });
             }
         }
+
+        posts.sort(function(a, b) {
+            let dateA = new Date(a.date), dateB = new Date(b.date);
+            return dateB - dateA;
+        });
+
+        this.setState({posts: posts});
     }
 
     render() {
