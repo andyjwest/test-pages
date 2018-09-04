@@ -11,7 +11,7 @@ Designing patrons for whatever purpose asks a lot of the creator. For today’s 
 
 Our warlock otherworldly patron that we'll be using for reference is the Endless Ooze- whether you are a worshiper of Jubilex, demon lord of oozes, or have contacted a plane encompassing hive mind ooze from the outer realms, the Endless Ooze brings the all the fun of the gelatinous cube and black pudding to your Warlocks!
 
-> ## Otherworldly Patron: Ooze 
+> ## Otherworldly Patron: The Endless Ooze 
 > You have made a pact with a sentient otherworldly amorphous entity. These entities vary from hungering endless masses of acid to powerful demon lords looking to bring madness to the material. Jubilex, demon lord of oozes, and Ghaundaur, that which lurks, both serve as powerful entities eager to deal with mortals. You have bargained with this powerful entity to borrow power that changes your physical form to become as mutable as the oozes of the material plane. 
 >
 > ### Expanded Spell List
