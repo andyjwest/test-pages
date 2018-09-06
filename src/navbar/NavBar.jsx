@@ -40,7 +40,7 @@ class NavBar extends Component{
 
 		return (
             <div className={navClass}>
-                <NavLink to="/" activeClassName="active" exact={true}>Home</NavLink>
+                <NavLink to="/" activeClassName="active" exact={true}>{this.props.siteName}</NavLink>
                 <SocialMediaButton icon={['fab', 'twitter-square']} href={twitterLink} />
                 <SocialMediaButton icon={['fab', 'facebook-square']} href={facebookLink} />
                 <a className="icon" onClick={() => this.toggleHamburger()}>&#9776;</a>

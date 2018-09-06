@@ -8,6 +8,7 @@ import beBetter from "./posts/be-a-better-info.json";
 import brewBits from "./posts/brew-bits-info.json";
 import hotfix from "./posts/hotfix-info.json";
 import demi from "./posts/demi-info.json";
+import {siteName} from "./properties";
 import { faWrench, faFill, faCogs, faPray } from '@fortawesome/free-solid-svg-icons';
 import { fab } from '@fortawesome/free-brands-svg-icons'
 import { library } from '@fortawesome/fontawesome-svg-core'
@@ -22,6 +23,11 @@ class App extends Component {
             categories: [beBetter, brewBits, hotfix, demi]
         }
     }
+
+    componentDidMount() {
+        document.title = siteName;
+    }
+
     renderPost(match){
         let category = this.state.categories.find(category => category.path === ('/' + match.params.categoryPath));
         if(category){
@@ -38,14 +44,14 @@ class App extends Component {
     render() {
         return (
             <BrowserRouter>
-                <div>
+                <div className="content">
                     <Route exact path='/' render={({match})=>
                         <Home categories={this.state.categories}/>
                     }/>
                     <Route exact path='/:categoryPath/:postPath' render={({match}) =>
                         this.renderPost(match)
                     }/>
-                    <NavBar />
+                    <NavBar siteName={siteName}/>
                 </div>
             </BrowserRouter>
         );

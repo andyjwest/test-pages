@@ -1,5 +1,4 @@
 import React, {Component} from 'react';
-import {buildGithubUrl} from "../ResponseMapper";
 import ReactMarkdown from "react-markdown";
 import ShareButtons from './ShareButtons';
 import './post.css';
@@ -14,7 +13,7 @@ export class Post extends Component {
     }
 
     componentDidMount(){
-        fetch(buildGithubUrl(this.props.post.url))
+        fetch('/posts' + this.props.post.url)
             .then(response => {
                 if (!response.ok) {
                     throw Error(response.statusText);
@@ -29,8 +28,8 @@ export class Post extends Component {
         return (
             <div>
                 <ShareButtons />
-                <div className="post">
-                <ReactMarkdown escapeHtml={false} source={this.state.markdown}/>
+                <div className="shadowed-container post">
+                    <ReactMarkdown escapeHtml={false} source={this.state.markdown}/>
                 </div>
             </div>
         )

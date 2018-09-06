@@ -11,7 +11,6 @@ class Home extends Component {
     }
 
     componentDidMount() {
-        document.title = "D3";
         let cat = this.props.categories;
         let posts = [];
         for (let i = 0; i < cat.length; i++) {
@@ -37,6 +36,8 @@ class Home extends Component {
         });
 
         this.setState({posts: posts});
+
+        fetch('/posts/demi/luck.md').then(rep => console.log(rep.text()));
     }
 
     render() {

@@ -14,10 +14,10 @@ class Headliner extends Component {
 
         return (
             <Link className="headline" to={this.props.post.path}>
-                <div className="headline-container">
+                <div className="headline-container shadowed-container">
                     {image}
+                    <FontAwesomeIcon icon={this.props.post.icon} size="3x" className="topic-icon"/>
                     <HeadlinerSummery post={this.props.post}/>
-                    <FontAwesomeIcon icon={this.props.post.icon} size="3x"/>
                     {this.props.post.date}
                 </div>
             </Link>

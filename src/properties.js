@@ -6,3 +6,4 @@ export const pathToPosts = 'public/posts';
 export const appAddress = 'https://andyjwest.github.io/test-pages/';
 export const facebookLink = 'https://facebook.com';
 export const twitterLink = 'https://twitter.com';
+export const siteName ='Designer Dungeons';
