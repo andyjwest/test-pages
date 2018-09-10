@@ -2,19 +2,31 @@
     margin: 20px 0;
     height: 300px;
     overflow: hidden;
+    position: relative;
 }
 
 .topic-icon {
-    float: right;
+    position: absolute;
+    top: 0;
+    right: 0;
     margin: 5px;
 }
 
-div.headline-text h1 {
+h1.topic-name {
+    font-size: 1.1em;
     margin: 5px;
 }
 
-div.headline-text h2 {
+h2.post-name {
     margin: 5px;
+}
+
+.published-date {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    margin: 5px;
+    font-size: .5em;
 }
 
 img.headline {
@@ -37,10 +49,15 @@ a.headline {
         float: left;
         object-fit: cover;
     }
+    div.contents {
+        margin: 50px 0 0 0;
+    }
     div.headline-text {
         color: var(--black);
         margin: 10px 10px 10px 160px;
         height: 150px;
+        padding: 5px;
+        text-align: center;
     }
     p.snipit {
         display: none;
@@ -48,14 +65,14 @@ a.headline {
     div.headline-container{
         height: 150px;
         overflow: hidden;
+        position: relative;
     }
-    div.headline-text h1 {
-        margin: 5px;
-        font-size: 1em;
+    h1.topic-name {
+        display: none;
     }
 
-    div.headline-text h2 {
+    h2.post-name {
         margin: 5px;
-        font-size: 1.7em;
+        font-size: 1.1em;
     }
 }

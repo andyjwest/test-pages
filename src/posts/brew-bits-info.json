@@ -2,7 +2,7 @@
   "id": "brew_bits",
   "title": "Brew Bits",
   "path": "/brew_bits",
-  "icon":"fill",
+  "icon":"/icons/001-flasks.png",
   "url":"/brew_bits",
   "posts": [
     {

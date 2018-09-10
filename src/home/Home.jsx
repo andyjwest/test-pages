@@ -1,5 +1,6 @@
 import React, {Component} from 'react';
 import Headliner from './Headliner';
+import './home.css';
 
 class Home extends Component {
 
@@ -25,9 +26,10 @@ class Home extends Component {
                     category: category.title,
                     snipit: category.posts[j].snipit,
                     icon: category.icon,
-                    date: category.posts[j].publishDate
+                    date: new Date(category.posts[j].publishDate)
                 });
             }
+            console.log(category.icon)
         }
 
         posts.sort(function(a, b) {
@@ -36,8 +38,6 @@ class Home extends Component {
         });
 
         this.setState({posts: posts});
-
-        fetch('/posts/demi/luck.md').then(rep => console.log(rep.text()));
     }
 
     render() {

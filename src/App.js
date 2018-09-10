@@ -44,14 +44,14 @@ class App extends Component {
     render() {
         return (
             <BrowserRouter>
-                <div className="content">
+                <div>
+                    <NavBar siteName={siteName}/>
                     <Route exact path='/' render={({match})=>
                         <Home categories={this.state.categories}/>
                     }/>
                     <Route exact path='/:categoryPath/:postPath' render={({match}) =>
                         this.renderPost(match)
                     }/>
-                    <NavBar siteName={siteName}/>
                 </div>
             </BrowserRouter>
         );

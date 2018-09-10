@@ -3,11 +3,11 @@
   "title": "Hot Fix",
   "path": "/hot_fix",
   "url": "/hotfix",
-  "icon":"cogs",
+  "icon":"/icons/002-gears.png",
   "posts": [
     {
       "name":"Long Rest Spell Invocations",
-      "path":"/lrinvocations",
+      "path":"/long_rest_invocations",
       "url":"/lrinvocations.md",
       "headlineImage":"https://i0.wp.com/nerdarchy.com/wp-content/uploads/2018/06/warlock-spell.jpg?resize=1024%2C705&ssl=1",
       "cardImage":"https://i0.wp.com/nerdarchy.com/wp-content/uploads/2018/06/warlock-spell.jpg?resize=1024%2C705&ssl=1",
@@ -22,6 +22,12 @@
       "cardImage":"https://i.pinimg.com/474x/2b/1b/0b/2b1b0bef95913d18e2212352cf8e04b2--warrior-women-character-art.jpg",
       "publishDate": "October 12, 2017 05:35:32",
       "snipit":"By dim torchlight, Clarence leads his allies through the dank and decrepit mausoleum entrance. The light illuminates the backs of a group of patrolling zombies, each losing bits of themselves as they shamble. The light catches their attention- their heads swivel towards the paladin and his comrades. Dumb, dead stares lock eyes with the grinning chiseled-jaw human. Torch in one hand and blade in the other, blinding light erupts as Clarence cleaves his blade clean through the chests of the undead monsters. The zombies torsos slide off their legs, lifeless to the ground, dimly glowing where they radiance split them."
+    },{
+      "name":"Dispel Magic",
+      "path":"/dispel_magic",
+      "url":"/dmagic.md",
+      "publishDate":"October 30, 2019 05:35:32",
+      "snipit":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Integer quis auctor elit sed vulputate mi. Massa sapien faucibus et molestie ac feugiat sed. Odio aenean sed adipiscing diam. Augue mauris augue neque gravida in fermentum et. A pellentesque sit amet porttitor. At auctor urna nunc id cursus metus aliquam. Adipiscing at in tellus integer feugiat scelerisque varius morbi. Enim nulla aliquet porttitor lacus luctus accumsan tortor posuere ac. Amet purus gravida quis blandit turpis cursus in. Aliquet lectus proin nibh nisl condimentum id venenatis. Sagittis id consectetur purus ut faucibus pulvinar elementum integer. Sem fringilla ut morbi tincidunt augue interdum velit euismod in."
     }
   ]
 }

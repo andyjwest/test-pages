@@ -2,20 +2,20 @@
   "id": "be_a_better",
   "title": "Be a Better",
   "path": "/be_a_better",
-  "icon":"wrench",
+  "icon":"/icons/003-objective.png",
   "url":"/be_a_better",
   "posts": [
     {
-      "name": "Test Two",
-      "path": "/test_two",
-      "url": "/testTwo.md",
-      "publishDate": "October 15, 2000 05:35:32",
-      "snipit":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Montes nascetur ridiculus mus mauris vitae ultricies leo. Tempus egestas sed sed risus pretium quam. Convallis convallis tellus id interdum velit laoreet id. Tincidunt eget nullam non nisi est sit amet facilisis magna. Non arcu risus quis varius quam quisque id. Purus sit amet luctus venenatis lectus magna fringilla. Auctor urna nunc id cursus metus aliquam eleifend mi in. Lobortis scelerisque fermentum dui faucibus. Mauris rhoncus aenean vel elit scelerisque mauris pellentesque. Nisl condimentum id venenatis a condimentum. Id ornare arcu odio ut sem nulla pharetra."
-    },{
-      "name": "Be a Better Beast Master",
-      "path": "/BaBBM",
+      "name": "Beast Master",
+      "path": "/beast",
       "url": "/BaBBM.md",
-      "publishDate": "October 15, 1997 05:35:32"
+      "publishDate": "October 15, 1997 05:35:32",
+      "snipit":"Eu facilisis sed odio morbi quis commodo odio. Elit pellentesque habitant morbi tristique senectus et netus et malesuada. Tempor orci dapibus ultrices in iaculis nunc sed augue lacus. Est ante in nibh mauris cursus mattis molestie. Tempor nec feugiat nisl pretium fusce id velit. Arcu non odio euismod lacinia at quis risus sed vulputate. Turpis cursus in hac habitasse platea dictumst quisque. Arcu dictum varius duis at consectetur lorem donec massa sapien. Morbi tristique senectus et netus. Cursus turpis massa tincidunt dui ut ornare lectus sit amet. Facilisi morbi tempus iaculis urna id volutpat lacus. Sed cras ornare arcu dui vivamus. Lorem ipsum dolor sit amet consectetur adipiscing elit. Ullamcorper dignissim cras tincidunt lobortis. Ultrices mi tempus imperdiet nulla malesuada pellentesque elit. Nunc mi ipsum faucibus vitae aliquet nec ullamcorper sit. "
+    },{
+      "name":"Bladelock",
+      "path":"/bladelock",
+      "url":"/bladelock.md",
+      "snipit":"Commodo quis imperdiet massa tincidunt nunc pulvinar sapien. Leo urna molestie at elementum eu facilisis sed odio morbi. Mi eget mauris pharetra et ultrices neque ornare. Leo a diam sollicitudin tempor. At elementum eu facilisis sed odio. Sit amet est placerat in egestas erat imperdiet sed. Porttitor eget dolor morbi non. Hendrerit gravida rutrum quisque non tellus orci ac. Vitae semper quis lectus nulla. Ut pharetra sit amet aliquam id. Vitae elementum curabitur vitae nunc sed. Mi tempus imperdiet nulla malesuada."
     }
   ]
 }

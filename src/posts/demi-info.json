@@ -3,7 +3,7 @@
   "title": "Domains and Demigods",
   "path": "/domains_demigods",
   "url": "/demi",
-  "icon":"pray",
+  "icon":"/icons/005-museum.png",
   "posts": [
     {
       "name":"Great Old One and Madness",
@@ -13,6 +13,14 @@
       "cardImage":"http://1.bp.blogspot.com/_xeOzo0Axgj0/TPxd8AHkkYI/AAAAAAAABww/GLj3zu2H_b0/s1600/img-hooded_tentacle.jpg",
       "headlineImage":"http://1.bp.blogspot.com/_xeOzo0Axgj0/TPxd8AHkkYI/AAAAAAAABww/GLj3zu2H_b0/s1600/img-hooded_tentacle.jpg",
       "snipit":"A crow caws out in the open over the bleak midwinter evening. A cloaked, shaking figure wanders through the snowfall with his bare, bleeding feet leaving red prints in a trail behind him. He is cloaked in a ruined suit, bits and pieces torn around the wrists and ankles with holes made by weapons carved throughout the rest of it. Behind him, in the distance, smoke rises from his latest crime made in the name of the Faceless One. This man either has gone mad and lost all sense of reality or is the only sane one left that sees the future doom racing towards the realm."
+    },{
+      "name":"Luck",
+      "path":"/luck",
+      "url":"/luck.md",
+      "publishDate":"",
+      "cardImage":"https://legendsofwindemere.files.wordpress.com/2014/01/trapped-hallway.jpg",
+      "headlineImage":"https://legendsofwindemere.files.wordpress.com/2014/01/trapped-hallway.jpg",
+      "snipit":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
     }
   ]
 }
