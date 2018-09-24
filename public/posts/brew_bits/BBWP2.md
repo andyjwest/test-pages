@@ -1,4 +1,20 @@
 
+## Brew Bits: Building Otherwordly Warlock Patrons, Part 2
+
+<img src="https://i.pinimg.com/originals/89/99/ce/8999ce8a21742d46e495c4e90c9605ce.jpg">
+
+"Bah! Cursed jelly beasts, they ruined my cloak of academia! Note to self: fire is of little use. Their unnatural constitution baffles me. Its as if they are adapting to my every move, increasing in power in exchange for what? Service to some elder entity? No matter. I will continue my search until the bitter end. As the old adage goes, fool me once, shame on me. But fool me twice-"
+
+- Kalimor Kalimorious, wizard extraordinaire, as he stumbled over a ledge into a pool of ochre jelly.
+
+Welcome back to Brew Bits: Warlock eddition! On our [prior article](), we looked at the first level and general layout for designing Warlock Otherwordly Patrons. 
+
+
+[Here](https://drive.google.com/open?id=1RZ0XZ271P1mh7Fmj7OSErrUquVDrSnCy) is the warlock patron we're using, with updated level 6 features and an additional Warlock Invocation and spell to provide even more expanded options for Warlocks! We'll be referencing the Endless Ooze throughout the article as a practicle example of design. 
+
+For reference, here is the general design format for Otherwordly Patrons that we presented last time.
+
+
 
 ### Level 6 Feature 
 Here we have our first defensive feature. In our example, we use an unconventional tactic for defense: transparency. It does an excellent job of being a defensive tools Ooze-locks can employ when things are getting rough while also being a tool players can employ in creative ways to solve puzzles and navigate the world with. 
