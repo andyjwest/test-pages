@@ -66,4 +66,4 @@ This makes the invocations build defining similarly to Misty Visions and Fiendis
 ## Wrapping Things Up
 Warlock invocations make the class the amazing toolbox class it currently is. Character customization is the core foundation of the class. While they aren't always the best at any specific option, Warlocks always bring a huge array of features to the table to explore the world around them in unconventional ways.
 
-How do you think these fixes would change the Warlock class? Have you taken these invocations unchanged and really enjoyed them? Do you think these changes are desperately needed or entirely pointless? What changes would you bring to the table to address Minions of Chaos? Let us know on twitter, Patreon, Instagram, Facebook ,etc, #Hotfix!
+How do you think these fixes would change the Warlock class? Have you taken these invocations unchanged and really enjoyed them? Do you think these changes are desperately needed or entirely pointless? What changes would you bring to the table to address Minions of Chaos? Let us know on Twitter (@DesignerDungeons) and Facebook (Designer Dungeons) with #Hotfix!
