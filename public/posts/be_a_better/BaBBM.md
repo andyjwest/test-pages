@@ -133,19 +133,20 @@ There are a few tricks to managing animal companions in combat. Up to level 5, y
 
 If you focus in on your companion's attacks in place of your own, consider building around defensive features like Sentitnel and Defense. You can act as the wall of hit points while your companion takes advantage of its special attack abilities like flyby or poisounous bite with a big boost to hit for your damage output. 
 
-If you want a hybrid play style, **giant crabs**, **giant frogs**, **wolves and mastiffs** all are excellent companions. **Crabs and frogs** can be used initially to debilitate an enemy, allowing subsequent actions to have them just hang out while you wail on whatever they have captured. **Wolves and mastiffs** set up the prone condition so your future melee attacks can be made with advantage. These two companions don't gell well with ranged attacks, however. Knocking a target prone is particularlly effective in a group loaded with melee characters- if your group has barbarians, dagger based rogues, paladins, and/or fighters, these companions can shine. All of these shake up your playstyle and give you meaningful decisions to make round to round when deciding whether to act as yourself or your companion.
+If you want a hybrid play style, **giant crabs**, **giant frogs**, **wolves and mastiffs** all are excellent companions. **Crabs** and **frogs** can be used initially to debilitate an enemy, allowing subsequent actions to have them just hang out while you wail on whatever they have captured. **Wolves** and **mastiffs** set up the prone condition so your future melee attacks can be made with advantage. These two companions don't gell well with ranged attacks, however. Knocking a target prone is particularlly effective in a group loaded with melee characters- if your group has barbarians, dagger based rogues, paladins, and/or fighters, these companions can shine. All of these shake up your playstyle and give you meaningful decisions to make round to round when deciding whether to act as yourself or your companion.
 
 The hybrid and damaging companion play style is best supported at level 5. Having a companion attack to set up a subsequent attack from you (or vice versa) starts fulfilling the fantasy of a ranger and their companion fighting in perfect rythem. Utility companions don't gain much here, notably, and your power increase will come largely with extra attack paired with *hunter's mark*. 
 
 ### Alternate Uses of the Attack Action
 Your companion can take the attack action- you can use this to your advantage. Having a fast companion grapple a creature run away with the creature can displace the creature a fair distance and can lead to the creature being in a inopportune location. **Panthers** and **giant spiders** can even scale up walls while grappling their target using their climb speed. 
 
-Shoving a creature is another tactic your companions can use. While **mastiffs* and **wolves** come with their own built in prone mechanic, other companions can replace an attack with a shove in siuations where you really need a creature on the ground or just 5 feet further back. 
+Shoving a creature is another tactic your companions can use. While **mastiffs** and **wolves** come with their own built in prone mechanic, other companions can replace an attack with a shove in siuations where you really need a creature on the ground or just 5 feet further back. 
 
 ## Spell Support
 We'll quickly split the spell support category into three groups and assume your character is level 5. We will focus on spells that go well with damaging companions, utility companions, and combat utility companions. 
 
 The following table is my recommendations when building a beast master with a specific kind of companion. These are just recommendations from the Player's Handbook- expanded options from other books can dramatically improve performance. 
+
 |Companion Type| Spell Options|
 |:--|:--|
 |Damaging|*cure wounds, fog cloud, lesser restoration, pass without trace*|
