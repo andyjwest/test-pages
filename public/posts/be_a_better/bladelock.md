@@ -95,6 +95,8 @@ Once you get to 12th level, Lifedrinker might start to look lackluster. It is fa
   
 ### Other Notable Feats and Features 
 
+<img src="https://i.imgur.com/ogE34cm.jpg".
+
 Amplifying greatsword builds with Great Weapon Master just makes sense. It gives you more choices when swining your greatsword around, and can push your damage into ludicrous territory. The feat is bonkers. Always take the penalty. +10 to damage is insanity. 
 
 Dual Wielder gives you a slight bump to AC and damage if you are conjuring a rapier and going in on a Dexterity based build. Hybrid builds with Strength based two-weapon fighting also is fine, but tends to have slightly less survivability in exchange for more opportunities to use brute force to explore with. 
