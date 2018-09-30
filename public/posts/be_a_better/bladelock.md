@@ -1,4 +1,6 @@
 # Be a Better: Bladelock
+<img src="https://i.4pcdn.org/tg/1445748953900.jpg">
+
 A tiefling in a jester costume dances gleefully in an baron's court. Her eyes dart around the cheering crowd of nobles looking for her mark. As she spins and conjures flames to juggle, she finally spots the ambassidor she's been hunting for her patron. She approaches the ambassador with a bouquet of flowers. As he reaches for the roses, a dagger wreathed in flames with a demonic eye in the handle appears from thin air in her off-hand. After a brief gasp, he lies on the ground, bleeding out from his throat. 
 
 One of the most popular ways to play the Warlock class is building around the Pact of the Blade feature. The fantasy is incredible. A character is gifted a weapon from their Otherworldly Patron: a dagger from the nine hells, a rapier from a fey queen, a trident from a kraken god. All of these promise a fantasy that largely leaves players feeling underwhelmed once they begin using it in practice. The feature isn't poor in my opinion. It actually is quite potent in the right context. So today, we're going over how to get the most out of Pact of the Blade! 
@@ -13,13 +15,13 @@ One of the most popular ways to play the Warlock class is building around the Pa
 >You can transform one Magic Weapon into your pact weapon by performing a Special ritual while you hold the weapon. You perform the ritual over the course of 1 hour, which can be done during a Short Rest. You can then dismiss the weapon, shunting it into an extradimensional space, and it appears **whenever you create your pact weapon thereafter**. You can’t affect an artifact or a sentient weapon in this way. The weapon ceases being your pact weapon if you die, if you perform the 1-hour ritual on a different weapon, or if you use a 1-hour ritual to break your bond to it. The weapon appears at your feet if it is in the extradimensional space when the bond breaks.
 >
 
-At its core, pact of the blade is a utility feature, not a combat feature. This largely where I see the most frustration with the feature. Gaining a weapon from your patron implies its power against enemies, but in practice, it just tends to act as an expanded proficiency boost into martial weapons, normally with only a 1-3 point difference in average damage. The feature itself doesn't provide any huge boosts in early combat outside of being magical. This is somewhat useful but ultimately isn't where the bulk of power comes from. 
+At its core, pact of the blade is a utility feature, not a combat feature. This confusion is what causes the most player confusion. Gaining a weapon from your patron implies its power against enemies, but in practice, it just tends to act as an expanded proficiency boost into martial weapons, normally with only a 1-3 point difference in average damage. The feature itself doesn't provide any huge boosts in early combat outside of being magical. This is somewhat useful but ultimately isn't where the bulk of power comes from. 
 
 Where the feature *is* powerful is in how it provides players with a huge toolbox of weapons to call to their side at will. Players don't have a single weapon forged by their patron but instead an armory of weapons ready to be called to their side at will. You have the ability to conjure any melee weapon you wish as an action. This means you are never unarmed, and have no problem hiding your weaponry. 
 
 Additionally, the feature does not specify that the weapon must come from the base weapon table in the equipment section of the book. This opens up your options into exotic territories as well (with DM permission). You are proficent in any weapon you conjure including martial and exotic weapons. 
 
-Below is a list of weapons the increase your ability to influence combat outside of damage from the core  PHB equipment table.
+Below is a list of weapons the increase your ability to influence the world in and out of combat from the PHB equipment table.
 
 ##### Utility Pack Weapons
 |Weapon| Damage| Properties|
@@ -38,22 +40,30 @@ Below is a list of weapons the increase your ability to influence combat outside
 >
 > The aquatic weapon property removes the rule text from under water combat and moves it here instead! The following changes occur:
 > 
-> When making a melee weapon attack, a creature that doesn’t have a swimming speed (either natural or granted by magic) has disadvantage on the attack roll unless the weapon is a dagger, javelin, shortsword, spear, or trident. A ranged weapon attack automatically misses a target beyond the weapon’s normal range. Even against a target within normal range, the attack roll has disadvantage unless the weapon is a crossbow, a net, or a weapon that is thrown like a javelin (including a spear, trident, or dart).
+> "When making a melee weapon attack, a creature that doesn’t have a swimming speed (either natural or granted by magic) has disadvantage on the attack roll unless the weapon is a dagger, javelin, shortsword, spear, or trident. A ranged weapon attack automatically misses a target beyond the weapon’s normal range. Even against a target within normal range, the attack roll has disadvantage unless the weapon is a crossbow, a net, or a weapon that is thrown like a javelin (including a spear, trident, or dart)."
 > 
-> Becomes
+> becomes
 >
-> When making a melee weapon attack, a creature that doesn’t have a swimming speed (either natural or granted by magic) has disadvantage on the attack roll. A ranged weapon attack automatically misses a target beyond the weapon's normal range, and has disadvantage against a target within normal range. 
+> "When making a melee weapon attack, a creature that doesn’t have a swimming speed (either natural or granted by magic) has disadvantage on the attack roll. A ranged weapon attack automatically misses a target beyond the weapon's normal range, and has disadvantage against a target within normal range." 
 > 
 > In addition we use this new weapon property, aquatic, which applies to the following weapons: dagger, javelin, shortsword, spear, trident, crossbow, and net. 
 >
 > #### Aquatic
-> This weapon ignores any penalty it would recieve from making weapon attack rolls under water.
+> This weapon ignores any penalty to attack rolls it would recieve from making weapon attack rolls under water.
 > 
-> This does cause some thrown weapons, to perform slightly worse, but in exchange we simplify rules for underwater adventuring. A worthy sacrifice for simplification. Expect more to come like this in our next series all about refreshing under water adventuring! 
+> This does cause some thrown weapons, to perform slightly worse, but in exchange we simplify rules for underwater adventuring. A worthy sacrifice for simplification. Expect more to come like this in our next series all about refreshing under water adventuring next month! 
 
-This list supports a huge array of builds but also can slot into many existing builds. Having a hard time reaching some hovering creatures? Grab a weapon with reach or thrown! Need a 10 foot long rope on the fly? A whip is your best friend! Find yourself spontaneously mounted on a giant beast? Summon a lance and go to town! Notably, you can part with the weapon for up to a minute at a time, so be carefule when finding creative solutions with Pact of the Blade. 
+This list supports a huge array of builds but also can slot into many existing builds. Need to break an object far away? Conjure a throwing hammer and break smash it at a distance! Need a 10 foot long rope on the fly? A whip is your best friend! Find yourself shipwrecked and doing battle with merrow? Grab a trident and fight with ease! You can summon an axe to cut down trees and a warpick to clear the caved in entrance to the dungeon. 
+
+## Ability Scores
 
 This style of flexibility encourages two core ability scores: Strength and Dexterity. Having a moderate score in both or either opens up your avalible toolbox substantially. In addition, being Medium or larger in size keeps heavy weapons avalible, so consider steering clear of halflings and gnomes if you want to juice this feature as much as you can. 
+
+Building an option around Pact of the Blade typically encourages a player to do one of two Ability Score layouts: 16 Strength, 14 Con, and 12 Cha or 16 Dex, 14 Cha, 12 Con. Our first ability score array prioritizes Strength and will likely be leaning on Javelins, Hand Axes and a Greatsword in combat. Without a huge natural boost to AC, having a sizeable Constitution takes precedent and spells that lack saves or spell attacks tend to work better with the lower Charisma. 
+
+The Dexterity build offers both a defensive trait (Armor Class) and offensive trait (hit/damage with Finesse weapons) all in one. A character can rely more on dodging attacks and doesn't neccisarily need as many hit points as they can get to succeed. This build tends to be flexible and built as a tool box with moderate damage capabilities. 
+
+Some builds can even consider cutting down Charisma further if you plan on investing in spells that don't use spell saves or spell attack rolls. Some features are substantially better with a high charisma, but it doesn't need to be your defined stat in Bladelock builds. 
 
 ## Supporting Features
 By itself, Pact of the Blade can be an excellent supplemental feature to other core builds. Its similar to the Cojuration Wizard's *Minor Conjuration* feature with a bit more limitation. That on its own can be hugely valuable to Warlocks with Dexterity or Strength as their highest or second highest ability score. 
