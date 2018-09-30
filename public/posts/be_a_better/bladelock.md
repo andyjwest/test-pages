@@ -29,7 +29,7 @@ Below is a list of weapons the increase your ability to influence combat outside
 |Glaive| d10 slashing| Heavy, two-handed, reach| 
 |Trident| d6 piercing| Thrown (20/60), versatile (d8), **aqautic**|
 |Whip| d4 piercing| Finesse, reach| 
-|Lance| d12 piercing| Reach, you have disadvantage on attack rolls made against creatures within 5 feet of you, two-handed (while mounted)|
+|Lance| d12 piercing| Reach, you have disadvantage on attack rolls made against creatures within 5 feet of you, two-handed (while unmounted)|
 
 
 > ### The Aquatic Weapon Property
@@ -49,47 +49,56 @@ Below is a list of weapons the increase your ability to influence combat outside
 > #### Aquatic
 > This weapon ignores any penalty it would recieve from making weapon attack rolls under water.
 > 
-> This does cause some thrown weapons, like the handaxe and throwing hammer, to perform slightly worse, but in exchange we simplify rules for underwater adventuring. A worthy sacrifice for simplification. Expect more to come like this in our next series all about refreshing under water adventuring! 
+> This does cause some thrown weapons, to perform slightly worse, but in exchange we simplify rules for underwater adventuring. A worthy sacrifice for simplification. Expect more to come like this in our next series all about refreshing under water adventuring! 
 
-This list supports a huge array of builds but also can slot into many existing builds. 
+This list supports a huge array of builds but also can slot into many existing builds. Having a hard time reaching some hovering creatures? Grab a weapon with reach or thrown! Need a 10 foot long rope on the fly? A whip is your best friend! Find yourself spontaneously mounted on a giant beast? Summon a lance and go to town! Notably, you can part with the weapon for up to a minute at a time, so be carefule when finding creative solutions with Pact of the Blade. 
 
+This style of flexibility encourages two core ability scores: Strength and Dexterity. Having a moderate score in both or either opens up your avalible toolbox substantially. In addition, being Medium or larger in size keeps heavy weapons avalible, so consider steering clear of halflings and gnomes if you want to juice this feature as much as you can. 
 
 ## Supporting Features
+By itself, Pact of the Blade can be an excellent supplemental feature to other core builds. Its similar to the Cojuration Wizard's *Minor Conjuration* feature with a bit more limitation. That on its own can be hugely valuable to Warlocks with Dexterity or Strength as their highest or second highest ability score. 
+
+What if you want to build around a specific weapon, though? If you have the desire to take a warped fiendish greatsword into battle, you can pick up a few warlock spells/invocations to push the power of your weapon up a notch. 
+
 ### Hex
+Hex is the single spell I'd recommend to every Warlock looking for consistent damage. It is similar to Sneak Attack. In specific builds, early on it can easily out perform that feature when two weapon fighting is employed. Any blade lock worth their salt should pick up Hex if they are looking to navigate combat and want to dish out a comparably fair amount of damage with their rogues and paladins. 
 
-> #### Building Around Off Hand Weapons 
->
->
+This spell can be built upon along side Pact of the Blade. If you take the Two Weapon Fighting feat, you can conjure a rapier in your main hand and draw a short sword for the highest damage two-weapon fighting build out there. With *hex* adding a bonus d6 damage on marked targets, you'll be dealing 1-2d6 bonus damage a round.
 
+Even for non two-weapon fighting builds, bringing a 2d6+4 greatsword damage to 3d6+4 is fairly substantial. It additionally can free up your bonus action slot a bit more, giving your more flexibility in combat. Moving your hex around can require some planning and group coordination to maximize its effectiveness, and often you'll find yourself tackling a single huge enemy while your allies deal with their hordes of underlings so you can get the absolute most out of your actions. 
 
-### Defensive Features 
-#### Supporting Core Patrons 
-Fiend and Fey are pretty sweet for blade locks- GOOs main feature doesn't directly support a melee play style, but can be taken to contrast blade. 
+Hex works in all manner of Pact of the Blade Warlock builds. It grants bonus damage regardless of weapon choice, and has a huge cast range to be actively powerful for thrown weapon builds and melee builds alike. 
 
-Fiend builds typically involve drain tanking- lower AC, focused around Strength or Dex/Cha/Con, but can be Dex based as well if you want a different stat than con.
+### Temporary Hit Points
+If you are looking to support a melee centric character outside of raw damage, the Warlock class offers a huge variety of ways to gain hit points. Fiendish Vigor (*false life* at will), *armor of agathys*, and the fiend's Dark One's Blessing all give you ways to gain temporary hit points and fit great into a variety of different play patterns. 
 
-Fey are almost always looking for dex and con, to navigate and control combat as opposed to soaking blows and slaying monsters. 
+Fiendish Vigor often acts as 8 temporary hit points whenever you get out of combat, as you can just continue to recast it until you have maximum temp HP. Setting up an encounter with either this or *armor of agathys* means by the time your temporary hit points expire, you'll be just about ready to get a refresh with Dark One's Blessing whenever you drop an enemy. This can provide a huge amount of survivability for the class and can work great in two-weapon fighting builds or single weapon Strength builds. It does require some party coordination to juice these features to the max, but with a bit of practice this build can be quite powerful.  
 
-> Reference Undying
-> Similar to paladins actually 
+These style of features are slightly less powerful when paired with thrown weapons. Thrown weapons provide a unique way to play Warlock with some investment and party tactics, but needs to look outside of straight bonus HP to flourish in encounters. 
 
+### Pact of the Blade Invocations 
+The Player's Handbook comes with two invocations that interact directly with Pact of the Blade: Thirsting Blade and Lifedrinker.
 
-#### Invocations 
-  Fiendish Vigor 
-  Armor of Shadows 
-  Thirsting Blade 
-  Jump at Will
-#### Spell Selection 
-  Hex 
-  Armor of Agathys 
-  Hellish Rebuke 
+Thirsting Blade gives you the Extra Attack feature and pushes Pact of the Blade warlocks into Fighter and Paladin ranges of damage. Extra Attack is a huge damage bonus, playing well with *hex*, *faerie fire* and your other weapon centric features. Making two greatsword attacks a turn is normally all Fighters can hope to get at 5th level. Warlocks learn a new spell, get a new eldritch invocation, and improve their Pact Magic spell slots to third level. Forgoing the invocation to gain extra attack effectively is Thirsting Blade and should show you how powerful of a feature it is compared to what Barbarians and Fighters are gaining here. 
 
+Once you get to 12th level, Lifedrinker might start to look lackluster. It is far from that. With a 18 in Charisma, you are adding +4 to all of your weapon damage rolls. With two great sword attacks, your dishing out 4d6+16 damage with two hits. Just two. Add hex with your bonus action and it jumps to 6d6+16 damage per round to a single target, every round, all day. Two-weapon builds push the feature even further. Three attacks gives us an extra +4 damage (as we don't get to add our Dex to the damage of off-hand weapon attacks), making our potential damage per round with hex 6d6+20, split into two groups of 2d6+8 and one 2d6+4. This kind of damage is powerful, even at 12th level, and can be used consistently with only 1 Pact Magic spell slot. 
+  
+### Other Notable Feats and Features 
 
-### Weapon Feats/Invocations 
-Using Weapon properties 
-  Great Weapon Master
-  Polearm Master
-  Sentinal 
+Amplifying greatsword builds with Great Weapon Master just makes sense. It gives you more choices when swining your greatsword around, and can push your damage into ludicrous territory. The feat is bonkers. Always take the penalty. +10 to damage is insanity. 
+
+Dual Wielder gives you a slight bump to AC and damage if you are conjuring a rapier and going in on a Dexterity based build. Hybrid builds with Strength based two-weapon fighting also is fine, but tends to have slightly less survivability in exchange for more opportunities to use brute force to explore with. 
+
+Martial Adept is a one of the best general feats a Bladelock can pick up. It is similar to picking up an extra spell slot but only for combat spells, and often these maneuvers can be combat warping. Picking up Parry or Rally gives you an extra tool to aid your allies while Riposte and Tripping Attack give the Bladelock even more tools to pump out combat damage. Riposte + Hex + Greatsword = a metric truckload of damage to a single creature. 
+
+Savage Attacker is a hugely underated feat, especially in dice heavy builds. It unfortunately does not allow you to reroll your Hex damage [(sage advice)](https://www.sageadvice.eu/2016/01/26/does-the-savage-attacker-feat-apply-to-sneak-attack-or-divine-smite/) but being able to reroll your low rolls on 2d6 can be great. Its also something you opt into whenever you want. Its always active, and always gives more options to characters. 
+
+Devil's Sight paired with *darkness* is a Warlock classic that goes great with weapon builds as well. While *darkness* does take up your coenctration slot, the advantage you get on attacks and the disadvantage your enemies will be forced to take makes the option appealing to multi-attack builds. It helps that independently both features are excellent utility features as well. 
+
 
 ## Closing Thoughts 
-You can play a powerful blade lock in a variety of ways with expectations VS your investment in the build. The feature is incredibly flexible. It can act as a simple extension of power towards 
+You can play a powerful blade lock in a variety of ways with expectations VS your investment in the build. The feature is incredibly flexible. It can act as a simple, yet flexible, utility feature but also can be built around with the bonus proficiencies it grants. 
+
+What powerful features did I miss that pair well with Pact of the Blade? Any races I should have touched on, like Half-orc or halfling? Tell me your thoughts on the feature on Twitter, at (twitter handle)! 
+
+
