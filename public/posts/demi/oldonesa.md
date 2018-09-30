@@ -29,6 +29,7 @@ The key idea we are going to be focusing on from here on out is the concept of *
 >
 > It becomes up to the party to prove the genre wrong. They must stand up and *matter*. The world literally revolves around them, and they must prove it against the odds when combating the massive horrors that come with insanity and great old ones working only to prove the insignificance of any one individual in the multiverse. 
 
+This article is pretty bulky. For convience, [here]() is a printer friendly PDF of the tables used within the article for easy of use. 
 
 ### Environments
 Like many horror settings, cosmic horror stems from subtle alterations to reality but also extends to incomprehensible visions and locations of pure insanity. Setting up players with vivid descriptions can set expectations for the feel and approach they are looking towards when moving forward. When making settings around Great Old Ones, consider focusing in on pop culture views of the genre. Common descriptions include altered prominently known visages, subtle shifts in expression and mood, and gloomy, dreary colors. 
@@ -104,7 +105,7 @@ The following tables give some ideas descriptive elements and objects you can in
 
 Here we delve into genre specific additions. These structures, environments and dungeons tie in directly with a cosmic horror plot. 
 
-d6| Location|
+|d6| Location|
 |:--:|:--|
 |1| The crash site of a strange object from space 
 |2| A mysterious ziggurat, once abandoned, now fires a purple beam into the sky at night 
