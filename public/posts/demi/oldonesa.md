@@ -41,7 +41,7 @@ When setting the stage for a cosmic horror style adventure, consider using some 
 
 These two tables should provide some extra on the fly adjectives to help immerse your players in the feel the environment wants to broach in cosmic horror settings. 
 
-|d10| Environment Descriptor||
+|d10| Environment Descriptor|
 |:--:|:--|
 |1| dismal 
 |2| depressing 
@@ -83,7 +83,7 @@ The following tables give some ideas descriptive elements and objects you can in
 |5| Townsfolk often whisper to each other about the party. When noticed, they’ll swiftly break apart and act as if they didn’t.
 |6| There is a mysterious absence of a common item in town, such as chairs or spoons.
 
-|d6| Wait, What’s That?||
+|d6| Wait, What’s That?|
 |:--:|:--|
 |1| A portrait of a well known character has gradually lost their skin, revealing a mutated skeleton
 |2| Mad writing is scrawled in the mud of a recent murder scene 
