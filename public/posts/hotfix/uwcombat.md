@@ -26,7 +26,7 @@ Rules we are hotfixing:
 
 With so much to cover, lets *dive* right in with a variant change for underwater combat. Instead of the normal rules for underwater combat, consider using these simplified rules:
 
->#### Underwater Combat Hotfix: Rules Simplified  
+>### Underwater Combat Hotfix: Rules Simplified  
 >When making a weapon attack, a creature that doesn’t have a swimming speed has disadvantage on the attack roll. A ranged weapon attack automatically misses a target beyond the weapon’s normal range.
 >
 >Creatures and objects that are fully immersed in water have resistance to fire damage. 
@@ -47,7 +47,7 @@ Our overall goal is to reduce confusion and frustration from handling underwater
 
 On to our next troublesome mechanic: suffication! 
 
->#### Suffication Hotfix: Up the Ante
+>### Suffication Hotfix: Up the Ante
 > A creature can hold its breath for a number of minutes equal to 1 + its Constitution modifier (minimum of 30 seconds).
 >
 >When a creature runs out of breath or is choking, it can survive for a number of rounds equal to its Constitution modifier (minimum of 1 round). At the start of its next turn, it drops to 0 hit points and is dying, and it can’t regain hit points or be stabilized until it can breathe again.
@@ -58,15 +58,14 @@ This time, we've added complexity to a rule as opposed to reducing complexity. T
 
 These suffication rules are for DMs who are looking for ways to challenge players outside of hit point damaging mechanics. They are only recommended for experienced DMs and players looking to increase the challenge level and variance of encounters in the world. In a scenario where you *are* a DM looking to up the ante, these rules can provide a much needed shakeup to bring more threat to encounters underwater. 
 
-> #### Swimming Rules Hotfix: Learning to Swim/Climb
-> >#### Swimming
+> ### Swimming Rules Hotfix: Learning to Swim/Climb
 >While climbing or swimming, each foot of movement costs 1 extra foot (2 extra feet in difficult terrain), unless a creature has a climbing or swimming speed. At the GM’s option, climbing a slippery vertical surface or one with few handholds requires a successful Strength (Athletics) check. Similarly, gaining any distance in rough water might require a successful Strength (Athletics) check.
 >
 > A character proficient in the Athletics skill has a a climb speed and swim speed equal to their movement speed -5. 
 
 This hotfix looks to bolster non-magical characters. By adding in a built in swim and climb speed to skills, character classes that naturally gravitate towards strength and dexterity now have more tools at their disposal to be the star of the show. Naturaly swim speeds and climb speeds offer classes that normally lack spells to aid in exploration could need a bit of love to have more say in how the adventure goes. 
 
-This hotfix should work great at tables looking to give the martial classes a little more to do out of combat and close a bit of the gab between the two styles. I'd avoid it if a thief is present at the table, as the change lessens the power they get from their Second Story Work feature. 
+This hotfix should work great at tables looking to give the martial classes a little more to do out of combat and close a bit of the gab between the two styles. I'd avoid it if a thief is present at the table, as the change lessens the power they get from their Second Story Work feature. Otherwise, martial characters can gain a huge amount of versatility in environment navigation with this change.
 
 ### Concluding Thoughts
  
