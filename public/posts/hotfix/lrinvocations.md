@@ -7,14 +7,17 @@ Today on Hotfix we're looking to address a category of Warlock invocations that 
 
 Here are the six invocations we'll be adjusting today: Thief of Five Fates, Mire the Mind, Bewitching Whispers, Dreadful Word, Sculptor of Flesh, Sign of Ill Omen. Minions of Chaos is deliberately absent. Summoning magic with short rest spell slots is uniquely powerful compared to these other options.
 
-These invocations all share one key flaw: they consume a Warlock spell slot to let a Warlock cast a spell outside of their core spell list. What is so wrong with these features that they need a change? They are: 
+### When to Change these Invocations 
+You might consider using these hotfixes in place of the core invocations in a variety of circumstances. Because of how comparitively weak the options are perceived when judged against other invocations, players tend to steer away from these and towards more reliable and epic invocations. If your players are having a hard time picking a play style that suits them or feel that they fantasy they are building towards should include one of these weaker invocations, consider this hotfix as a starting point! 
+
+These invocations are generally recieved as underwhelming because they are: 
 
 1. comparatively underwhelming to the other existing invocations 
-2. tie up two different Warlock resources in one choice
+2. tie up two different Warlock resources in one choice (both Eldritch Invocations and Pact Magic) 
 3. fail to expand on or improve a play pattern 
  
 ### Our Three Fixes 
-To address these invocations, we're going to be focusing on text all of them share. Here is their text box where the specific spell is replaced by *spell name*.
+We're going to be focusing on text all of them share when hotfixing today. Here is their text box where the specific spell is replaced by *spell name*.
 
 > #### Warlock Invocation
 >
