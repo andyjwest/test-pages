@@ -5,7 +5,7 @@ A crow caws out in the open over the bleak midwinter evening. A cloaked, shaking
 
 5th edition brought a fun and surprising twist with the Warlock class when it released. The class was uniquely different from anything from the playtest. It brought a popular theme from RPGs and stories that was unexplored in Dungeons and Dragons: the Great Old Ones.
 
-These entities add a new dynamic to 5th edition. Worlds that have a focus around one of these elder gods look closer to a Lovecraft novel and less like a classic Conan fantasy. From the iconic *Call of Cthulu* to N'zoth and C'thun of World of Warcraft, DMs have a huge array of tools to  draw inspiration from to bring an unique feeling to the table when dealing with Old Gods and the madness that is tied so closely to them.
+These entities add a new dynamic to 5th edition. Worlds that have a focus around one of these elder gods look closer to a Lovecraft novel and less like a classic Conan fantasy. From the iconic *Call of Cthulhu* to N'zoth and C'thun of World of Warcraft, DMs have a huge array of media to  draw inspiration from to bring an unique feeling to the table when dealing with Old Gods and the madness that is tied so closely to them.
 
 This guide aims at giving DMs and Players new tools for roleplaying in these environments as well as general advice for playing games with a Madness or Old God feel to them.
 
@@ -19,7 +19,7 @@ Now on to inescapable doom!
 ## World Building
 Worlds riddled with mad prophets and elder gods playing with mortals for entertainment are also full of adventure. Mad cults worshipping these evil entities spring up and threaten the entire surrounding environment with their horrific rituals and sacrifices. Old, abandoned churches can find new life in the hands of mad clerics and priests, praying to gods of insanity that grant otherworldly strength alongside it.
 
-The key idea we are going to be focusing on from here on out is the concept of **cosmic horror**. The following advice and ideas stem from my own understanding of pop culture views of great old ones and the genre surrounding their founding stories. I am by no means an expert in the genre, but rather a casual observer. These scenes and ideas are drawn from all kinds of popular works, and I would encourage anyone looking to delve deeper into the genre to seek out classic novels from the genre and popular horror movies and video games like Darkest Dungeon. 
+The key idea we are going to be focusing on from here on out is the concept of **cosmic horror**. The following advice and ideas stem from my own understanding of pop culture views of great old ones and the genre surrounding their founding stories. I am by no means an expert in the genre, but rather a casual observer. These scenes and ideas are drawn from all kinds of popular works, and I would encourage anyone looking to delve deeper into the genre to seek out classic novels and popular horror movies and video games like Darkest Dungeon's Color of Madness. 
 
 > ### The Cosmic Horror Contrast
 >
@@ -29,10 +29,10 @@ The key idea we are going to be focusing on from here on out is the concept of *
 >
 > It becomes up to the party to prove the genre wrong. They must stand up and *matter*. The world literally revolves around them, and they must prove it against the odds when combating the massive horrors that come with insanity and great old ones working only to prove the insignificance of any one individual in the multiverse. 
 
-This article is pretty bulky. For convience, [here]() is a printer friendly PDF of the tables used within the article for easy of use. 
+This article is pretty bulky. For convience, [here](https://drive.google.com/open?id=1wktiQSqMBxflz45qyH8kWHyaXKjZMklY) is a printer friendly PDF of the tables used within the article for easy of use. 
 
 ### Environments
-Like many horror settings, cosmic horror stems from subtle alterations to reality but also extends to incomprehensible visions and locations of pure insanity. Setting up players with vivid descriptions can set expectations for the feel and approach they are looking towards when moving forward. When making settings around Great Old Ones, consider focusing in on pop culture views of the genre. Common descriptions include altered prominently known visages, subtle shifts in expression and mood, and gloomy, dreary colors. 
+Like many horror settings, cosmic horror stems from subtle alterations to reality. This visual evoloves slowly into incomprehensible visions and locations of pure insanity. Setting up players with vivid descriptions can set expectations for the feel and approach they are looking towards when moving forward. When making settings around Great Old Ones, consider focusing in on pop culture views of the genre. Common descriptions include altered prominently known visages, subtle shifts in expression and mood, and gloomy, dreary colors, sounds, and smells. 
 
 A focus on cosmic scale can help set the mood in these environments. An environments depiction of stellar maps and astronomical devices can set up the otherworldly appearance that goes alongside the Great Old Ones and their monstrous followers. 
 
@@ -68,7 +68,7 @@ These two tables should provide some extra on the fly adjectives to help immerse
 |10| hysterical 
 
 #### General Atmosphere
-Worlds full of cosmic horror can look any number of ways. Monsters from outside the bounds of reality don't often give friendly aid, and the environment the inhabitants live in tends to sufer. Structures built for these extraplanar entities can look wildly diverse. Some might be simple churches that have small inconsistencies that hint at horrible secrets happening below the surface, while another might be a massive stone obelisk coated in unknown runes along side images depicting a writhing monster of flesh and bone.
+Worlds full of cosmic horror can look any number of ways. Monsters from outside the bounds of reality don't often give friendly aid, and the environment the natives occupy is warped by their presence. Structures built for or by these extraplanar entities can look wildly diverse. Some might be simple churches that have small inconsistencies that hint at horrible secrets happening below the surface, while another might be a massive stone obelisk coated in unknown runes along side images depicting a writhing monster of flesh and bone.
 
 When describing your environments, start small. Cosmic horror melds well with mystery. The unknown is its own character that is always lurking at the edge of scene. Players should frequently be growing more concerned and suspicious of the ordinary. As one puzzle is solved, it reveals three more that have been hidden in plain sight all along. All eventually will point to our big bad, but ease into it to aid in the feel of cosmic horror.  
 
@@ -103,7 +103,9 @@ The following tables give some ideas descriptive elements and objects you can in
 
 ### Structures and Dungeons 
 
-Here we delve into genre specific additions. These structures, environments and dungeons tie in directly with a cosmic horror plot. 
+As the title suggests, Dungeons and Dragons is heavily populated with dungeons! These next few tables are here to serve as easy to reference ideas to inspire insiration when designing your own adventures and dungeons with an antagonist (or protagonist, Cthulhu could be a hero I guess) Great Old One. 
+
+The following list offers some starting areas to get the creative juices flowing. 
 
 |d6| Location|
 |:--:|:--|
