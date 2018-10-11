@@ -1,5 +1,5 @@
 ## Hotfix: Underwater Combat/Exploration 
-<img src="https://i.ytimg.com/vi/r79M92D4qvY/maxresdefault.jpg">
+<img src="https://orig05.deviantart.net/8f60/f/2007/301/7/7/merfolk_by_thegryph.jpg">
 Creative blurbs are hard to write man
 
 Rules we are hotfixing: 
