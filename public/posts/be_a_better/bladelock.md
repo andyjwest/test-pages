@@ -44,7 +44,7 @@ This list supports a huge array of builds but also can slot into many existing b
 >
 > becomes
 >
-> "When making a melee weapon attack, a creature that doesn’t have a swimming speed (either natural or granted by magic) has disadvantage on the attack roll. A ranged weapon attack automatically misses a target beyond the weapon's normal range, and has disadvantage against a target within normal range."
+> "When making a weapon attack, a creature that doesn’t have a swimming speed (either natural or granted by magic) has disadvantage on the attack roll. A ranged weapon attack automatically misses a target beyond the weapon's normal range."
 >
 > In addition to these changes, daggers, javelins, shortswords, spears, tridents, crossbows, and nets all have the **aquatic** weapon property.
 >
