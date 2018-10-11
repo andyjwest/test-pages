@@ -34,24 +34,10 @@ Below is a list of weapons the increase your ability to influence the world in a
 
 This list supports a huge array of builds but also can slot into many existing builds. Need to break an object far away? Conjure a throwing hammer and break smash it at a distance! Need a 10 foot long rope on the fly? A whip is your best friend! Find yourself shipwrecked and doing battle with merrow? Grab a trident and fight with ease! You can summon an axe to cut down trees and a warpick to clear the caved in entrance to the dungeon.
 
-> ### The Aquatic Weapon Property
+> #### The Aquatic Weapon Property
 >
-> A mini hotfix within this Be a Better! Underwater combat is fairly simple in 5e, but it can be difficult to find which weapons work normally and which don’t. In a nutshell, weapon attack rolls made under water have disadvantage unless they are from a specific list or the user has a swim speed.
->
-> The aquatic weapon property removes the rule text from underwater combat and moves it to the affected weapons! The following changes occur:
->
-> "When making a melee weapon attack, a creature that doesn’t have a swimming speed (either natural or granted by magic) has disadvantage on the attack roll unless the weapon is a dagger, javelin, shortsword, spear, or trident. A ranged weapon attack automatically misses a target beyond the weapon’s normal range. Even against a target within normal range, the attack roll has disadvantage unless the weapon is a crossbow, a net, or a weapon that is thrown like a javelin (including a spear, trident, or dart)."
->
-> becomes
->
-> "When making a weapon attack, a creature that doesn’t have a swimming speed (either natural or granted by magic) has disadvantage on the attack roll. A ranged weapon attack automatically misses a target beyond the weapon's normal range."
->
-> In addition to these changes, daggers, javelins, shortswords, spears, tridents, crossbows, and nets all have the **aquatic** weapon property.
->
-> #### Aquatic
-> This weapon ignores any penalty to attack rolls it would receive from making weapon attack rolls under water.
->
-> This does cause some thrown weapons to perform slightly worse, but in exchange we make it abundantly clear which weapons work underwater. A worthy sacrifice for simplification. 
+> The **aquatic** weapon property is a new weapon property coming in next month's Hotfix, focusing on Underwater combat.
+> 
 
 
 ## Ability Scores
