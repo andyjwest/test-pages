@@ -1,0 +1,12 @@
+.post {
+    padding: 10px 10px;
+    margin: 60px auto 5px auto;
+}
+
+.post h2 {
+    text-align: center;
+}
+
+.post img {
+    width: 100%;
+}

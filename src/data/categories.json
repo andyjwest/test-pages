@@ -1,0 +1,26 @@
+[
+  {
+    "id": "brew_bits",
+    "title": "Brew Bits",
+    "path": "brew_bits",
+    "icon": "/static/icons/001-flasks.png"
+  },
+  {
+    "id": "be_a_better",
+    "title": "Be a Better",
+    "path": "be_a_better",
+    "icon": "/static/icons/003-objective.png"
+  },
+  {
+    "id": "domains_demigods",
+    "title": "Domains and Demigods",
+    "path": "domains_demigods",
+    "icon": "/static/icons/005-museum.png"
+  },
+  {
+    "id": "hot_fix",
+    "title": "Hot Fix",
+    "path": "hot_fix",
+    "icon": "/static/icons/002-gears.png"
+  }
+]

@@ -1,0 +1,18 @@
+{
+  "id": "domains_demigods",
+  "title": "Domains and Demigods",
+  "path": "/domains_demigods",
+  "url": "/demi",
+  "icon":"/icons/005-museum.png",
+  "posts": [
+    {
+      "name":"World Building with Great Old Ones",
+      "path":"/wb_old_ones",
+      "url":"/oldonesa.md",
+      "headlineImage":"http://1.bp.blogspot.com/_xeOzo0Axgj0/TPxd8AHkkYI/AAAAAAAABww/GLj3zu2H_b0/s1600/img-hooded_tentacle.jpg",
+      "cardImage":"http://1.bp.blogspot.com/_xeOzo0Axgj0/TPxd8AHkkYI/AAAAAAAABww/GLj3zu2H_b0/s1600/img-hooded_tentacle.jpg",
+      "publishDate": "November 2, 2018 13:35:32",
+      "snipit":"Nobody believes me, but I've deciphered the runes. The comet is about to let me uncover its secrets. Whatever creature  waits within will make me famous. My excavation teams will regret abandoning me on the cusp of greatness. I can hear its voice. I know it's hear. I hear you. I'm coming."
+    }
+  ]
+}

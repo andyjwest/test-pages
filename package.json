@@ -1,0 +1,25 @@
+{
+  "name": "designer-dungeons-blog",
+  "description": "",
+  "scripts": {
+    "develop": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "deploy": "gatsby build --prefix-paths && gh-pages -d public"
+
+  },
+  "dependencies": {
+    "@babel/register": "^7.0.0",
+    "@fortawesome/react-fontawesome": "^0.1.4",
+    "gatsby": "^2.0.76",
+    "react": "^16.6.3",
+    "react-dom": "^16.6.3",
+    "react-markdown": "^4.0.6"
+  },
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Designer Dungeons",
+  "devDependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}

@@ -1,0 +1,32 @@
+:root {
+    --font-family: "Trebuchet MS", fantasy;
+    --black:#090909;
+    --gray: #4B5043;
+    --oragne:#ED7053;
+    --red:#E04F3C;
+    --yellow:#F4E6A8;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    font-family: var(--font-family);
+    background-color: var(--gray);
+}
+
+div.content {
+    margin: 60px 5% 5px 5%;
+}
+
+@media screen and (max-width: 700px) {
+    div.content{
+        margin: 50px 0 0 0;
+    }
+}
+
+.shadowed-container {
+    max-width: 1000px;
+    background-color: var(--yellow);
+    box-shadow: 0 2px 4px 0 var(--black),0 2px 10px 0 var(--black);
+}
