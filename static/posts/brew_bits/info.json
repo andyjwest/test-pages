@@ -1,0 +1,19 @@
+{
+  "id": "brew_bits",
+  "title": "Brew Bits",
+  "path": "/brew_bits",
+  "icon":"/icons/001-flasks.png",
+  "url":"/brew_bits",
+  "posts": [
+    {
+      "name":"Building a Warlock Patron Part 1",
+      "path":"/build_patron_1",
+      "url":"/BBWP.md",
+      "headlineImage":"https://i.pinimg.com/originals/89/99/ce/8999ce8a21742d46e495c4e90c9605ce.jpg",
+      "cardImage":"https://i.pinimg.com/originals/89/99/ce/8999ce8a21742d46e495c4e90c9605ce.jpg",
+      "publishDate": "November 2, 2018 05:35:33",
+      "snipit":"The slime-crusted walls and occult scrawling would shake any average adventurer but not I! The secret of their strange powers must lie somewhere in these lightless tunnels. No matter how many times I slay them, they always seem to reform with their blank gelatinous faces and amorphous phisiology. All I know is that when I uncover the magical nature and chemistry behind this patron I will be revered for years to-\" - Kalimor Kalimorious, wizard extraordinaire, as he stumbled into a transparent gelatinous cube."
+
+    }
+  ]
+}
