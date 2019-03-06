@@ -1,0 +1,47 @@
+[
+    {
+        "componentChunkName": "component---src-templates-home-jsx",
+        "jsonName": "index",
+        "path": "/"
+    },
+    {
+        "componentChunkName": "component---src-templates-category-jsx",
+        "jsonName": "be-a-better-88c",
+        "path": "/be_a_better"
+    },
+    {
+        "componentChunkName": "component---src-templates-posts-post-jsx",
+        "jsonName": "be-a-better-bab-bladelock-714",
+        "path": "/be_a_better/bab_bladelock"
+    },
+    {
+        "componentChunkName": "component---src-templates-category-jsx",
+        "jsonName": "brew-bits-e8f",
+        "path": "/brew_bits"
+    },
+    {
+        "componentChunkName": "component---src-templates-posts-post-jsx",
+        "jsonName": "brew-bits-build-patron-1-532",
+        "path": "/brew_bits/build_patron_1"
+    },
+    {
+        "componentChunkName": "component---src-templates-category-jsx",
+        "jsonName": "domains-demigods-4ed",
+        "path": "/domains_demigods"
+    },
+    {
+        "componentChunkName": "component---src-templates-posts-post-jsx",
+        "jsonName": "domains-demigods-wb-old-ones-368",
+        "path": "/domains_demigods/wb_old_ones"
+    },
+    {
+        "componentChunkName": "component---src-templates-category-jsx",
+        "jsonName": "hot-fix-487",
+        "path": "/hot_fix"
+    },
+    {
+        "componentChunkName": "component---src-templates-posts-post-jsx",
+        "jsonName": "hot-fix-long-rest-invocations-155",
+        "path": "/hot_fix/long_rest_invocations"
+    }
+]

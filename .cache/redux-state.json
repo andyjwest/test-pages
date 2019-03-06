@@ -1,0 +1,852 @@
+{
+  "nodes": {
+    "SitePage /dev-404-page/": {
+      "jsonName": "dev-404-page-5f9",
+      "internalComponentName": "ComponentDev404Page",
+      "path": "/dev-404-page/",
+      "component": "/Users/awest/Documents/designer-dungeons/.cache/dev-404-page.js",
+      "componentChunkName": "component---cache-dev-404-page-js",
+      "context": {},
+      "pluginCreator___NODE": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
+      "pluginCreatorId": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
+      "componentPath": "/Users/awest/Documents/designer-dungeons/.cache/dev-404-page.js",
+      "id": "SitePage /dev-404-page/",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "6e200c0d7781127a2be9ba9f9b7797d8",
+        "description": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5": {
+      "resolve": "/Users/awest/Documents/designer-dungeons/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "id": "d48d1c52-fe48-53cb-8f08-aa4b47dde5a5",
+      "name": "dev-404-page",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createPagesStatefully"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/awest/Documents/designer-dungeons/node_modules/gatsby/dist/internal-plugins/dev-404-page",
+      "packageJson": {
+        "name": "dev-404-page",
+        "description": "Internal plugin to add a 404 page in development with helpful information",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "8dd4a3dc0b3e98b521ade3cdf0a0a998",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "1fc32581-893a-55e8-8927-bcd667e2b700": {
+      "resolve": "/Users/awest/Documents/designer-dungeons/node_modules/gatsby/dist/internal-plugins/load-babel-config",
+      "id": "1fc32581-893a-55e8-8927-bcd667e2b700",
+      "name": "load-babel-config",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onPreBootstrap"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/awest/Documents/designer-dungeons/node_modules/gatsby/dist/internal-plugins/load-babel-config",
+      "packageJson": {
+        "name": "load-babel-config",
+        "description": "Internal plugin that handles loading Babel configs",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "0ae9f266fd068660b96d6fd90b2ea06d",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "a5079d69-ba80-53dc-82f9-0f440bd5448c": {
+      "resolve": "/Users/awest/Documents/designer-dungeons/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "id": "a5079d69-ba80-53dc-82f9-0f440bd5448c",
+      "name": "internal-data-bridge",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "sourceNodes",
+        "onCreatePage"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/awest/Documents/designer-dungeons/node_modules/gatsby/dist/internal-plugins/internal-data-bridge",
+      "packageJson": {
+        "name": "internal-data-bridge",
+        "description": "An internal Gatsby plugin which creates data nodes from internal data",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "502425ed3f21ad22bda3fcb61190833c",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "f795702c-a3b8-5a88-88ee-5d06019d44fa": {
+      "resolve": "/Users/awest/Documents/designer-dungeons/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "id": "f795702c-a3b8-5a88-88ee-5d06019d44fa",
+      "name": "prod-404",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreatePage"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/awest/Documents/designer-dungeons/node_modules/gatsby/dist/internal-plugins/prod-404",
+      "packageJson": {
+        "name": "prod-404",
+        "description": "Internal plugin to detect various flavors of 404 pages and ensure there's a 404.html path created as well to ensure compatability with static hosts",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "44cca2c30b404796460ff1f7415ffa67",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "84dad27f-1d44-51fc-ac56-4db2e5222995": {
+      "resolve": "/Users/awest/Documents/designer-dungeons/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "id": "84dad27f-1d44-51fc-ac56-4db2e5222995",
+      "name": "query-runner",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreatePage"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/awest/Documents/designer-dungeons/node_modules/gatsby/dist/internal-plugins/query-runner",
+      "packageJson": {
+        "name": "query-runner",
+        "description": "Internal plugin for running queries",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "32f5b7a48cf11820209b593bb597bdf7",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "6f4b2fa9-66b5-5205-a03f-140005a2cfe5": {
+      "resolve": "/Users/awest/Documents/designer-dungeons/node_modules/gatsby/dist/internal-plugins/webpack-theme-component-shadowing",
+      "id": "6f4b2fa9-66b5-5205-a03f-140005a2cfe5",
+      "name": "webpack-theme-component-shadowing",
+      "version": "1.0.0",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "onCreateWebpackConfig"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/awest/Documents/designer-dungeons/node_modules/gatsby/dist/internal-plugins/webpack-theme-component-shadowing",
+      "packageJson": {
+        "name": "webpack-theme-component-shadowing",
+        "description": "An internal Gatsby plugin which handles configuring webpack to ensure theme components fall back from the user's site to theme modules.",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Chris Biscardi <chris@christopherbiscardi.com>",
+        "license": "MIT",
+        "dependencies": [],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "55bf7103f9e570433db23b396c678d6b",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "7374ebf2-d961-52ee-92a2-c25e7cb387a9": {
+      "resolve": "/Users/awest/Documents/designer-dungeons",
+      "id": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "name": "default-site-plugin",
+      "version": "b40589cb587dbc3bf4a9402654953a70",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "createPages"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/awest/Documents/designer-dungeons",
+      "packageJson": {
+        "name": "designer-dungeons-blog",
+        "description": "",
+        "version": "1.0.0",
+        "main": "index.js",
+        "author": "Designer Dungeons",
+        "dependencies": [
+          {
+            "name": "@babel/register",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@fortawesome/react-fontawesome",
+            "version": "^0.1.4"
+          },
+          {
+            "name": "gatsby",
+            "version": "^2.0.76"
+          },
+          {
+            "name": "react",
+            "version": "^16.6.3"
+          },
+          {
+            "name": "react-dom",
+            "version": "^16.6.3"
+          },
+          {
+            "name": "react-markdown",
+            "version": "^4.0.6"
+          }
+        ],
+        "devDependencies": [],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "d42cf4a12d09516bed59f6a6758746c0",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "734d5793-eec6-51be-bfe8-f7dd77976868": {
+      "resolve": "/Users/awest/Documents/designer-dungeons/node_modules/gatsby-plugin-page-creator",
+      "id": "734d5793-eec6-51be-bfe8-f7dd77976868",
+      "name": "gatsby-plugin-page-creator",
+      "version": "2.0.8",
+      "pluginOptions": {
+        "plugins": [],
+        "path": "/Users/awest/Documents/designer-dungeons/src/pages",
+        "pathCheck": false
+      },
+      "nodeAPIs": [
+        "createPagesStatefully"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/awest/Documents/designer-dungeons/node_modules/gatsby-plugin-page-creator",
+      "packageJson": {
+        "name": "gatsby-plugin-page-creator",
+        "description": "Gatsby plugin that automatically creates pages from React components in specified directories",
+        "version": "2.0.8",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "@babel/runtime",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "chokidar",
+            "version": "^2.1.2"
+          },
+          {
+            "name": "fs-exists-cached",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "glob",
+            "version": "^7.1.1"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.10"
+          },
+          {
+            "name": "micromatch",
+            "version": "^3.1.10"
+          },
+          {
+            "name": "parse-filepath",
+            "version": "^1.0.1"
+          },
+          {
+            "name": "slash",
+            "version": "^1.0.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "@babel/cli",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "@babel/core",
+            "version": "^7.0.0"
+          },
+          {
+            "name": "babel-preset-gatsby-package",
+            "version": "^0.1.3"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^2.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "53e5116731f60c725b3496bcb8a6183f",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Site": {
+      "siteMetadata": {},
+      "port": "8000",
+      "host": "localhost",
+      "pathPrefix": "/blog",
+      "buildTime": "2019-02-25T13:48:50.982Z",
+      "id": "Site",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "contentDigest": "4499b4a2673fbe7438a75b43b6559997",
+        "type": "Site",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /": {
+      "jsonName": "index",
+      "internalComponentName": "ComponentIndex",
+      "path": "/",
+      "component": "/Users/awest/Documents/designer-dungeons/src/templates/Home.jsx",
+      "componentChunkName": "component---src-templates-home-jsx",
+      "context": {
+        "posts": [
+          {
+            "name": "World Building with Great Old Ones",
+            "path": "wb_old_ones",
+            "url": "oldonesa.md",
+            "headlineImage": "http://1.bp.blogspot.com/_xeOzo0Axgj0/TPxd8AHkkYI/AAAAAAAABww/GLj3zu2H_b0/s1600/img-hooded_tentacle.jpg",
+            "cardImage": "http://1.bp.blogspot.com/_xeOzo0Axgj0/TPxd8AHkkYI/AAAAAAAABww/GLj3zu2H_b0/s1600/img-hooded_tentacle.jpg",
+            "categoryTitle": "Domains and Demigods",
+            "category": "domains_demigods",
+            "snipit": "Nobody believes me, but I've deciphered the runes. The comet is about to let me uncover its secrets. Whatever creature  waits within will make me famous. My excavation teams will regret abandoning me on the cusp of greatness. I can hear its voice. I know it's hear. I hear you. I'm coming.",
+            "icon": "/static/icons/005-museum.png",
+            "date": "2018-11-02T17:35:32.000Z"
+          },
+          {
+            "name": "Building a Warlock Patron Part 1",
+            "path": "build_patron_1",
+            "url": "BBWP.md",
+            "headlineImage": "https://i.pinimg.com/originals/89/99/ce/8999ce8a21742d46e495c4e90c9605ce.jpg",
+            "cardImage": "https://i.pinimg.com/originals/89/99/ce/8999ce8a21742d46e495c4e90c9605ce.jpg",
+            "categoryTitle": "Brew Bits",
+            "category": "brew_bits",
+            "snipit": "The slime-crusted walls and occult scrawling would shake any average adventurer but not I! The secret of their strange powers must lie somewhere in these lightless tunnels. No matter how many times I slay them, they always seem to reform with their blank gelatinous faces and amorphous phisiology. All I know is that when I uncover the magical nature and chemistry behind this patron I will be revered for years to-\" - Kalimor Kalimorious, wizard extraordinaire, as he stumbled into a transparent gelatinous cube.",
+            "icon": "/static/icons/001-flasks.png",
+            "date": "2018-11-02T09:35:33.000Z"
+          },
+          {
+            "name": "Be a Better: Bladelock",
+            "path": "bab_bladelock",
+            "url": "bladelock.md",
+            "headlineImage": "https://i.4pcdn.org/tg/1445748953900.jpg",
+            "cardImage": "https://i.4pcdn.org/tg/1445748953900.jpg",
+            "categoryTitle": "Be a Better",
+            "category": "be_a_better",
+            "snipit": "She approaches the ambassador with a bouquet of flowers. As he reaches for the roses, smiling and laughing, a dagger wreathed in flames with a demonic eye in the handle appears from thin air in her off-hand. The ambassador didn’t have time to gasp before his throat was slit open, and the jester vanished into thin air. ",
+            "icon": "/static/icons/003-objective.png",
+            "date": "2018-11-02T09:35:32.000Z"
+          },
+          {
+            "name": "Long Rest Spell Invocations",
+            "path": "long_rest_invocations",
+            "url": "lrinvocations.md",
+            "headlineImage": "https://i0.wp.com/nerdarchy.com/wp-content/uploads/2018/06/warlock-spell.jpg?resize=1024%2C705&ssl=1",
+            "cardImage": "https://i0.wp.com/nerdarchy.com/wp-content/uploads/2018/06/warlock-spell.jpg?resize=1024%2C705&ssl=1",
+            "categoryTitle": "Hot Fix",
+            "category": "hot_fix",
+            "snipit": "A blonde halfling darts around the corner, nimbly avoiding the sentry's notice. With a quick whisper to his fey patron, magical luck seeps out of him as an offering and in return fuels is magic. After a breif moment, the sentry yelps and leaps from his chair, darting towards the nearest bathroom. Gibby can feel his own luck being pressed, but he'll take anothers misfortune at the moment to progress towards the soon to be ill-gotten gains.",
+            "icon": "/static/icons/002-gears.png",
+            "date": "2018-11-01T09:35:32.000Z"
+          }
+        ]
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "/Users/awest/Documents/designer-dungeons/src/templates/Home.jsx",
+      "id": "SitePage /",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "e4726ba60070417e41436f39e5d17dbb",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /brew_bits": {
+      "jsonName": "brew-bits-e8f",
+      "internalComponentName": "ComponentBrewBits",
+      "path": "/brew_bits",
+      "component": "/Users/awest/Documents/designer-dungeons/src/templates/Category.jsx",
+      "componentChunkName": "component---src-templates-category-jsx",
+      "context": {
+        "posts": [
+          {
+            "name": "Building a Warlock Patron Part 1",
+            "path": "build_patron_1",
+            "url": "BBWP.md",
+            "headlineImage": "https://i.pinimg.com/originals/89/99/ce/8999ce8a21742d46e495c4e90c9605ce.jpg",
+            "cardImage": "https://i.pinimg.com/originals/89/99/ce/8999ce8a21742d46e495c4e90c9605ce.jpg",
+            "categoryTitle": "Brew Bits",
+            "category": "brew_bits",
+            "snipit": "The slime-crusted walls and occult scrawling would shake any average adventurer but not I! The secret of their strange powers must lie somewhere in these lightless tunnels. No matter how many times I slay them, they always seem to reform with their blank gelatinous faces and amorphous phisiology. All I know is that when I uncover the magical nature and chemistry behind this patron I will be revered for years to-\" - Kalimor Kalimorious, wizard extraordinaire, as he stumbled into a transparent gelatinous cube.",
+            "icon": "/static/icons/001-flasks.png",
+            "date": "2018-11-02T09:35:33.000Z"
+          }
+        ],
+        "category": {
+          "id": "brew_bits",
+          "title": "Brew Bits",
+          "path": "brew_bits",
+          "icon": "/static/icons/001-flasks.png"
+        }
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "/Users/awest/Documents/designer-dungeons/src/templates/Category.jsx",
+      "id": "SitePage /brew_bits",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "52d461a4927890f53e9540909d92ad2d",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /be_a_better": {
+      "jsonName": "be-a-better-88c",
+      "internalComponentName": "ComponentBeABetter",
+      "path": "/be_a_better",
+      "component": "/Users/awest/Documents/designer-dungeons/src/templates/Category.jsx",
+      "componentChunkName": "component---src-templates-category-jsx",
+      "context": {
+        "posts": [
+          {
+            "name": "Be a Better: Bladelock",
+            "path": "bab_bladelock",
+            "url": "bladelock.md",
+            "headlineImage": "https://i.4pcdn.org/tg/1445748953900.jpg",
+            "cardImage": "https://i.4pcdn.org/tg/1445748953900.jpg",
+            "categoryTitle": "Be a Better",
+            "category": "be_a_better",
+            "snipit": "She approaches the ambassador with a bouquet of flowers. As he reaches for the roses, smiling and laughing, a dagger wreathed in flames with a demonic eye in the handle appears from thin air in her off-hand. The ambassador didn’t have time to gasp before his throat was slit open, and the jester vanished into thin air. ",
+            "icon": "/static/icons/003-objective.png",
+            "date": "2018-11-02T09:35:32.000Z"
+          }
+        ],
+        "category": {
+          "id": "be_a_better",
+          "title": "Be a Better",
+          "path": "be_a_better",
+          "icon": "/static/icons/003-objective.png"
+        }
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "/Users/awest/Documents/designer-dungeons/src/templates/Category.jsx",
+      "id": "SitePage /be_a_better",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "26c14c784df3608490fb22d5cb78f95b",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /domains_demigods": {
+      "jsonName": "domains-demigods-4ed",
+      "internalComponentName": "ComponentDomainsDemigods",
+      "path": "/domains_demigods",
+      "component": "/Users/awest/Documents/designer-dungeons/src/templates/Category.jsx",
+      "componentChunkName": "component---src-templates-category-jsx",
+      "context": {
+        "posts": [
+          {
+            "name": "World Building with Great Old Ones",
+            "path": "wb_old_ones",
+            "url": "oldonesa.md",
+            "headlineImage": "http://1.bp.blogspot.com/_xeOzo0Axgj0/TPxd8AHkkYI/AAAAAAAABww/GLj3zu2H_b0/s1600/img-hooded_tentacle.jpg",
+            "cardImage": "http://1.bp.blogspot.com/_xeOzo0Axgj0/TPxd8AHkkYI/AAAAAAAABww/GLj3zu2H_b0/s1600/img-hooded_tentacle.jpg",
+            "categoryTitle": "Domains and Demigods",
+            "category": "domains_demigods",
+            "snipit": "Nobody believes me, but I've deciphered the runes. The comet is about to let me uncover its secrets. Whatever creature  waits within will make me famous. My excavation teams will regret abandoning me on the cusp of greatness. I can hear its voice. I know it's hear. I hear you. I'm coming.",
+            "icon": "/static/icons/005-museum.png",
+            "date": "2018-11-02T17:35:32.000Z"
+          }
+        ],
+        "category": {
+          "id": "domains_demigods",
+          "title": "Domains and Demigods",
+          "path": "domains_demigods",
+          "icon": "/static/icons/005-museum.png"
+        }
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "/Users/awest/Documents/designer-dungeons/src/templates/Category.jsx",
+      "id": "SitePage /domains_demigods",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "4d8225d504eba8ea1a0cf56673ac9d46",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /hot_fix": {
+      "jsonName": "hot-fix-487",
+      "internalComponentName": "ComponentHotFix",
+      "path": "/hot_fix",
+      "component": "/Users/awest/Documents/designer-dungeons/src/templates/Category.jsx",
+      "componentChunkName": "component---src-templates-category-jsx",
+      "context": {
+        "posts": [
+          {
+            "name": "Long Rest Spell Invocations",
+            "path": "long_rest_invocations",
+            "url": "lrinvocations.md",
+            "headlineImage": "https://i0.wp.com/nerdarchy.com/wp-content/uploads/2018/06/warlock-spell.jpg?resize=1024%2C705&ssl=1",
+            "cardImage": "https://i0.wp.com/nerdarchy.com/wp-content/uploads/2018/06/warlock-spell.jpg?resize=1024%2C705&ssl=1",
+            "categoryTitle": "Hot Fix",
+            "category": "hot_fix",
+            "snipit": "A blonde halfling darts around the corner, nimbly avoiding the sentry's notice. With a quick whisper to his fey patron, magical luck seeps out of him as an offering and in return fuels is magic. After a breif moment, the sentry yelps and leaps from his chair, darting towards the nearest bathroom. Gibby can feel his own luck being pressed, but he'll take anothers misfortune at the moment to progress towards the soon to be ill-gotten gains.",
+            "icon": "/static/icons/002-gears.png",
+            "date": "2018-11-01T09:35:32.000Z"
+          }
+        ],
+        "category": {
+          "id": "hot_fix",
+          "title": "Hot Fix",
+          "path": "hot_fix",
+          "icon": "/static/icons/002-gears.png"
+        }
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "/Users/awest/Documents/designer-dungeons/src/templates/Category.jsx",
+      "id": "SitePage /hot_fix",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "a398dba8a62764f6c685d5954e667a28",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /domains_demigods/wb_old_ones": {
+      "jsonName": "domains-demigods-wb-old-ones-368",
+      "internalComponentName": "ComponentDomainsDemigodsWbOldOnes",
+      "path": "/domains_demigods/wb_old_ones",
+      "component": "/Users/awest/Documents/designer-dungeons/src/templates/posts/Post.jsx",
+      "componentChunkName": "component---src-templates-posts-post-jsx",
+      "context": {
+        "post": {
+          "name": "World Building with Great Old Ones",
+          "path": "wb_old_ones",
+          "url": "oldonesa.md",
+          "headlineImage": "http://1.bp.blogspot.com/_xeOzo0Axgj0/TPxd8AHkkYI/AAAAAAAABww/GLj3zu2H_b0/s1600/img-hooded_tentacle.jpg",
+          "cardImage": "http://1.bp.blogspot.com/_xeOzo0Axgj0/TPxd8AHkkYI/AAAAAAAABww/GLj3zu2H_b0/s1600/img-hooded_tentacle.jpg",
+          "categoryTitle": "Domains and Demigods",
+          "category": "domains_demigods",
+          "snipit": "Nobody believes me, but I've deciphered the runes. The comet is about to let me uncover its secrets. Whatever creature  waits within will make me famous. My excavation teams will regret abandoning me on the cusp of greatness. I can hear its voice. I know it's hear. I hear you. I'm coming.",
+          "icon": "/static/icons/005-museum.png",
+          "date": "2018-11-02T17:35:32.000Z"
+        }
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "/Users/awest/Documents/designer-dungeons/src/templates/posts/Post.jsx",
+      "id": "SitePage /domains_demigods/wb_old_ones",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "7ad82539e65d2764c80ad999ed367518",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /brew_bits/build_patron_1": {
+      "jsonName": "brew-bits-build-patron-1-532",
+      "internalComponentName": "ComponentBrewBitsBuildPatron1",
+      "path": "/brew_bits/build_patron_1",
+      "component": "/Users/awest/Documents/designer-dungeons/src/templates/posts/Post.jsx",
+      "componentChunkName": "component---src-templates-posts-post-jsx",
+      "context": {
+        "post": {
+          "name": "Building a Warlock Patron Part 1",
+          "path": "build_patron_1",
+          "url": "BBWP.md",
+          "headlineImage": "https://i.pinimg.com/originals/89/99/ce/8999ce8a21742d46e495c4e90c9605ce.jpg",
+          "cardImage": "https://i.pinimg.com/originals/89/99/ce/8999ce8a21742d46e495c4e90c9605ce.jpg",
+          "categoryTitle": "Brew Bits",
+          "category": "brew_bits",
+          "snipit": "The slime-crusted walls and occult scrawling would shake any average adventurer but not I! The secret of their strange powers must lie somewhere in these lightless tunnels. No matter how many times I slay them, they always seem to reform with their blank gelatinous faces and amorphous phisiology. All I know is that when I uncover the magical nature and chemistry behind this patron I will be revered for years to-\" - Kalimor Kalimorious, wizard extraordinaire, as he stumbled into a transparent gelatinous cube.",
+          "icon": "/static/icons/001-flasks.png",
+          "date": "2018-11-02T09:35:33.000Z"
+        }
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "/Users/awest/Documents/designer-dungeons/src/templates/posts/Post.jsx",
+      "id": "SitePage /brew_bits/build_patron_1",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "2f3c737d4f64cb52f77e74417d833f2f",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /be_a_better/bab_bladelock": {
+      "jsonName": "be-a-better-bab-bladelock-714",
+      "internalComponentName": "ComponentBeABetterBabBladelock",
+      "path": "/be_a_better/bab_bladelock",
+      "component": "/Users/awest/Documents/designer-dungeons/src/templates/posts/Post.jsx",
+      "componentChunkName": "component---src-templates-posts-post-jsx",
+      "context": {
+        "post": {
+          "name": "Be a Better: Bladelock",
+          "path": "bab_bladelock",
+          "url": "bladelock.md",
+          "headlineImage": "https://i.4pcdn.org/tg/1445748953900.jpg",
+          "cardImage": "https://i.4pcdn.org/tg/1445748953900.jpg",
+          "categoryTitle": "Be a Better",
+          "category": "be_a_better",
+          "snipit": "She approaches the ambassador with a bouquet of flowers. As he reaches for the roses, smiling and laughing, a dagger wreathed in flames with a demonic eye in the handle appears from thin air in her off-hand. The ambassador didn’t have time to gasp before his throat was slit open, and the jester vanished into thin air. ",
+          "icon": "/static/icons/003-objective.png",
+          "date": "2018-11-02T09:35:32.000Z"
+        }
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "/Users/awest/Documents/designer-dungeons/src/templates/posts/Post.jsx",
+      "id": "SitePage /be_a_better/bab_bladelock",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "95171133621858c47c1306a7698ab7de",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /hot_fix/long_rest_invocations": {
+      "jsonName": "hot-fix-long-rest-invocations-155",
+      "internalComponentName": "ComponentHotFixLongRestInvocations",
+      "path": "/hot_fix/long_rest_invocations",
+      "component": "/Users/awest/Documents/designer-dungeons/src/templates/posts/Post.jsx",
+      "componentChunkName": "component---src-templates-posts-post-jsx",
+      "context": {
+        "post": {
+          "name": "Long Rest Spell Invocations",
+          "path": "long_rest_invocations",
+          "url": "lrinvocations.md",
+          "headlineImage": "https://i0.wp.com/nerdarchy.com/wp-content/uploads/2018/06/warlock-spell.jpg?resize=1024%2C705&ssl=1",
+          "cardImage": "https://i0.wp.com/nerdarchy.com/wp-content/uploads/2018/06/warlock-spell.jpg?resize=1024%2C705&ssl=1",
+          "categoryTitle": "Hot Fix",
+          "category": "hot_fix",
+          "snipit": "A blonde halfling darts around the corner, nimbly avoiding the sentry's notice. With a quick whisper to his fey patron, magical luck seeps out of him as an offering and in return fuels is magic. After a breif moment, the sentry yelps and leaps from his chair, darting towards the nearest bathroom. Gibby can feel his own luck being pressed, but he'll take anothers misfortune at the moment to progress towards the soon to be ill-gotten gains.",
+          "icon": "/static/icons/002-gears.png",
+          "date": "2018-11-01T09:35:32.000Z"
+        }
+      },
+      "pluginCreator___NODE": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "pluginCreatorId": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+      "componentPath": "/Users/awest/Documents/designer-dungeons/src/templates/posts/Post.jsx",
+      "id": "SitePage /hot_fix/long_rest_invocations",
+      "parent": null,
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "6c058d0c1ee8206b06f3b09e11c7f98d",
+        "description": "7374ebf2-d961-52ee-92a2-c25e7cb387a9",
+        "owner": "internal-data-bridge"
+      }
+    }
+  },
+  "status": {
+    "plugins": {},
+    "PLUGINS_HASH": "c2271f937eb428e1a9f735a73c702178"
+  },
+  "componentDataDependencies": {
+    "nodes": {},
+    "connections": {}
+  },
+  "jsonDataPaths": {
+    "dev-404-page-5f9": "920/path---dev-404-page-5-f-9-fab-NZuapzHg3X9TaN1iIixfv1W23E",
+    "sq--src-components-seo-js": 1025518380,
+    "sq--src-components-layout-js": 755544856,
+    "404-22d": "44/path---404-22-d-bce-NZuapzHg3X9TaN1iIixfv1W23E",
+    "index": "362/path---index-6a9-R8VhV3FPevYy9vuZLzrVS1Ac",
+    "page-2-fbc": "53/path---page-2-fbc-5a8-NZuapzHg3X9TaN1iIixfv1W23E",
+    "404-html-516": "164/path---404-html-516-62a-NZuapzHg3X9TaN1iIixfv1W23E",
+    "sq--src-components-image-js": 2011440971,
+    "pokemon-pikachu-ability-lightning-rod-85a": "658/path---pokemon-pikachu-ability-lightning-rod-85-a-07b-34hX19WYQRHGU41wtMbjjSubM",
+    "pokemon-pikachu-ability-static-f1e": "886/path---pokemon-pikachu-ability-static-f-1-e-5fe-suLEnfhiKyq1pEKUIU04GKNeSDo",
+    "pokemon-pikachu-ef1": "482/path---pokemon-pikachu-ef-1-321-Ch5K5KjKlSr5g22cXnhhRnFFm8",
+    "pokemon-charizard-ability-solar-power-a75": "634/path---pokemon-charizard-ability-solar-power-a-75-76f-WE7cyhtxWK22K2mZt50QC7fX2c",
+    "pokemon-charizard-699": "407/path---pokemon-charizard-699-20e-9NpYKwrbrjBp4hjRmeQGwJnxmNI",
+    "pokemon-charizard-ability-blaze-08d": "367/path---pokemon-charizard-ability-blaze-08-d-0a8-q8GVezl5LAH1PU7NGHNHIxlXk",
+    "pokemon-squirtle-eb3": "832/path---pokemon-squirtle-eb-3-81f-d1kHvpa7pP5FgM8NBXuUx80F0XE",
+    "pokemon-squirtle-ability-torrent-873": "544/path---pokemon-squirtle-ability-torrent-873-7d7-QrL2sfFQ3HyB0oEEtPUIGAEW2Fo",
+    "pokemon-squirtle-ability-rain-dish-f42": "699/path---pokemon-squirtle-ability-rain-dish-f-42-a88-0vxd6BtL3PM4ua0ucSw8xs9fKk",
+    "blog-c06": "357/path---blog-c-06-a65-dtNnz1KuHjpytszGCbyCdYhCZc",
+    "pokemon-long-rest-spell-invocations-a53": "711/path---pokemon-long-rest-spell-invocations-a-53-7f6-mcIvhijkoOjGCUcRx2NmBzDRnE",
+    "hot-fix-hot-fixlong-rest-invocations-756": "482/path---hot-fix-hot-fixlong-rest-invocations-756-2e3-dHwyQhePcbaO1nhjL0pxyYLP5s",
+    "domains-and-demigods-domains-demigods-wb-old-ones-711": "809/path---domains-and-demigods-domains-demigods-wb-old-ones-711-e40-BOfV0z1PT6rgASJ8zEAkDno0qro",
+    "brew-bits-brew-bitsbuild-patron-1-fa2": "780/path---brew-bits-brew-bitsbuild-patron-1-fa-2-ced-1afGG3Js2iuerqLoLRSFL7HyNaY",
+    "be-a-better-be-a-betterbab-bladelock-a05": "314/path---be-a-better-be-a-betterbab-bladelock-a-05-653-AgCJJICYsGmkMOPUrQDUlL523V0",
+    "hot-fix-hot-fixlong-rest-invocations-113": "510/path---hot-fix-hot-fixlong-rest-invocations-113-181-sP01JjMFnFVMEvnNRuxU6s6FHg",
+    "brew-bits-brew-bitsbuild-patron-1-463": "326/path---brew-bits-brew-bitsbuild-patron-1-463-f5c-m1mIuhVTGlYwYU8Yl1ZARowVqu0",
+    "domains-and-demigods-domains-demigods-wb-old-ones-d62": "983/path---domains-and-demigods-domains-demigods-wb-old-ones-d-62-7b4-UseFPswPVxxJ2URK28FvAoFld2s",
+    "be-a-better-be-a-betterbab-bladelock-f9e": "191/path---be-a-better-be-a-betterbab-bladelock-f-9-e-bb2-vLcPAvjBat2lrvvfznPD8DYnkE",
+    "domains-demigods-domains-demigods-wb-old-ones-d4b": "22/path---domains-demigods-domains-demigods-wb-old-ones-d-4-b-097-dihw7X8iz3qTtcjoIzYF9NA4Y",
+    "hot-fix-hot-fixlong-rest-invocations-07a": "508/path---hot-fix-hot-fixlong-rest-invocations-07-a-257-yzlriDBtYIDlTz5GtwfH0rVlA",
+    "brew-bits-brew-bitsbuild-patron-1-427": "200/path---brew-bits-brew-bitsbuild-patron-1-427-036-sh9SaOEFoknqO6lntJ7YJ7sjw",
+    "be-a-better-be-a-betterbab-bladelock-0ef": "37/path---be-a-better-be-a-betterbab-bladelock-0-ef-0b6-hcy8LVryE2XYbWecsY6cHjkSjE",
+    "hot-fix-long-rest-invocations-6ab": "707/path---hot-fix-long-rest-invocations-6-ab-5a9-ykL6NshYEjGqJxUmr5VFlt4TU",
+    "domains-demigods-wb-old-ones-cbd": "895/path---domains-demigods-wb-old-ones-cbd-972-s7Ia6Qn3O39WC180B12wSNcE7xM",
+    "brew-bits-build-patron-1-0d8": "725/path---brew-bits-build-patron-1-0-d-8-501-ImOtcIg6aEHcSmonLzkfFGU5uxY",
+    "be-a-better-bab-bladelock-c5d": "504/path---be-a-better-bab-bladelock-c-5-d-b2f-C7nEa2QSlmRZROqCrS15x98FWTc",
+    "domains-demigods-wb-old-ones-2d7": "353/path---domains-demigods-wb-old-ones-2-d-7-806-g8J9c7epe6ZWVtlQgm4x88zZIw8",
+    "hot-fix-long-rest-invocations-155": "80/path---hot-fix-long-rest-invocations-155-f7f-ljBX1qyGnMPNymiCFJTJDz0JkI",
+    "brew-bits-build-patron-1-532": "105/path---brew-bits-build-patron-1-532-64b-uKlRr9x5XJVSDM9DokKgYhw",
+    "be-a-better-bab-bladelock-714": "475/path---be-a-better-bab-bladelock-714-bff-C7nEa2QSlmRZROqCrS15x98FWTc",
+    "domains-demigods-wb-old-ones-368": "125/path---domains-demigods-wb-old-ones-368-d04-whyjoIgNr2NwS67APKH5yYTTmUA",
+    "domains-demigods-4ed": "294/path---domains-demigods-4-ed-542-gVoDZH1JxyxTRgwVAzX8jQ0TIwc",
+    "be-a-better-88c": "86/path---be-a-better-88-c-f2c-QuSkcGNneHORYbIrBTYEGKgfkI",
+    "brew-bits-e8f": "835/path---brew-bits-e-8-f-c64-e2FMULWPV2uXhKd03sPk342E",
+    "hot-fix-487": "685/path---hot-fix-487-4da-4bygAbyzufSL77JeKz585ryWSOE"
+  },
+  "components": {
+    "/Users/awest/Documents/designer-dungeons/src/templates/Home.jsx": {
+      "query": "",
+      "componentPath": "/Users/awest/Documents/designer-dungeons/src/templates/Home.jsx"
+    },
+    "/Users/awest/Documents/designer-dungeons/src/templates/Category.jsx": {
+      "query": "",
+      "componentPath": "/Users/awest/Documents/designer-dungeons/src/templates/Category.jsx"
+    },
+    "/Users/awest/Documents/designer-dungeons/src/templates/posts/Post.jsx": {
+      "query": "",
+      "componentPath": "/Users/awest/Documents/designer-dungeons/src/templates/posts/Post.jsx"
+    },
+    "/Users/awest/Documents/designer-dungeons/.cache/dev-404-page.js": {
+      "query": "",
+      "componentPath": "/Users/awest/Documents/designer-dungeons/.cache/dev-404-page.js"
+    }
+  },
+  "staticQueryComponents": {}
+}
